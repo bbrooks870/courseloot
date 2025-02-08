@@ -3,7 +3,7 @@
 import { Suspense } from "react"
 import { useParams, useSearchParams } from "next/navigation"
 import { videos } from "@/server/videos"
-import { Card, CardContent } from "@/components/ui/card"
+import { PDFCard } from "@/components/pdf-card"
 import Link from "next/link"
 import { ChevronRight, Home } from "lucide-react"
 import { SEO } from "@/components/seo"
@@ -67,16 +67,16 @@ function SubCategoryPageContent() {
 
         <h1 className="text-3xl font-bold mb-6">{subcategory}</h1>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 mb-8">
           {paginatedPDFs.map((pdf) => (
-            <Link key={pdf.Name} href={`/pdf/${encodeURIComponent(pdf.Name)}`}>
-              <Card className="h-full hover:shadow-lg transition-shadow duration-300">
-                <CardContent className="p-4">
-                  <h2 className="text-lg font-semibold mb-2">{pdf.Name}</h2>
-                  <p className="text-sm text-gray-600">Size: {pdf.Size}</p>
-                </CardContent>
-              </Card>
-            </Link>
+            <PDFCard
+              key={pdf.Link}
+              title={pdf.Name}
+              fileId={pdf.Link.split("id=")[1]}
+              category={pdf.Categories}
+              subcategory1={pdf.SubCategories1}
+              subcategory2={pdf.SubCategories2}
+            />
           ))}
         </div>
 
