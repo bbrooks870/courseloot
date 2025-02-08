@@ -14,28 +14,30 @@ interface SEOProps {
 }
 
 export function SEO({ 
-  title = "Vedic Pustak – Explore Ancient Hindu Scriptures & Sacred Texts",
-  description = "Discover a vast collection of ancient Hindu scriptures, Vedas, Upanishads, Puranas, and sacred texts. Read and explore the wisdom of Sanatan Dharma.",
-  ogDescription = "Read sacred Hindu texts like Vedas, Upanishads, and Puranas online. Discover the divine wisdom of Sanatan Dharma at VedicPustak.com.",
-  twitterDescription = "Read sacred Hindu texts like Vedas, Upanishads, and Puranas online. Discover the divine wisdom of Sanatan Dharma at VedicPustak.com.",
-  canonicalUrl = "https://vedicpustak.com",
+  title = "FreeCodingPDF – Download Free Programming PDFs & eBooks",
+  description = "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  ogDescription = "Access thousands of free programming PDFs and coding eBooks. Master programming with comprehensive developer guides and tutorials.",
+  twitterDescription = "Download free programming PDFs and coding eBooks. Learn Python, JavaScript, Java, C++, and more at FreeCodingPDF.com",
+  canonicalUrl = "https://freecodingpdf.live",
   keywords = [
-    "Vedic Pustak",
-    "Hindu Scriptures",
-    "Vedas",
-    "Upanishads",
-    "Puranas",
-    "Sanatan Dharma",
-    "Bhagavad Gita",
-    "Ramayana",
-    "Mahabharata",
-    "Ancient Hindu Texts",
-    "Sacred Books"
+    "free coding pdfs",
+    "programming ebooks",
+    "download programming books",
+    "learn coding online",
+    "free programming resources",
+    "Python",
+    "Java",
+    "JavaScript",
+    "C++",
+    "AI",
+    "Web Development",
+    "Machine Learning",
+    "Data Science"
   ],
-  ogImage = "https://vedicpustak.com/images/meta/og-image.jpg",
-  twitterImage = "https://vedicpustak.com/images/meta/twitter-image.jpg",
+  ogImage = "https://freecodingpdf.live/preview-image.jpg",
+  twitterImage = "https://freecodingpdf.live/preview-image.jpg",
   type = "website",
-  author = "VedicPustak.com"
+  author = "FreeCodingPDF.live"
 }: SEOProps) {
   return (
     <Head>

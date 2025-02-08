@@ -29,22 +29,22 @@ function SubCategoryPageContent() {
   return (
     <>
       <SEO 
-        title={`${subcategory} - ${category} | Hindu Scriptures | Vedic Pustak`}
-        description={`Read and download Hindu scriptures from ${subcategory} in ${category}. Access authentic Vedic literature at VedicPustak.com.`}
-        ogDescription={`Explore Hindu scriptures from ${subcategory} in ${category}. Access authentic texts at VedicPustak.com.`}
-        twitterDescription={`Browse Hindu scriptures in ${subcategory} from ${category}. Read and download sacred texts at VedicPustak.com.`}
-        canonicalUrl={`https://vedicpustak.com/category/${encodeURIComponent(category)}/${encodeURIComponent(subcategory)}`}
+        title={`${subcategory} - ${category} | Programming PDFs | FreeCodingPDF`}
+        description={`Read and download programming PDFs from ${subcategory} in ${category}. Access comprehensive coding resources at FreeCodingPDF.live.`}
+        ogDescription={`Explore programming PDFs from ${subcategory} in ${category}. Access free resources at FreeCodingPDF.live.`}
+        twitterDescription={`Browse programming PDFs in ${subcategory} from ${category}. Read and download coding resources at FreeCodingPDF.live.`}
+        canonicalUrl={`https://freecodingpdf.live/category/${encodeURIComponent(category)}/${encodeURIComponent(subcategory)}`}
         keywords={[
           category,
           subcategory,
-          "Hindu Scriptures",
-          "Sacred Texts",
-          "Vedic Literature",
-          "Religious Texts",
-          "Spiritual Books",
-          "Sanskrit Texts",
-          "Ancient Wisdom",
-          "Hindu Philosophy"
+          "Programming PDFs",
+          "Coding Resources",
+          "FreeCodingPDF",
+          "Development Guides",
+          "Technical Books",
+          "Learning Resources",
+          "Programming Tutorials",
+          "Software Development"
         ]}
       />
       <div className="container mx-auto px-4 py-8">

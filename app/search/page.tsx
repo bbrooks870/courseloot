@@ -14,22 +14,18 @@ function SearchPageContent() {
   return (
     <>
       <SEO 
-        title={`Search Results for "${query}" | Hindu Scriptures | Vedic Pustak`}
-        description={`Search results for "${query}" in our collection of Hindu scriptures and sacred texts. Find and read authentic Vedic literature at VedicPustak.com.`}
-        ogDescription={`Browse search results for "${query}" in our vast collection of Hindu scriptures. Access authentic texts at VedicPustak.com.`}
-        twitterDescription={`Discover Hindu scriptures matching "${query}". Read and download sacred texts at VedicPustak.com.`}
-        canonicalUrl={`https://vedicpustak.com/search?q=${encodeURIComponent(query)}`}
+        title={`Search Results for "${query}" | Programming PDFs | FreeCodingPDF`}
+        description={`Search results for "${query}" in our collection of programming PDFs and eBooks. Find and read coding resources at FreeCodingPDF.live.`}
+        ogDescription={`Browse search results for "${query}" in our vast collection of programming PDFs. Access free resources at FreeCodingPDF.live.`}
+        twitterDescription={`Discover programming PDFs matching "${query}". Read and download coding resources at FreeCodingPDF.live.`}
+        canonicalUrl={`https://freecodingpdf.live/search?q=${encodeURIComponent(query)}`}
         keywords={[
           query,
-          "Hindu Scriptures",
-          "Sacred Texts",
-          "Vedic Literature",
-          "Religious Texts",
-          "Spiritual Books",
-          "Sanskrit Texts",
-          "Ancient Wisdom",
-          "Hindu Philosophy",
-          "Vedic Search"
+          "Programming PDFs",
+          "eBooks",
+          "Coding Resources",
+          "FreeCodingPDF",
+          "Search"
         ]}
       />
       <div className="container mx-auto px-4 py-8">

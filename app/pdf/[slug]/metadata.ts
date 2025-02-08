@@ -8,57 +8,57 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   
   if (!pdf) {
     return {
-      title: "PDF Not Found | Vedic Pustak",
-      description: "The requested PDF could not be found."
+      title: "PDF Not Found | FreeCodingPDF",
+      description: "The requested programming PDF could not be found."
     }
   }
 
   const title = pdf.Name.replace('.pdf', '')
   
   return {
-    title: `${title} PDF Free Download | Read Online On Vedic Pustak`,
-    description: `Download ${title} PDF or read online for free. Access this authentic Hindu scripture from the ${pdf.Categories} tradition. Available in Sanskrit with translations.`,
+    title: `${title} PDF Free Download | FreeCodingPDF`,
+    description: `Download ${title} PDF or read online for free. Access this comprehensive programming guide from the ${pdf.Categories} category. Perfect for learning and reference.`,
     keywords: [
       title,
       pdf.Categories,
       "Free PDF Download",
-      "Hindu Scripture",
-      "Sacred Text",
+      "Programming Guide",
+      "Coding Tutorial",
       "Read Online",
-      "Sanskrit Text",
-      "Religious Literature",
-      "Spiritual Text",
-      "Ancient Wisdom"
+      "Technical Book",
+      "Development Resource",
+      "Programming Tutorial",
+      "Learn to Code"
     ],
     openGraph: {
-      title: `${title} PDF Free Download | Read Online On Vedic Pustak`,
-      description: `Read ${title} online or download PDF for free. Explore this sacred Hindu text from the ${pdf.Categories} tradition at VedicPustak.com.`,
-      url: `https://vedicpustak.com/pdf/${params.slug}`,
+      title: `${title} PDF Free Download | FreeCodingPDF`,
+      description: `Read ${title} online or download PDF for free. Master programming with this comprehensive guide from the ${pdf.Categories} category at FreeCodingPDF.com.`,
+      url: `https://freecodingpdf.live/pdf/${params.slug}`,
       type: "article",
       images: [
         {
-          url: "https://vedicpustak.com/images/meta/og-image.jpg",
+          url: "https://freecodingpdf.live/preview-image.jpg",
           width: 1200,
           height: 630,
-          alt: `${title} - Hindu Sacred Text`
+          alt: `${title} - Programming Guide`
         }
       ]
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} PDF Free Download | Read Online On Vedic Pustak`,
-      description: `Access ${title} PDF for free. Read online or download this sacred Hindu scripture at VedicPustak.com.`,
+      title: `${title} PDF Free Download | FreeCodingPDF`,
+      description: `Access ${title} PDF for free. Learn programming with this comprehensive guide at FreeCodingPDF.com.`,
       images: [
         {
-          url: "https://vedicpustak.com/images/meta/twitter-image.jpg",
+          url: "https://freecodingpdf.live/preview-image.jpg",
           width: 1200,
           height: 675,
-          alt: `${title} - Hindu Sacred Text`
+          alt: `${title} - Programming Guide`
         }
       ]
     },
     alternates: {
-      canonical: `https://vedicpustak.com/pdf/${params.slug}`
+      canonical: `https://freecodingpdf.live/pdf/${params.slug}`
     }
   }
 } 

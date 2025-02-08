@@ -100,21 +100,17 @@ function CategoryPageContent() {
   return (
     <>
       <SEO 
-        title={`${category} - Hindu Scriptures | Vedic Pustak`}
-        description={`Read and download Hindu scriptures and sacred texts from the ${category} category. Access authentic Vedic literature at VedicPustak.com.`}
-        ogDescription={`Explore Hindu scriptures from ${category}. Access authentic texts at VedicPustak.com.`}
-        twitterDescription={`Browse Hindu scriptures in ${category}. Read and download sacred texts at VedicPustak.com.`}
-        canonicalUrl={`https://vedicpustak.com/category/${encodeURIComponent(category)}`}
+        title={`${category} - Programming PDFs | FreeCodingPDF`}
+        description={`Read and download programming PDFs and eBooks from the ${category} category. Access comprehensive coding resources at FreeCodingPDF.live.`}
+        ogDescription={`Explore programming PDFs from ${category}. Access free resources at FreeCodingPDF.live.`}
+        twitterDescription={`Browse programming PDFs in ${category}. Read and download coding resources at FreeCodingPDF.live.`}
+        canonicalUrl={`https://freecodingpdf.live/category/${encodeURIComponent(category)}`}
         keywords={[
           category,
-          "Hindu Scriptures",
-          "Sacred Texts",
-          "Vedic Literature",
-          "Religious Texts",
-          "Spiritual Books",
-          "Sanskrit Texts",
-          "Ancient Wisdom",
-          "Hindu Philosophy"
+          "Programming PDFs",
+          "eBooks",
+          "Coding Resources",
+          "FreeCodingPDF.live"
         ]}
       />
       <div className="container mx-auto px-4 py-8">

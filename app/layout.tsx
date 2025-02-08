@@ -1,6 +1,7 @@
 import { Inter } from "next/font/google"
 import "./globals.css"
 import { Header } from "@/components/header"
+import { Footer } from "@/components/footer"
 import { Metadata } from "next"
 import Script from "next/script"
 import { AnalyticsWrapper } from "@/components/analytics-wrapper"
@@ -8,51 +9,131 @@ import { AnalyticsWrapper } from "@/components/analytics-wrapper"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Vedic Pustak – Explore Ancient Hindu Scriptures & Sacred Texts",
-  description: "Discover a vast collection of ancient Hindu scriptures, Vedas, Upanishads, Puranas, and sacred texts. Read and explore the wisdom of Sanatan Dharma.",
-  keywords: ["Hindu Scriptures", "Vedic Texts", "Upanishads", "Puranas", "Sanatan Dharma", "Sanskrit Texts"],
-  authors: [{ name: "VedicPustak.com" }],
+  title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
+  description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  keywords: [
+    "free coding pdfs",
+    "programming ebooks",
+    "download programming books",
+    "learn coding online",
+    "free programming resources",
+    "Python",
+    "Java",
+    "JavaScript",
+    "C++",
+    "AI",
+    "Web Development",
+    "Machine Learning",
+    "Data Science",
+    "Mobile Development",
+    "Cloud Computing"
+  ],
+  authors: [{ name: "FreeCodingPDF.live" }],
+  creator: "FreeCodingPDF.live",
+  publisher: "FreeCodingPDF.live",
+  formatDetection: {
+    email: false,
+    address: false,
+    telephone: false,
+  },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon-16x16.png",
+    apple: "/apple-touch-icon.png",
+  },
+  manifest: "/site.webmanifest",
   openGraph: {
     type: "website",
-    url: "https://vedicpustak.com",
-    title: "Vedic Pustak – Explore Ancient Hindu Scriptures & Sacred Texts",
-    description: "Read sacred Hindu texts like Vedas, Upanishads, and Puranas online. Discover the divine wisdom of Sanatan Dharma at VedicPustak.com.",
-    siteName: "Vedic Pustak",
+    url: "https://freecodingpdf.live",
+    title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
+    description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+    siteName: "FreeCodingPDF",
     images: [
       {
-        url: "https://vedicpustak.com/images/meta/og-image.jpg",
+        url: "https://freecodingpdf.live/preview-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Vedic Pustak - Hindu Sacred Texts Library"
+        alt: "FreeCodingPDF - Programming eBooks Library"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "Vedic Pustak – Explore Ancient Hindu Scriptures & Sacred Texts",
-    description: "Read sacred Hindu texts like Vedas, Upanishads, and Puranas online. Discover the divine wisdom of Sanatan Dharma at VedicPustak.com.",
+    title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
+    description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+    creator: "@freecodingpdf",
     images: [
       {
-        url: "https://vedicpustak.com/images/meta/twitter-image.jpg",
+        url: "https://freecodingpdf.live/preview-image.jpg",
         width: 1200,
         height: 675,
-        alt: "Vedic Pustak - Hindu Sacred Texts Library"
+        alt: "FreeCodingPDF - Programming eBooks Library"
       }
     ]
   },
   robots: {
     index: true,
-    follow: true
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
   alternates: {
-    canonical: "https://vedicpustak.com"
+    canonical: "https://freecodingpdf.live"
+  },
+  verification: {
+    google: "your-google-site-verification",
+    yandex: "your-yandex-verification",
+    yahoo: "your-yahoo-verification",
+    other: {
+      me: ['your-personal-website']
+    },
+  },
+  category: "Technology"
+}
+
+// JSON-LD Schema
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "FreeCodingPDF",
+  url: "https://freecodingpdf.live",
+  description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  image: "https://freecodingpdf.live/preview-image.jpg",
+  publisher: {
+    "@type": "Organization",
+    name: "FreeCodingPDF",
+    logo: {
+      "@type": "ImageObject",
+      url: "https://freecodingpdf.live/logo.png"
+    }
+  },
+  potentialAction: {
+    "@type": "SearchAction",
+    target: {
+      "@type": "EntryPoint",
+      urlTemplate: "https://freecodingpdf.live/search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
   }
 }
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode
+}) {
   return (
     <html lang="en">
       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-3WB4BSNECN"
@@ -63,16 +144,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-
             gtag('config', 'G-3WB4BSNECN');
           `}
         </Script>
       </head>
       <body className={inter.className}>
-        <AnalyticsWrapper>
+        <div className="min-h-screen flex flex-col">
           <Header />
-          {children}
-        </AnalyticsWrapper>
+          <main className="flex-grow">
+            {children}
+          </main>
+          <Footer />
+        </div>
+        <AnalyticsWrapper />
       </body>
     </html>
   )

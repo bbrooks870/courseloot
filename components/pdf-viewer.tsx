@@ -70,77 +70,6 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
     setThumbnailError(true)
   }
 
-  const faqItems = [
-    { 
-      question: `Is ${title} an authentic Hindu scripture?`,
-      answer: `Yes, this text is widely recognized in Vedic and Puranic traditions.`
-    },
-    {
-      question: `What is the size of the ${title} PDF file?`,
-      answer: `The file size is ${size}, optimized for fast downloads.`
-    },
-    { 
-      question: `Can I read ${title} online?`,
-      answer: `Absolutely! We offer a free online version.`
-    },
-    { 
-      question: `What language is ${title} available in?`,
-      answer: `Original Sanskrit with translations in Hindi, English, and more.`
-    },
-    { 
-      question: `Is ${title} historically accurate?`,
-      answer: `It is a sacred Hindu text that blends history with spiritual symbolism.`
-    },
-    { 
-      question: `Is this book available in Sanskrit?`,
-      answer: `Yes, along with English and Hindi translations.`
-    },
-    { 
-      question: `What is the main lesson from ${title}?`,
-      answer: `The book teaches core teachings like Bhakti, Dharma, Moksha, Karma.`
-    },
-    { 
-      question: `What is the essence of ${title}?`,
-      answer: `It teaches non-dualistic philosophy and self-inquiry.`
-    },
-    { 
-      question: `Can beginners read this book?`,
-      answer: `Yes, but guidance from a guru or commentary is recommended.`
-    },
-    { 
-      question: `Where can I download ${title}?`,
-      answer: `You can download it from our website in PDF format.`
-    },
-    { 
-      question: `Is ${title} free to download?`,
-      answer: `Yes, we provide a free copy for reading.`
-    },
-    {
-      question: `Is ${title} available in other formats (ePub, Kindle, etc.)?`,
-      answer: `Currently, we offer the PDF version, but other formats may be available soon.`
-    },
-    {
-      question: `How can I open a PDF file of ${title}?`,
-      answer: `You can use any PDF reader like Adobe Acrobat, Google Chrome, or your phone's built-in viewer.`
-    },
-    {
-      question: `Is ${title} legally available for free?`,
-      answer: `We provide legally authorized downloads. If the book is copyrighted, we only share public domain or permission-based versions.`
-    },
-    { 
-      question: `Can I download ${title} on my mobile?`,
-      answer: `Yes! Our PDF files are mobile-friendly.`
-    },
-    {
-      question: `Do I need to sign up to download ${title}?`,
-      answer: `No registration required! You can download it instantly.`
-    },
-    {
-      question: `Can I share ${title} with others?`,
-      answer: `You can share the download link, but redistributing copyrighted content without permission is not allowed.`
-    }
-  ]
-
   useEffect(() => {
     window.scrollTo(0, 0)
   }, [])
@@ -197,15 +126,14 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
                 <div className="md:w-2/3">
                   <h2 className="text-2xl font-semibold mb-4 text-blue-600">📌 About {title} PDF</h2>
                   <p className="mb-4 text-gray-700">
-                    {title} is a sacred scripture belonging to the Puranic, Itihasa tradition and explores themes of dharma.
-                    
+                    {title} is a must-read for programmers, covering essential concepts in {category}. Perfect for beginners and professionals alike.
                   </p>
                   <ul className="list-disc pl-6 mb-6 text-gray-700">
                     <li>✔️ PDF Size: {size}</li>
                     <li>✔️ Categories: {category}</li>
                     <li>✔️ Free PDF format for easy reading</li>
-                    <li>✔️ Easy-to-follow language</li>
-                    <li>✔️ Perfect for students and professionals</li>
+                    <li>✔️ Covers real-world coding applications</li>
+                    <li>✔️ Ideal for self-learners and developers</li>
                   </ul>
                   <div className="flex flex-col sm:flex-row gap-4">
                     <Button
@@ -245,19 +173,23 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
 
           <Card className="mb-8">
             <CardContent className="p-6">
-              <h2 className="text-2xl font-semibold mb-4 text-blue-600">🔑 Core Teachings of <strong>{title}</strong></h2>
+              <h2 className="text-2xl font-semibold mb-4 text-blue-600">🔑 Key Topics Covered in <strong>{title}</strong></h2>
               <ul className="space-y-3 text-gray-700">
                 <li className="flex items-start">
-                  <span className="mr-2">🧘</span>
-                  <span><strong>Self-Realization</strong> – Understanding the true nature of the self.</span>
+                  <span className="mr-2">💻</span>
+                  <span><strong>Fundamental Concepts</strong> – Learn the core principles of {category}.</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="mr-2">🌿</span>
-                  <span><strong>Karma & Rebirth</strong> – The cycle of life, death, and rebirth.</span>
+                  <span className="mr-2">🛠️</span>
+                  <span><strong>Hands-on Examples</strong> – Practical exercises to improve coding skills.</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="mr-2">✨</span>
-                  <span><strong>Union with the Divine</strong> – Achieving moksha through spiritual wisdom.</span>
+                  <span className="mr-2">📜</span>
+                  <span><strong>Best Practices</strong> – Industry standards and clean coding techniques.</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="mr-2">🔍</span>
+                  <span><strong>Advanced Topics</strong> – Deep dive into algorithms, AI, and more.</span>
                 </li>
               </ul>
             </CardContent>
@@ -265,31 +197,27 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
 
           <Card className="mb-8">
             <CardContent className="p-6">
-              <h2 className="text-2xl font-semibold mb-4 text-blue-600">🕊️ Why Should You Read <strong>{title}</strong>?</h2>
+              <h2 className="text-2xl font-semibold mb-4 text-blue-600">🚀 Why Should You Download <strong>{title}</strong>?</h2>
               <ul className="space-y-3 text-gray-700">
                 <li className="flex items-start">
-                  <span className="mr-2">✨</span>
-                  <span>Unveils the mysteries of <strong>Hindu philosophy/ancient wisdom</strong></span>
+                  <span className="mr-2">📚</span>
+                  <span>Comprehensive guide to <strong>{category}</strong></span>
                 </li>
                 <li className="flex items-start">
-                  <span className="mr-2">✨</span>
-                  <span>Explores the <strong>spiritual and cosmic laws</strong> that govern life</span>
+                  <span className="mr-2">🖥️</span>
+                  <span>Step-by-step explanations with real-world examples</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="mr-2">✨</span>
-                  <span>Provides practical lessons on <strong>Dharma, Moksha, Bhakti, Yoga</strong></span>
+                  <span className="mr-2">🎯</span>
+                  <span>Perfect for <strong>beginners & experienced coders</strong></span>
                 </li>
                 <li className="flex items-start">
-                  <span className="mr-2">🔱</span>
-                  <span>Learn about <strong>the cosmic order (Sanatana Dharma)</strong></span>
-                </li>
-                <li className="flex items-start">
-                  <span className="mr-2">🧘</span>
-                  <span>Gain insights into <strong>karma, rebirth, and liberation (moksha)</strong></span>
+                  <span className="mr-2">⚡</span>
+                  <span>Boost your <strong>coding skills and career</strong></span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">📖</span>
-                  <span>Understand the spiritual journey of <strong>great sages and kings</strong></span>
+                  <span>Completely <strong>free to download & read</strong></span>
                 </li>
               </ul>
             </CardContent>
@@ -297,15 +225,15 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
 
           <Card className="mb-8">
             <CardContent className="p-6">
-              <h2 className="text-2xl font-semibold mb-4 text-blue-600">🔍 Reviews & Ratings of <strong>{title}</strong></h2>
+              <h2 className="text-2xl font-semibold mb-4 text-blue-600">⭐ Reviews & Ratings of <strong>{title}</strong></h2>
               <ul className="space-y-3 text-gray-700">
                 <li className="flex items-start">
                   <span className="mr-2">⭐</span>
-                  <span><strong>4.8/5</strong> – "A masterpiece! Highly recommended."</span>
+                  <span><strong>4.8/5</strong> – "An excellent programming resource!"</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">⭐</span>
-                  <span><strong>4.7/5</strong> – "Great insights on sacred scripture belonging to the Puranic."</span>
+                  <span><strong>4.7/5</strong> – "Very well-structured and easy to follow."</span>
                 </li>
               </ul>
             </CardContent>
@@ -313,24 +241,58 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
 
           <Card className="mb-8">
             <CardContent className="p-6">
-              <h2 className="text-2xl font-semibold mb-4 text-blue-600">🔍 What Readers Say About <strong>{title}</strong></h2>
+              <h2 className="text-2xl font-semibold mb-4 text-blue-600">📝 What Readers Say About <strong>{title}</strong></h2>
               <div className="text-gray-700 italic">
-                "A fantastic read! <strong>{title}</strong> helped me understand Puranic, Itihasa tradition. Highly recommended!"
-                <div className="mt-2 text-gray-600 not-italic">– <em>Mohan</em></div>
+                "A must-have for anyone learning {category}. Clear explanations and great examples!"
+                <div className="mt-2 text-gray-600 not-italic">– <em>Rahul</em></div>
               </div>
             </CardContent>
           </Card>
 
           <Card className="mb-8">
             <CardContent className="p-6">
-              <h2 className="text-2xl font-semibold mb-4 text-blue-600">FAQs</h2>
+              <h2 className="text-2xl font-semibold mb-4 text-blue-600">❓ Frequently Asked Questions</h2>
               <Accordion type="single" collapsible className="w-full">
-                {faqItems.map((item, index) => (
-                  <AccordionItem value={`item-${index}`} key={index}>
-                    <AccordionTrigger>{item.question}</AccordionTrigger>
-                    <AccordionContent>{item.answer}</AccordionContent>
-                  </AccordionItem>
-                ))}
+                <AccordionItem value="item-1">
+                  <AccordionTrigger>📘 Is {title} suitable for beginners?</AccordionTrigger>
+                  <AccordionContent>Yes! It's designed for both beginners and experienced coders.</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-2">
+                  <AccordionTrigger>💾 What is the size of {title} PDF?</AccordionTrigger>
+                  <AccordionContent>{size}, optimized for quick downloads.</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-3">
+                  <AccordionTrigger>🌐 Can I read {title} online?</AccordionTrigger>
+                  <AccordionContent>Yes! We provide a free online reading option.</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-4">
+                  <AccordionTrigger>📚 What programming languages does this book cover?</AccordionTrigger>
+                  <AccordionContent>It covers {category} including Python, Java, JavaScript, and more.</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-5">
+                  <AccordionTrigger>⚡ Is {title} available in other formats?</AccordionTrigger>
+                  <AccordionContent>Yes, we offer PDF, EPUB, and Kindle formats.</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-6">
+                  <AccordionTrigger>📥 Do I need to sign up to download {title}?</AccordionTrigger>
+                  <AccordionContent>No, instant download without registration.</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-7">
+                  <AccordionTrigger>📱 Can I download {title} on my phone?</AccordionTrigger>
+                  <AccordionContent>Yes, it's mobile-friendly!</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-8">
+                  <AccordionTrigger>🛠️ What tools do I need to follow along?</AccordionTrigger>
+                  <AccordionContent>Basic coding tools like VS Code, Python, and a browser are enough.</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-9">
+                  <AccordionTrigger>🔓 Is {title} free to download?</AccordionTrigger>
+                  <AccordionContent>Yes, it's completely free!</AccordionContent>
+                </AccordionItem>
+                <AccordionItem value="item-10">
+                  <AccordionTrigger>📩 Can I share {title} with others?</AccordionTrigger>
+                  <AccordionContent>You can share the link, but not redistribute copyrighted material.</AccordionContent>
+                </AccordionItem>
               </Accordion>
             </CardContent>
           </Card>
