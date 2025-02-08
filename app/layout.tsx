@@ -85,11 +85,11 @@ export const metadata: Metadata = {
     canonical: "https://freecodingpdf.live"
   },
   verification: {
-    google: "your-google-site-verification",
-    yandex: "your-yandex-verification",
-    yahoo: "your-yahoo-verification",
+    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
+    yandex: process.env.NEXT_PUBLIC_YANDEX_VERIFICATION || "",
+    yahoo: process.env.NEXT_PUBLIC_YAHOO_VERIFICATION || "",
     other: {
-      me: ['your-personal-website']
+      me: [process.env.NEXT_PUBLIC_PERSONAL_WEBSITE || ""]
     },
   },
   category: "Technology"
