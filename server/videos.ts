@@ -1,6063 +1,4270 @@
 export const videos = [
     {
-        "Name": "हिन्दूत्व के पंच प्राण (अध्याय एक)",
-        "Link": "https://drive.google.com/uc?export=download&id=1-nriCVKien2LrCuITpOCvNnIyS4rJyys",
-        "Size": "22.91 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
+        "Name": "ROS Robot Programming EN",
+        "Link": "https://drive.google.com/uc?export=download&id=19StqgTzZ4ErsKknKNWZ_5ienJjVGEn86",
+        "Size": "35.54 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "हिन्दू संगठन",
-        "Link": "https://drive.google.com/uc?export=download&id=1-ntX2PFwfopuhHjvLJj-RPAJQO6r5ocu",
-        "Size": "6.89 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
+        "Name": "Progit  Scrott Chacon",
+        "Link": "https://drive.google.com/uc?export=download&id=1lfc29Stva1azu8dCaAwOtdza2e9IeOpT",
+        "Size": "17.85 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "हिन्दू जीवन का रहस्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1-cthFanrcZzkd9e0CfnspLpP0k5MZsDK",
-        "Size": "5.82 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
+        "Name": "Operating System Concepts, 8th Edition[A4]",
+        "Link": "https://drive.google.com/uc?export=download&id=1S6OiBnbl0qLVecstNoykcjwYuTNVHZYG",
+        "Size": "18.91 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "विमानशास्त्र",
-        "Link": "https://drive.google.com/uc?export=download&id=1-QE-CSH3jgvh6vZNfTsQ_KsqEnrhSMPa",
-        "Size": "13.13 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
+        "Name": "Mathematics for Computer Science  Eric Lehman, Thomson Leighton, Albert Meyer",
+        "Link": "https://drive.google.com/uc?export=download&id=1RxMmeFQBChzh_FkZlgplW-IMMSsgWNcw",
+        "Size": "6.48 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "हिन्दू कौन आर्य कौन.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=1-gzYvlY2Em8kLcFfXcN0xREJelPqvUNu",
-        "Size": "7.07 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
+        "Name": "Introduction To The Theory Of Computation Michael Sipser",
+        "Link": "https://drive.google.com/uc?export=download&id=1pOeu8oIHZTfNS6EZf2J2xkOP0O5AEi72",
+        "Size": "16.95 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "राष्ट्र धर्म",
-        "Link": "https://drive.google.com/uc?export=download&id=1-WYsNANGv71alULDEvmB5WQ2D5KFbZUj",
-        "Size": "7.08 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
+        "Name": "Head first design patterns",
+        "Link": "https://drive.google.com/uc?export=download&id=1otJnaIu2FUr5LCtHefhj7oWP9mAVSMx6",
+        "Size": "42.28 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "लव जिहाद",
-        "Link": "https://drive.google.com/uc?export=download&id=1-UIiTwLBCgrmFZbtUi5R9kwyC_5mOaCU",
-        "Size": "0.29 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "रामप्रसाद बिस्मिल जीवनी",
-        "Link": "https://drive.google.com/uc?export=download&id=1-ZjmEkhZF1Aq8Dlz93lVTxs-LMlI87hb",
-        "Size": "11.41 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "मांसाहार",
-        "Link": "https://drive.google.com/uc?export=download&id=1-JWVDesnRKX2EUz7IrEraGkJ37XSvBX8",
-        "Size": "12.08 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "योगिराज श्री कृष्ण",
-        "Link": "https://drive.google.com/uc?export=download&id=1-bAvoIzqnRZE75HKZvBNqBjlhISReXEK",
-        "Size": "1.2 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "महापुरुष.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=1-M57uwkTqYhsPPoPtdPYKBfT23hpafB0",
-        "Size": "3.25 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "चौदहवीं का चाँद",
-        "Link": "https://drive.google.com/uc?export=download&id=1-PpSvTTIsmAf0q29NFlM0ZcPYb8UKINc",
-        "Size": "0.48 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "देशभक्ति की पुकार",
-        "Link": "https://drive.google.com/uc?export=download&id=1-PBXFi4d65G-lWqvzka6siLRuViqRD3t",
-        "Size": "9.11 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "चाणक्यसूत्राणि",
-        "Link": "https://drive.google.com/uc?export=download&id=1qf-HTeyCIZOfDzKABZTb7_dRt-oZswPK",
-        "Size": "37.0 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "चाणक्यसूत्राणि 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1zpPP2iAy7LX2bL48O94jW2jF9sxM3pqG",
-        "Size": "37.0 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "गोमान्तक",
-        "Link": "https://drive.google.com/uc?export=download&id=1zwxqeH8L7bk5F060h9p6JSQTbcs9FiD2",
-        "Size": "4.8 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "गाँधी वध क्यों",
-        "Link": "https://drive.google.com/uc?export=download&id=1zb5XTOApCt7E9sko6J6JStV0JQxu4Vn9",
-        "Size": "28.42 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "अहिंसा का स्वरूप",
-        "Link": "https://drive.google.com/uc?export=download&id=1zauSgT5i7LI9rK50hkeuzE5NQqEaCQXN",
-        "Size": "1.24 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "Manav Ekta Kaa Adarsh, Yudh Aur Atma Nirnaya",
-        "Link": "https://drive.google.com/uc?export=download&id=1zX8rJ84xwFFmrO8C1swf5K1lLb2wVCjF",
-        "Size": "56.28 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "lala lajpat ray",
-        "Link": "https://drive.google.com/uc?export=download&id=1z_ptxTdI6h5tSeUMuOd92HchjWfaffx7",
-        "Size": "6.19 MB",
-        "Categories": "हिन्दू, राष्ट्र व हिन्दुराष्ट्र"
-    },
-    {
-        "Name": "यज्ञोपवित संस्कार",
-        "Link": "https://drive.google.com/uc?export=download&id=1-yoBY7DVsDmA5RowcekY3vuo_5mw__3K",
-        "Size": "2.35 MB",
-        "Categories": "यज्ञ Yajna"
-    },
-    {
-        "Name": "संध्या रहस्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1-xQl9ykvh-pzu-rLgC6S8aOI-Ucc08UJ",
-        "Size": "6.81 MB",
-        "Categories": "यज्ञ Yajna"
-    },
-    {
-        "Name": "यज्ञविधि",
-        "Link": "https://drive.google.com/uc?export=download&id=103I2ucsKmSN_8P7z6HE5IgY_6nP97FSg",
-        "Size": "0.14 MB",
-        "Categories": "यज्ञ Yajna"
-    },
-    {
-        "Name": "यज ञोपवीत मीमांसा",
-        "Link": "https://drive.google.com/uc?export=download&id=106Si9a6soWMU0jfLylJ2K05oQuZOjKMn",
-        "Size": "5.52 MB",
-        "Categories": "यज्ञ Yajna"
-    },
-    {
-        "Name": "यज्ञ चिकित्सा",
-        "Link": "https://drive.google.com/uc?export=download&id=1045MPdn-ioG3he3GcdS-hqODSKcdy3HH",
-        "Size": "1.53 MB",
-        "Categories": "यज्ञ Yajna"
-    },
-    {
-        "Name": "पंच महायज्ञ विधि",
-        "Link": "https://drive.google.com/uc?export=download&id=107_2fKMLbjgKGb8Siqn-jXmBFd_SX9Xk",
+        "Name": "Designing Data Intensive Applications  The Big Ideas Behind Reliable, Scalable, and Maintainable Systems ( PDFDrive.com ) (1)",
+        "Link": "https://drive.google.com/uc?export=download&id=1bkFVbMaADfGj9BWQuwd6sthG18cT9NgN",
         "Size": "4.17 MB",
-        "Categories": "यज्ञ Yajna"
+        "Categories": "Others"
     },
     {
-        "Name": "अग्निहोत्र व्याख्या",
-        "Link": "https://drive.google.com/uc?export=download&id=1-rWOOSEKHoJ_tm82Jt0ilVpfvpSQRQdP",
-        "Size": "6.2 MB",
-        "Categories": "यज्ञ Yajna"
+        "Name": "Database system concepts",
+        "Link": "https://drive.google.com/uc?export=download&id=12Ld0qenFB3fEpSNJc8gjwNcbSgrc1-oj",
+        "Size": "16.22 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "Sandhya",
-        "Link": "https://drive.google.com/uc?export=download&id=1-tuMrBGegVPANClCPRcYfz58I_M0fhSZ",
-        "Size": "3.97 MB",
-        "Categories": "यज्ञ Yajna"
-    },
-    {
-        "Name": "Hindu Ritual yagya",
-        "Link": "https://drive.google.com/uc?export=download&id=1-w0SBwGu9GfmVrZsfpJG9ceZYakAFB5s",
-        "Size": "9.93 MB",
-        "Categories": "यज्ञ Yajna"
-    },
-    {
-        "Name": "ॐ पियूष धारा",
-        "Link": "https://drive.google.com/uc?export=download&id=1zQFle3eRywdT-pL5VB8QJXk-L99WltV3",
-        "Size": "0.06 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "हिंसा",
-        "Link": "https://drive.google.com/uc?export=download&id=1zUJUspTlWveHkEY8e5vcxxRxBJer4jbC",
-        "Size": "0.09 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "स्वाध्याय संदोह",
-        "Link": "https://drive.google.com/uc?export=download&id=1zV-fT35w1tZVzCvlqDFi7awBo8cLK_7m",
-        "Size": "19.5 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "व्यवहारिक सभ्यता",
-        "Link": "https://drive.google.com/uc?export=download&id=1zFQmcWkLpdTTFzKALLfTjkb15MVOuhwt",
-        "Size": "4.73 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "संस्कार चन्द्रिका",
-        "Link": "https://drive.google.com/uc?export=download&id=1z9LzTiBZd6NTDrNxq4s245LAf6N3yLpq",
-        "Size": "2.28 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "योगिराज श्री कृष्ण",
-        "Link": "https://drive.google.com/uc?export=download&id=1zI0Ifad1qlHL-mWjJbr5ghlobzZwAKSp",
-        "Size": "1.03 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "विद्यार्थी जीवन रहस्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1zGLnCbPaUsZph7wkGty8YjK1zsggtr5u",
-        "Size": "2.88 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "मेरा जीवन व्रत",
-        "Link": "https://drive.google.com/uc?export=download&id=1z5LhoOtbBHWgTLGohFhk6mrb0WRgYayB",
-        "Size": "23.63 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "महकते जीवन फूल",
-        "Link": "https://drive.google.com/uc?export=download&id=1yw0BsapExRMd2fHilvzSzWHqS4JDBdlX",
-        "Size": "15.2 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "मानवीय कर्मफल व्यवस्था",
-        "Link": "https://drive.google.com/uc?export=download&id=1z7wgwP6V8JMmztcSsoTPBMFHv3H-rtDq",
-        "Size": "0.04 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "मनोविज्ञान शिवसंकल्प",
-        "Link": "https://drive.google.com/uc?export=download&id=1ywwIg3rbwhxq40B5V28BkVYslZnKhG2r",
-        "Size": "5.64 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "मनुष्य की कर्म स्वतन्त्रता",
-        "Link": "https://drive.google.com/uc?export=download&id=1yy_tvBFdx1VYNXw9B2W4BrcCoKP-xhIY",
-        "Size": "0.04 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "भारतीय जीवनऔर संस्कृति",
-        "Link": "https://drive.google.com/uc?export=download&id=1ypM3Nar5vJRcl49tL0uhvtF7SjxsTCQh",
-        "Size": "104.48 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "भगवान से अपनापन",
-        "Link": "https://drive.google.com/uc?export=download&id=1yZeJmrUIXsZs00fs-iLSOT5g_bOcr6Ce",
-        "Size": "6.0 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "भगवान आज ही मिल सकते हैं",
-        "Link": "https://drive.google.com/uc?export=download&id=1yhtkQaklJIo4lqFSnvfIJ8n09n93B6Wr",
-        "Size": "2.52 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "भगवद प्राप्ति की सुगमता",
-        "Link": "https://drive.google.com/uc?export=download&id=1ynzHP4RZ9UpM-cbwUbzEKxE_LTp6w3WA",
-        "Size": "8.02 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "नीतिवाद बनाम नियतिवाद",
-        "Link": "https://drive.google.com/uc?export=download&id=1yP0Ku5hjGCFohVmI7ivnlTtQxQ34JEt0",
-        "Size": "0.04 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "भक्त सौरभ",
-        "Link": "https://drive.google.com/uc?export=download&id=1yT5RoU6RASIfqq7VtPJpWNgOUoYGRGv_",
-        "Size": "129.3 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "धर्म का आदि स्त्रोत",
-        "Link": "https://drive.google.com/uc?export=download&id=1yJwqZ-WcKquqhEE1wE0pWlJVARsAsqZA",
-        "Size": "6.36 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "त्रिदेव निर्णय",
-        "Link": "https://drive.google.com/uc?export=download&id=1yORpdUINs0LDUjIDSKDb65cuzCKfZk6i",
-        "Size": "17.29 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "ज्ञानामृत",
-        "Link": "https://drive.google.com/uc?export=download&id=1y5XS8fAM2vR5vWId1WKuy5YOAO5pobzm",
-        "Size": "7.38 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "ईश्वरीय कर्मफल नियम",
-        "Link": "https://drive.google.com/uc?export=download&id=1y9PJeQucAIRDARlMCMUG1JjjiqlIRThs",
-        "Size": "0.06 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "ईश्वर विचार",
-        "Link": "https://drive.google.com/uc?export=download&id=1yIkbTJjUwAfNCkxk9OT3BVAChztr_P7u",
-        "Size": "12.69 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "आवश्यक शिक्षा",
-        "Link": "https://drive.google.com/uc?export=download&id=1xnRHC8rq2jJ-zSlV3vBlhGHfCeiECPme",
-        "Size": "5.69 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "आस्तिकवाद",
-        "Link": "https://drive.google.com/uc?export=download&id=1y-lpvtjYamAJMh0Mqdx54dQGzRjYdFQU",
-        "Size": "19.04 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "आर्यपर्वपद्धति",
-        "Link": "https://drive.google.com/uc?export=download&id=1xqm115PTOp8u31hNpTUD2Ct08gjST-Va",
-        "Size": "16.27 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "आनंद मठ",
-        "Link": "https://drive.google.com/uc?export=download&id=1xPoTjMj0E8cwOM_Kb_E7mLTgR_gdrbgd",
-        "Size": "0.66 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "आनंद गीतांजली.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=1xTgTDt4lF8jwjeklJboseFwbACe0SpRW",
-        "Size": "0.56 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "आत्मिक उन्नति",
-        "Link": "https://drive.google.com/uc?export=download&id=1xg1qucTxF-Myh3NUbHpgjpkjTEHRfXaj",
-        "Size": "4.19 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Vedic",
-        "Link": "https://drive.google.com/uc?export=download&id=1xks824qT5cDLzfMXmDr_hGHo0CxsuaTF",
-        "Size": "2.95 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Yajnavalkya Smriti abridged",
-        "Link": "https://drive.google.com/uc?export=download&id=1xkSFiZkqM4t_2gNPOHpbxn2tkZ5l0ipE",
-        "Size": "1.83 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Vaidika Vishva aur Bharatiya Sanskriti",
-        "Link": "https://drive.google.com/uc?export=download&id=1xFc154rs-GhPIb5utA-q20NN-BCqXMR5",
-        "Size": "14.41 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Vaidika Vishva darshan",
-        "Link": "https://drive.google.com/uc?export=download&id=1xHPfsAG22d9aboBb_n8PDLw_qbv3-eo9",
-        "Size": "44.73 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Vaidika Vishva aur Bharatiya Sanskriti.compressed",
-        "Link": "https://drive.google.com/uc?export=download&id=1x3npOGdPmqKfkEIrDXlPj53LEXj4lVqP",
-        "Size": "8.55 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Sukta Sangraha english",
-        "Link": "https://drive.google.com/uc?export=download&id=1wiaYlV7cCFJevZP6BzEZSzX5KNBgjqZZ",
-        "Size": "28.53 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Tridev Nirnay",
-        "Link": "https://drive.google.com/uc?export=download&id=1xCwewncD5sHUL8GYTei3TCOEUfZCNsiJ",
-        "Size": "17.29 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Sixteen Rituals of Aaryas",
-        "Link": "https://drive.google.com/uc?export=download&id=1wn9KHeBLh6zCz9qnePipBnOVWvjK9FCM",
-        "Size": "0.14 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Sixteen Samskaras",
-        "Link": "https://drive.google.com/uc?export=download&id=1wtYRbKluh1qoQVxGv6VgG4eXDtcXRRs1",
-        "Size": "0.27 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Ramdhari Singh Dinker   Kurukshetra",
-        "Link": "https://drive.google.com/uc?export=download&id=1wupqDYZVrnw-Zt5x_FOno9v-ZRqNFH3Y",
-        "Size": "0.28 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Nyaya Philosophy",
-        "Link": "https://drive.google.com/uc?export=download&id=1wOsky27VpdGhjhlJoymMYmYLnbw297j2",
-        "Size": "1.09 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Pancharatra Prayoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1wM10aJl4PEurK6qIck1fXgJC01jZIn-k",
-        "Size": "7.58 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Hindu Prayer Book",
-        "Link": "https://drive.google.com/uc?export=download&id=1wQRedk0Ls2HYgG3FFWosOs3vPWLTw7HH",
-        "Size": "0.83 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Hindu Samskaras",
-        "Link": "https://drive.google.com/uc?export=download&id=1wQZuMtN0cXjDHmCsl9IlsJiGAKO-x4Tr",
-        "Size": "10.98 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "hindimedia.in be vegetarian print=print",
-        "Link": "https://drive.google.com/uc?export=download&id=1wSGDDWB4qN_66RzCTTWxnD-Y8yYxzUWu",
-        "Size": "0.05 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "Apastamba Dharma Sutras",
-        "Link": "https://drive.google.com/uc?export=download&id=1wUV2ALjHNoSukZc6vwMsQuXOBPGdJRYK",
-        "Size": "0.82 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "AntyesthiSamskar",
-        "Link": "https://drive.google.com/uc?export=download&id=1wVkaxqDzxNR3s1KJtE2_caQLlTgWZMgx",
-        "Size": "6.09 MB",
-        "Categories": "धर्म एवं आध्यात्म"
-    },
-    {
-        "Name": "योगसूत्र भाष्य 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1wDlkx-2CH48ysFfGVaj79rb5XGRw9nF8",
-        "Size": "24.38 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "योगसूत्र भाष्य 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1vvA55ptytHhTxZ0dS549A9KyrSudAFz5",
-        "Size": "16.82 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "योगसूत्र भाष्य 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1wExfY9Poxfzms-a0rRgKFQ4VPbKFhxnM",
-        "Size": "16.82 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "योगवासिष्ठ 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1vzbNqrTwdy-tvCzNp-TR6l3tVZ-KD8B3",
-        "Size": "3.23 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "योगवासिष्ठ 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1w5hcKoY4VVVgo1C_KHXUn9two11l2L2e",
-        "Size": "1.33 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "योगवासिष्ठ 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1w78nO7NdhG5SESKdhHuaBVhHk0Rs229k",
-        "Size": "1.43 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "पातंजल्य योग दर्शन गीताप्रेस",
-        "Link": "https://drive.google.com/uc?export=download&id=1wBjzzMrV7uXf3SJhGUxKOc27fhTUo9Wq",
-        "Size": "10.49 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "योगवासिष्ठ 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1wAHBCm00XPsAOYjuEPFd8mijvjUBbazS",
-        "Size": "1.79 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "YogaVasishtaSara",
-        "Link": "https://drive.google.com/uc?export=download&id=1vq7LMXm9D3EWfh7sXuCvMpt6agUFMdS7",
-        "Size": "0.14 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "Yoga and Kriya Swami Satyananda Saraswati",
-        "Link": "https://drive.google.com/uc?export=download&id=1vmRvGACZGYnWUihsSFncgG7biBCZOse9",
-        "Size": "13.4 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "Yoga Sutras Summary",
-        "Link": "https://drive.google.com/uc?export=download&id=1vtKvF8ty9gVAYdESmCFMAgTT48X-7K3E",
-        "Size": "0.02 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "yoga sutras narrative",
-        "Link": "https://drive.google.com/uc?export=download&id=1vuEGiesnquBtbUN2p4p60HaQQ-Qrm1QP",
-        "Size": "0.07 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "vibhutiyog",
-        "Link": "https://drive.google.com/uc?export=download&id=1vkt0EMb1h6VOYIMHz4TsR6EmJ4ruW_ju",
-        "Size": "229.76 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "yoga sutras interpretive",
-        "Link": "https://drive.google.com/uc?export=download&id=1vuw12VrFjYUGzPGSao4lHBSCR3u-iI_2",
-        "Size": "0.21 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "Vaidik Yogasutra",
-        "Link": "https://drive.google.com/uc?export=download&id=1viQ5aBic7WR-pVZ5pWidSfGMdiOlYlGe",
-        "Size": "17.61 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "sankhyayog",
-        "Link": "https://drive.google.com/uc?export=download&id=1ve4rgRiwY81AoQo1ZFSJ5lHQlPSI6wWU",
-        "Size": "424.86 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "Sacred Jewels of Yoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1vWxL2X0h-Ye6eBBWhSlszWbJw4R0sPom",
-        "Size": "11.98 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "lightonyoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1va0tOkmUFRXJ244BMdU8L7l9HjIg3cfo",
-        "Size": "0.1 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "Patanjali English",
-        "Link": "https://drive.google.com/uc?export=download&id=1vXrW1e9-RXRsN6nk-AyCJs2aBATPX9mR",
-        "Size": "1.62 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "HowToBeYogi",
-        "Link": "https://drive.google.com/uc?export=download&id=1vau7WH64kmUN4wjTo3WafpGAkZw-8tIa",
-        "Size": "0.64 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "Hindi Book Shri Yoga Vashishtha Maharamayan Part 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1vPrPgrlMTjas_ZqwqoRoohMYI3xglf-G",
-        "Size": "2.63 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "HindiBook pantjaliYogPradip",
-        "Link": "https://drive.google.com/uc?export=download&id=1vQy2v-n86c8cQ0Fz5-TlinesRv84kFlE",
-        "Size": "51.39 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "gyan vigyanyog",
-        "Link": "https://drive.google.com/uc?export=download&id=1vPOs_zRhvFRYQL485M2KY5Z4WA1kOu2z",
-        "Size": "316.29 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "dhyanyog.crdownload",
-        "Link": "https://drive.google.com/uc?export=download&id=1vCl4WPVdF0il4SIbk-O0GbyzbaUi53Wy",
-        "Size": "224.06 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "essence yoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1vOk5i-tZgvxKDLjzo1yXj4YJw3O9yANX",
-        "Size": "0.32 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "brahmagyan aur uski sadhna",
-        "Link": "https://drive.google.com/uc?export=download&id=1vBAFq9v66WiGChsePLCwDbaFqb0wy4Rb",
-        "Size": "271.42 MB",
-        "Categories": "Yog"
-    },
-    {
-        "Name": "शुक्ल यजुर्वेदीय काण्व संहिता",
-        "Link": "https://drive.google.com/uc?export=download&id=1v5F7zi1zH_j0voJNNe61kDX5O4hyNpCH",
-        "Size": "8.9 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "वाजसनेयी माध्यन्दिन यजुर्वेद सहिंता",
-        "Link": "https://drive.google.com/uc?export=download&id=1v8EXQtwfnvbWYAKVvMeAFc7g8XXEf6Ko",
-        "Size": "0.92 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद हरिशरण सिद्धांतालंकार 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1v0wCZsVKw1O9RnwE9a5vcW9Y78auFFej",
-        "Size": "43.61 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद सुबोध भाष्य सम्पूर्ण",
-        "Link": "https://drive.google.com/uc?export=download&id=1ur5RvLA3ng8nfBjudHiy0SVe9xz3EgZc",
-        "Size": "112.55 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद हरिशरण सिद्धांतालंकार 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1uyNPJSIoD0uAK81pE0eL9A_qcY-ozQ7u",
-        "Size": "34.9 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद सम्पूर्ण भाष्य (खंड 2 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1uqKIi4h09zkZDOEZ3ynXn8wsJ95ngBd6",
-        "Size": "28.36 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 8",
-        "Link": "https://drive.google.com/uc?export=download&id=1uhoinnim91-i5_EIGVIceqpnQDuDelfT",
-        "Size": "11.48 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद सम्पूर्ण भाष्य (खंड 1 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1uk-odRPegYvOJ_PGFJu8a9xeEUVRWUf1",
-        "Size": "26.64 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 7",
-        "Link": "https://drive.google.com/uc?export=download&id=1ufDlxAy4ZJd7R-b633qpfN6XE4q7-rP4",
-        "Size": "38.8 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 6",
-        "Link": "https://drive.google.com/uc?export=download&id=1uWmC3Hdaw2sGL-H-T573rNdcvqIFvK6F",
-        "Size": "26.14 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 5",
-        "Link": "https://drive.google.com/uc?export=download&id=1uU1VunLydmT1KMO4sM1iC4gLke6AZuPY",
-        "Size": "34.66 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1uRTix3IP7_HCEnY2R8rzYeR69R_8hezC",
-        "Size": "28.59 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1uPZiNrUyz9O9kzNAZoWFhYmyHbkxibo3",
-        "Size": "20.29 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1u6i_76Ra-vn7eFAIRcYkE2isbC8GkPU3",
-        "Size": "17.61 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद दयानंद भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1u-PfY49e3nwfESiJ-TIWLh7PrD0EspSb",
-        "Size": "12.28 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "यजुर्वेद वेदार्थ पारिजात करपात्र भाष्य 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1tywDU0y_WhLEu9ouNMQS8QvZhIrZas6A",
-        "Size": "24.46 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "Yajurved english",
-        "Link": "https://drive.google.com/uc?export=download&id=1tyDeqa6fDzIU5ab7mPpEEvlf1p0Z-sek",
-        "Size": "3.99 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "Yajurved in English",
-        "Link": "https://drive.google.com/uc?export=download&id=1tvq_nc2_9BIE3wZ5XeK3-ZXfAmiXG1kT",
-        "Size": "19.6 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "yajur veda",
-        "Link": "https://drive.google.com/uc?export=download&id=1u6iD8kNN9dck5qDEX6ivUPK4KyyEf-CR",
-        "Size": "0.77 MB",
-        "Categories": "YajurVeda - यजुर्वेद"
-    },
-    {
-        "Name": "हिन्दू पद पादशाही",
-        "Link": "https://drive.google.com/uc?export=download&id=1tpD9ObgXOdEYGPbAzNZklpuePqsVr2PZ",
-        "Size": "64.32 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "हिंदुत्व",
-        "Link": "https://drive.google.com/uc?export=download&id=1tl7dHsc4pt_wGD7Hy8mJf7NxhsIH5AAd",
-        "Size": "14.7 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "मेरा आजीवन कारावास",
-        "Link": "https://drive.google.com/uc?export=download&id=1tfCUCy_rm0D762QMQIWYzNq_4Cvn8G6x",
-        "Size": "2.51 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "गोमान्तक",
-        "Link": "https://drive.google.com/uc?export=download&id=1tamiMZSjnx9CaPgFGP-Hu7TEA_BeLHrS",
-        "Size": "4.8 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "अन्तरज्वाला सावरकर",
-        "Link": "https://drive.google.com/uc?export=download&id=1t_TxZj4gjldO70K6s3PGwJuaO2ylAsy7",
-        "Size": "7.0 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "कालापानी",
-        "Link": "https://drive.google.com/uc?export=download&id=1tb7ZoQ1j9vtbPlPfDdF5Fc5PNkd262xw",
-        "Size": "11.93 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "Hindutva",
-        "Link": "https://drive.google.com/uc?export=download&id=1tXQ5HMHYDe0U23p7agZFL9dyjvKuaXlI",
-        "Size": "6.31 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "Hindudhuwja   Savarkar s Statements",
-        "Link": "https://drive.google.com/uc?export=download&id=1tYFiQxB78Aqgba0FIyb-giq-dqBaMNd9",
-        "Size": "15.13 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "Hindu Pad Padashahi (English)",
-        "Link": "https://drive.google.com/uc?export=download&id=1tFR1UD67B18ZwTK4ik0H8hxJhWRi9qAm",
-        "Size": "20.18 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "Essentials of Hindutva",
-        "Link": "https://drive.google.com/uc?export=download&id=1tRcQ3to3sZ-S8O4SB2_GurwlGvJOVEvw",
-        "Size": "0.22 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "1857 का स्वातन्त्र्य समर",
-        "Link": "https://drive.google.com/uc?export=download&id=1tVqQeG9NHwDBBy1rx7Uj5BsLzBIteks2",
-        "Size": "2.37 MB",
-        "Categories": "Veer Savarkar"
-    },
-    {
-        "Name": "मुण्डकोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1svMPmZQBCYA4w_GBP1ZVx8lpnPzxJJ1M",
-        "Size": "4.11 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "श्वेताश्वतरोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1sqJLIr8nn8n3Dx00ktAAnaMAXTCb9ZPs",
-        "Size": "9.27 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "माण्डूक्योपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1t86PTHZuSParZbmOHxciXguVmZDQTtiD",
-        "Size": "8.56 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "बृहदारण्यकोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1sjg_h8k60_dWwdHFQF0-R1MYpPkgiX0g",
-        "Size": "69.64 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "प्रश्नोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1seP-VQInS8ZLwr0hpyKxc1_0ALmZ7XeQ",
-        "Size": "4.37 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "तैत्तिरीयोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1sdSiTPhDQnCjDiGfS08L4qgzKpSHAZWx",
-        "Size": "6.97 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "दश उपनिषद भाष्य, स्वामी अच्युतानंद गिरि",
-        "Link": "https://drive.google.com/uc?export=download&id=1s_nQOWAV5ZzoAzhsKOmKjbSPWqZgVnn2",
-        "Size": "36.73 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "छान्दोग्योपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1sZlNUPnl4hslRi1tYoTO3mLdEIebPDAB",
-        "Size": "30.18 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "कठोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1ro8PrKDZ2dtbMw1AvC8HVScNEl4YbPmu",
-        "Size": "15.78 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "केनोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1rty35QUMbee1U-6OO24URrQDmCtXTqSR",
-        "Size": "3.95 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "उपनिषद विज्ञान भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1rXm3CjKE5bF5qiV30-fKlsUcjIKDqUTe",
-        "Size": "74.7 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "एतरेयोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1rps7HxliNPfAFitRdpA4bo58TvB2-Jj6",
-        "Size": "4.26 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "उपनिषद मन्दाकिनी",
-        "Link": "https://drive.google.com/uc?export=download&id=1rbcDtZSH-KbRltiOAlBl7q5FZIMPyd5L",
-        "Size": "31.87 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "ईशोपनिषद, आर्यसमाज",
-        "Link": "https://drive.google.com/uc?export=download&id=1rihfxDEKZAvjqOKVGd1M1WCXIIl3c9ox",
-        "Size": "0.44 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "उपनिषद भाष्य   ईश, केन, कठ आर्यसमाज",
-        "Link": "https://drive.google.com/uc?export=download&id=1rdJc8iH4gFKEONiKFUDCpYaBcDd1KN9-",
-        "Size": "1.12 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Upanishads Excerpts by Sri Aurobindo",
-        "Link": "https://drive.google.com/uc?export=download&id=1rmtRcLkhfGliazU2pDAQkf1aiSgUxOsr",
-        "Size": "4.46 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Taittiriya Upanishad   Shankaracharya Bhashya Eng",
-        "Link": "https://drive.google.com/uc?export=download&id=1s-VutZpX3dkUmpF168hnU9la1fJubljc",
-        "Size": "5.58 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Thirteen Upanishads by Sri Aurobindo",
-        "Link": "https://drive.google.com/uc?export=download&id=1rnpmMh8u4ivggKSVp0jP9fE3WvcWOD5p",
-        "Size": "0.89 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Mundaka Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1s348ArrHet3zgu_oCzRFS9OtfIv8GKIq",
-        "Size": "1.86 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Mundaka Upanishad Secret",
-        "Link": "https://drive.google.com/uc?export=download&id=1s4s0OHqZay55i0RoHC17eryvCUzCKCdQ",
-        "Size": "0.69 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Mandukya Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1s5KqjyF9LDW0JR7OMryqY3gFbkEl8IFf",
-        "Size": "0.67 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Katha Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1sA-iD-t6i__za-RiWtLOjwCkR087KtvG",
-        "Size": "1.02 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Katha Upanishad Significance",
-        "Link": "https://drive.google.com/uc?export=download&id=1sCUC305S-jAyuq-DF_ndUttVupg3Vui1",
-        "Size": "0.83 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Katha Upanishad Secret",
-        "Link": "https://drive.google.com/uc?export=download&id=1sGymjnFTsbtpJjWGMK-BH62VJzHYlhda",
-        "Size": "0.58 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Ish Ken Kath Upanishad Essays",
-        "Link": "https://drive.google.com/uc?export=download&id=1sKhwNZxX2d7Nu6tn1b2m2GbmgU7M-1T0",
-        "Size": "0.43 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Chhandogya Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1sLNVzddzA9ofiHlN2fpRYGGM8oqEwDR6",
-        "Size": "1.17 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Brihadaranyaka Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1sNZEZS7OhAezj7J5DMlNzWwjp25kUUAS",
-        "Size": "2.57 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Ramkrishna Math, Taittiriya Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1sT4czvkyTpWXXS4383pQMKcUmB3zflDN",
-        "Size": "3.26 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Swami Krishnanand, Aitareya   Taittiriya Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1sPTiqklkh2M6bWvvi2yyNik4EqY6Ms5B",
-        "Size": "0.44 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Ramkrishna Math, Prasna Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1sZ1cfEJUGwgoIl0U0mXhgnuthWbeNGw6",
-        "Size": "2.12 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Ramkrishna Math, Kenopanisad",
-        "Link": "https://drive.google.com/uc?export=download&id=1sZ1i9Kl7XeIq6P9obwyXXRwX87HOK6TG",
-        "Size": "0.45 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Nine Upanishads Translation, AryaSamaj",
-        "Link": "https://drive.google.com/uc?export=download&id=1rDkKEmA9D6pSHIS05dPER-_fmVi8gc4n",
-        "Size": "23.11 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Mandukya Upanishad  Swami Ramtirth",
-        "Link": "https://drive.google.com/uc?export=download&id=1rSDSbZbJ3JSoL2YmXdIvE3c9x2ZbpahU",
-        "Size": "4.17 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Katha Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1r58kjv_aLtaUajo2CDGdWAo4EEs6zrKC",
-        "Size": "8.79 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Isha Upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1r6P0lhO87vhB39E45wCjzoWB06iwxI5w",
-        "Size": "0.04 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "Eight Upanishads by Swami Sivananda",
-        "Link": "https://drive.google.com/uc?export=download&id=1r9FYXQsm1biLnnn60vmzdhCJyu6myhfY",
-        "Size": "13.34 MB",
-        "Categories": "Upanishads"
-    },
-    {
-        "Name": "हिन्दू धर्म स्वामी विवेकानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1qsyO1900S29A2MjoBGvj2o9jbLLWc7bw",
-        "Size": "4.89 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "मेरा जीवन तथा ध्येय",
-        "Link": "https://drive.google.com/uc?export=download&id=1que2jcEurY_7TwGAHLdBFAlS47Fg2DH7",
-        "Size": "2.41 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "मरणोत्तर जीवन",
-        "Link": "https://drive.google.com/uc?export=download&id=1qvINRTMCtBkrek-FgrTk724zDtFN4UoC",
-        "Size": "2.87 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "मन की शक्तियाँ",
-        "Link": "https://drive.google.com/uc?export=download&id=1qx42KQ_JrtDG2PXlVF_VACoMRCpINVk0",
-        "Size": "3.89 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "प्रेम योग",
-        "Link": "https://drive.google.com/uc?export=download&id=1qyJb_YwCmm-kZrTppBeT0CGym_hwDSgF",
-        "Size": "4.36 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "कर्मयोग",
-        "Link": "https://drive.google.com/uc?export=download&id=1p_9HYRAxKDt9wXx81Fxrjv3G37zq2lUJ",
-        "Size": "4.34 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Vivekanand On Vedas And Upanishads",
-        "Link": "https://drive.google.com/uc?export=download&id=1pt-yokx9Lsnt9rSDBooh9mVG1lk_li1f",
-        "Size": "2.06 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Vivekananda s Advice to Householders",
-        "Link": "https://drive.google.com/uc?export=download&id=1pqGosaCesyil-UxZHea1Hx3ztTV9sCdx",
-        "Size": "0.06 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Thus Spake Vivekananda",
-        "Link": "https://drive.google.com/uc?export=download&id=1puamoEeato9Nh_M70rkdWv2gMJ7FnKEQ",
-        "Size": "0.1 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 8",
-        "Link": "https://drive.google.com/uc?export=download&id=1pxg3HrfFYZjjs_295WM1idOo8H-QqdR4",
-        "Size": "1.94 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 9",
-        "Link": "https://drive.google.com/uc?export=download&id=1pvOMBjD0WtIFQ9UUncR2NGdpQh8aPqUM",
-        "Size": "2.85 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 7",
-        "Link": "https://drive.google.com/uc?export=download&id=1q2z0oHPktV1AtghdKRCAIT1dBJNo-JZz",
-        "Size": "1.18 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 6",
-        "Link": "https://drive.google.com/uc?export=download&id=1qCJfNlH5SbV13TUE3C28IzrgySTvnpVL",
-        "Size": "2.7 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 5",
-        "Link": "https://drive.google.com/uc?export=download&id=1qP-_s0p5SAiSMJIvA_7P3PRkWsnKY0fe",
-        "Size": "1.93 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1qdk5OWmuKsM1NQg60YInMASTH5gQ5MoS",
-        "Size": "1.73 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1qcTGkvKnmB1Be0Dl8dH30b9lImPkGqT6",
-        "Size": "1.54 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "SWAMI VIVEKANANDA COMPLETE WORKS Vol 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1qmOdOFfPrRgrbdPLwcZqLHzLjIOzrPJ3",
-        "Size": "1.07 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Song Sannyasin",
-        "Link": "https://drive.google.com/uc?export=download&id=1qpGfNy80ETP1gx-NFnphWG3w483SVQqa",
-        "Size": "0.02 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "RajaYoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1qrAG7jrhoA2KKrUrI4uZa28H4u3vWklX",
-        "Size": "0.64 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Raja Yoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1oaqmnLUr71P5DYL1zxlSh4Fgf1dgCQxR",
-        "Size": "1.28 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Raja Yoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1oaTNEDbkZruoKgQvJFTXPokHHsnhzdXT",
-        "Size": "16.76 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Patanjali Yoga Sutra by Swami Vivekananda",
-        "Link": "https://drive.google.com/uc?export=download&id=1oezb8wfD-xfXHF1YL9qgR2lbVgcMPw_q",
-        "Size": "1.17 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Para Bhakti or Supreme Devotion",
-        "Link": "https://drive.google.com/uc?export=download&id=1oiZnW5KEOJWOscF2BzBjvru9WVDH1pa6",
-        "Size": "0.56 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "MotherIndiaVivekananda",
-        "Link": "https://drive.google.com/uc?export=download&id=1p48cMeXLvC0M-LCzJaI2pfrkON8HXLPw",
-        "Size": "0.17 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "LecturesVivekananda",
-        "Link": "https://drive.google.com/uc?export=download&id=1p9zDeE4ArdZ-ScX4r_WpG4i4CXky7LIh",
-        "Size": "0.68 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "friendofall",
-        "Link": "https://drive.google.com/uc?export=download&id=1pIEqbI3zqIs8mkSpQpBW0MyZuNpr-CdH",
-        "Size": "1.52 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Karma Yoga by Swami Vivekananda english",
-        "Link": "https://drive.google.com/uc?export=download&id=1pDhL20U69I9djflyY8UbFtvKFLPjMdfU",
-        "Size": "0.24 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Education By Swami Vivekanand",
-        "Link": "https://drive.google.com/uc?export=download&id=1pVEckiVhubJ6C8iy80DFWxHpG09bpsTJ",
-        "Size": "3.58 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Complete Works of Swami Vivekananda",
-        "Link": "https://drive.google.com/uc?export=download&id=1oBhyv--Gj8pJe6yFm2DH7EneZGqrbzIJ",
-        "Size": "16.51 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "caste problems",
-        "Link": "https://drive.google.com/uc?export=download&id=1oKHlDk2Ch9UeuAqC5VNmzRJUDQgELq6y",
-        "Size": "0.07 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "BioVivek",
-        "Link": "https://drive.google.com/uc?export=download&id=1oL27xv0A2BTl9d1dh9zN-Zxl4nifEeR0",
-        "Size": "1.1 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "AwakeArise",
-        "Link": "https://drive.google.com/uc?export=download&id=1oTk1DUKlXQFAImQOYwTr3vm6p-VQJ1uu",
-        "Size": "0.54 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Bhakti Yoga by Swami Vivekananda english",
-        "Link": "https://drive.google.com/uc?export=download&id=1oRc7OSPITgcz6f5uWSwDztuJX2R6vTmq",
-        "Size": "0.35 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "Aatmaanubhuti आत्मानुभूति",
-        "Link": "https://drive.google.com/uc?export=download&id=1oaMvTZpJ2QSVKnD95FtLNc1h7JKnvKb8",
-        "Size": "7.45 MB",
-        "Categories": "Swami Vivekanand"
-    },
-    {
-        "Name": "what is hinduism",
-        "Link": "https://drive.google.com/uc?export=download&id=1o81iPUb96shuDLzFQcJa5olbHwIjSIbg",
-        "Size": "0.05 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "The Tribal",
-        "Link": "https://drive.google.com/uc?export=download&id=1nscQWIqmvJgpP1qihJ6ba7kVQQ2vq-Ks",
-        "Size": "0.08 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "vairagya",
-        "Link": "https://drive.google.com/uc?export=download&id=1o9zGOjjWxrw-3WMKhy4a49Nvo6YtaT4o",
-        "Size": "0.23 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "The Tree of Life",
-        "Link": "https://drive.google.com/uc?export=download&id=1nwyhLjpbZ-2l65hfqsqBFDxKaHbCcW6R",
-        "Size": "0.35 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "The Foundation of Spirituality",
-        "Link": "https://drive.google.com/uc?export=download&id=1nxJmv-4Byfd7PefqQvYiChvITTiZDpxL",
-        "Size": "0.79 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "The Nature of the True Religious Life",
-        "Link": "https://drive.google.com/uc?export=download&id=1nx5JtvlwvQ9EG6VRTsoec4fPPjP2vV6l",
-        "Size": "0.84 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "spiritualadvice",
-        "Link": "https://drive.google.com/uc?export=download&id=1o1f6-twlsg45CYrxbuvmxN-bl6Q2gOYN",
-        "Size": "0.55 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Spiritual Import of Mahabharata and Bhagavadgita",
-        "Link": "https://drive.google.com/uc?export=download&id=1niZkvWU4QSj-XQnG36KsJNVppGaVJdBV",
-        "Size": "1.06 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Song of God Almighty",
-        "Link": "https://drive.google.com/uc?export=download&id=1nlFpT-81iKvGEMxs6CsZFr3LJkHBzgXN",
-        "Size": "0.26 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Resurgent Culture",
-        "Link": "https://drive.google.com/uc?export=download&id=1nmPiKPwAHMAAY1ShesbVyQjKy_MEvrml",
-        "Size": "0.34 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Short History",
-        "Link": "https://drive.google.com/uc?export=download&id=1nlML5Q6fZUPhCzJ18Wxr0r-tsYAz4lEP",
-        "Size": "0.74 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Principles of a Higher Order of Life",
-        "Link": "https://drive.google.com/uc?export=download&id=1nmmX7GrU02D70VwiLNeyOmdcz7UOOB1z",
-        "Size": "0.21 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "On Life Eternal",
-        "Link": "https://drive.google.com/uc?export=download&id=1nWNAm0vs-_CnDbK2QONzQrX41lWsOdYU",
-        "Size": "0.08 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "practice karma",
-        "Link": "https://drive.google.com/uc?export=download&id=1nrgqWzeazKCjQvQ0OaAu0W-EMF98sMIG",
-        "Size": "0.46 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "noble",
-        "Link": "https://drive.google.com/uc?export=download&id=1nWqTgCAZLGSPSTVWqqEOYx6L3ppLs-O5",
-        "Size": "0.2 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "lord krishna",
-        "Link": "https://drive.google.com/uc?export=download&id=1mkW_OpjL1SVgacyA4MVtekv-7KU5wE-W",
-        "Size": "0.52 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "married",
-        "Link": "https://drive.google.com/uc?export=download&id=1nf94BIy-9eRG3nhhJvZl6kTh-OdhXsfe",
-        "Size": "0.05 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "kingly",
-        "Link": "https://drive.google.com/uc?export=download&id=1mmpd42dmebMWlh02TNT0V1lFWFftBZ4V",
-        "Size": "0.52 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "karmadisease",
-        "Link": "https://drive.google.com/uc?export=download&id=1mnZSXQm2sHoOEgMhSvW2vsjEyNQ7ZuSe",
-        "Size": "0.05 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Interior Pilgrimage",
-        "Link": "https://drive.google.com/uc?export=download&id=1mtDd5MSoc5l3X_fCofBiVwgQCDiw0hc9",
-        "Size": "3.64 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "inspiringthoughts",
-        "Link": "https://drive.google.com/uc?export=download&id=1mv8xtqmflw9qjJimJ09w_ktR66aU0tPi",
-        "Size": "0.07 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Hymn to Mighty God",
-        "Link": "https://drive.google.com/uc?export=download&id=1mvtEspPnAlFW7MXJ4t_aCG7ISRWkwuLv",
-        "Size": "0.16 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "humanity as yagna",
-        "Link": "https://drive.google.com/uc?export=download&id=1n2FxG4YCjcXtcLn9msuCeNb70HeJ-LqQ",
-        "Size": "0.09 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Heritage of Indian Culture",
-        "Link": "https://drive.google.com/uc?export=download&id=1n2KDc0Swjr3qvnV4flOPdbOH5u5Gx1x1",
-        "Size": "0.47 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Hanuman in Lanka",
-        "Link": "https://drive.google.com/uc?export=download&id=1n2WsK1AjXqnvjjwsdDTBsl2RC26Y7-MB",
-        "Size": "0.09 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "eternal",
-        "Link": "https://drive.google.com/uc?export=download&id=1nCG20ujwmU5diU6F9OrClGOPVgIEx3Rz",
-        "Size": "0.15 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Fruit from the Garden of Wisdom",
-        "Link": "https://drive.google.com/uc?export=download&id=1n4zc4FLfxueeQQBKMxdUFZCti0bSolhE",
-        "Size": "0.3 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Essence of VedantaSS",
-        "Link": "https://drive.google.com/uc?export=download&id=1nFKoHOZtuHrVe5kXS0ibjt9Z4hqmxQu6",
-        "Size": "11.36 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Epic of Consciousness",
-        "Link": "https://drive.google.com/uc?export=download&id=1nHLN4N0YBXfc-iJLEgee3jL16-zruHNZ",
-        "Size": "0.34 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "Daily Invocations",
-        "Link": "https://drive.google.com/uc?export=download&id=1nLydJ3wRV7QMzkWqzs_UCPfTn32d38Ur",
-        "Size": "0.77 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "An Intro Krishnananda",
-        "Link": "https://drive.google.com/uc?export=download&id=1nM68fneq0oQJAOQWtQGMJJOb25LLu7yc",
-        "Size": "0.53 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "after death",
-        "Link": "https://drive.google.com/uc?export=download&id=1nS8E_Ys9S9lHpHe-YL7b2b7NEJ1vzLrR",
-        "Size": "0.42 MB",
-        "Categories": "Swami Shivanand"
-    },
-    {
-        "Name": "WhatIsAum",
-        "Link": "https://drive.google.com/uc?export=download&id=1mUKk81mpfdCm8bSgyzgKjHLRy4yrp1Kw",
-        "Size": "0.21 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "The Story Of Swami Rama",
-        "Link": "https://drive.google.com/uc?export=download&id=1mRVVYbrHH3RA5gSMVMlFec-um3w8d3QC",
-        "Size": "1.4 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "The Science and Technolohy Heritage of Ancient India(www.vedickranti.in)",
-        "Link": "https://drive.google.com/uc?export=download&id=1mBu3GKmKNoKQAOYIM5HMWsKT9DatcIhs",
-        "Size": "1.42 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 27",
-        "Link": "https://drive.google.com/uc?export=download&id=1mKslvDece-yQHiGbEy8zH3IJToBRQBVG",
-        "Size": "2.8 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 28",
-        "Link": "https://drive.google.com/uc?export=download&id=1mKs9i0xcfIA_6zfoqjlXAMeAEqOKl-_h",
-        "Size": "2.33 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 26",
-        "Link": "https://drive.google.com/uc?export=download&id=1mBpwE5uE_CgdOX1gfayAsks0asq1pV_W",
-        "Size": "31.7 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 24",
-        "Link": "https://drive.google.com/uc?export=download&id=1m42nxf_t-ZVqiAt7yGH4UHhjLP6mba4k",
-        "Size": "24.43 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 25",
-        "Link": "https://drive.google.com/uc?export=download&id=1m6P2FMx47-YOqHNmvG0jvO5vMUzuNbFT",
-        "Size": "4.24 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 22",
-        "Link": "https://drive.google.com/uc?export=download&id=1lulKuP9HfIUTya_DnimGZBovom-kkAKH",
-        "Size": "4.29 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 23",
-        "Link": "https://drive.google.com/uc?export=download&id=1lt_mvd61568ohJqfwyDKa7mjuhgIl1iO",
-        "Size": "11.02 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 21",
-        "Link": "https://drive.google.com/uc?export=download&id=1kncUpaa-eVmkknAsYXzlORAuhVRMUHUk",
-        "Size": "28.23 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 19",
-        "Link": "https://drive.google.com/uc?export=download&id=1kjIyyXBZxpR6vvbaVyykvkWIhNGHX5gY",
-        "Size": "34.16 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 20",
-        "Link": "https://drive.google.com/uc?export=download&id=1kpFtspzw5VRB9D02dt0yK2ZBLZ40FlZz",
-        "Size": "4.58 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 16",
-        "Link": "https://drive.google.com/uc?export=download&id=1kbszVNbqHylgWzVKfSzus2iDxkF0W-6z",
-        "Size": "28.11 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 17 18",
-        "Link": "https://drive.google.com/uc?export=download&id=1kkz91Hf2DNfr95qEFP5R5JyBDtGlZRfk",
-        "Size": "7.17 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 15",
-        "Link": "https://drive.google.com/uc?export=download&id=1ke5FrdJqUtTxG_A5Dslf4tJqAc2Y7YLU",
-        "Size": "4.19 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 14",
-        "Link": "https://drive.google.com/uc?export=download&id=1ke5sLW0XfhQTVuDtie8gLFDny0-wzIzM",
-        "Size": "9.55 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 13",
-        "Link": "https://drive.google.com/uc?export=download&id=1kgqZHY65tqHj-s-3R7PKm7rliUHQi9t7",
-        "Size": "3.97 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 11",
-        "Link": "https://drive.google.com/uc?export=download&id=1kXEo3s3IZLjpgamvE16EGbDuzqczl4Vx",
-        "Size": "16.66 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 12",
-        "Link": "https://drive.google.com/uc?export=download&id=1kW0PpjYQzmuO1IWhEP5UkDPB813ML75P",
-        "Size": "15.96 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 10",
-        "Link": "https://drive.google.com/uc?export=download&id=1kK4p10lNqcmozIPxeEVSwHbYM0gllzjm",
-        "Size": "19.75 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 09",
-        "Link": "https://drive.google.com/uc?export=download&id=1kQeZ5KH4X5k6rCZzUkU2gS0JJOKyM8e4",
-        "Size": "2.82 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 06",
-        "Link": "https://drive.google.com/uc?export=download&id=1kDPfN2zbnzL-hVnB1z4Trs04GBT484Up",
-        "Size": "9.23 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 07 09",
-        "Link": "https://drive.google.com/uc?export=download&id=1k8DOnxITIRTgVOm8n4AoFcOweCGfG3yN",
-        "Size": "12.77 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 05",
-        "Link": "https://drive.google.com/uc?export=download&id=1kIXQS9n06vvz8vlg7n-vAj08J0uHga62",
-        "Size": "3.53 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 04",
-        "Link": "https://drive.google.com/uc?export=download&id=1jSmeL4fN5fnzvXGuJln2Yh8fPv0ju152",
-        "Size": "18.45 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 03",
-        "Link": "https://drive.google.com/uc?export=download&id=1jdsyysaUZM2AdsS65ss5QPmN5z5oPAzq",
-        "Size": "18.7 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 01",
-        "Link": "https://drive.google.com/uc?export=download&id=1jsw7vSkEnHomI1U9pz7aqKGJwHllmdKH",
-        "Size": "3.68 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "SwamiRamaTirthaGranthavali Hindi 02",
-        "Link": "https://drive.google.com/uc?export=download&id=1jpinVgTaSc3wY0n90N3SYKv3XpuVHAPF",
-        "Size": "17.99 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "swami rama beyond biofeedback",
-        "Link": "https://drive.google.com/uc?export=download&id=1jxpcwBSfiuTkEa2Hsh6fguUZXPsMibLs",
-        "Size": "1.19 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "swami rama teachings",
-        "Link": "https://drive.google.com/uc?export=download&id=1k2NX5nAkjDC9HKXhC5nWDyvczwwZ93nz",
-        "Size": "0.25 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "Spiritual Enlightenment",
-        "Link": "https://drive.google.com/uc?export=download&id=1k37wj11EEp2fvIml11oLlosNyX_eXObx",
-        "Size": "0.04 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "science of the emotions",
-        "Link": "https://drive.google.com/uc?export=download&id=1jReHJMZQfRbqzGOAT2u591kOyBY2d8MZ",
-        "Size": "20.47 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "science of peace",
-        "Link": "https://drive.google.com/uc?export=download&id=1j33_gE0dLQ3s6UD1yredNUKjCC1sLyjv",
-        "Size": "22.6 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "Perfect Questions Perfect Answers",
-        "Link": "https://drive.google.com/uc?export=download&id=1j3RCsM7Rq66dgyEWiSxHbIGOcDq9Ezfm",
-        "Size": "0.45 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "mental health and hindu phycology",
-        "Link": "https://drive.google.com/uc?export=download&id=1j7bXdTfxood9JvfsFFGcMz_Y7v6u7g-D",
-        "Size": "10.77 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "Parables Of Rama By Swami RamaTirtha",
-        "Link": "https://drive.google.com/uc?export=download&id=1j3ev-a3Z0MciwejGm6PMy8EVt75sGGmZ",
-        "Size": "2.01 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "BecomingAHinduOrDevoteeIsEasy",
-        "Link": "https://drive.google.com/uc?export=download&id=1j9RRYENBCsikpIM5JigC7ElD6MxeFw-d",
-        "Size": "0.04 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "Lessons from swadhyay",
-        "Link": "https://drive.google.com/uc?export=download&id=1j86qTg83oqGubyEPGb7o9wVDeQrW47Fx",
-        "Size": "0.41 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "Atman in Pre Upanisadic VedicL",
-        "Link": "https://drive.google.com/uc?export=download&id=1is6juc64-2zqdUNJHZ-1XJMJp4HgNv63",
-        "Size": "16.04 MB",
-        "Categories": "Swami Ramteerth"
-    },
-    {
-        "Name": "sammulas8",
-        "Link": "https://drive.google.com/uc?export=download&id=1kpx87IfxZkDD8zVQhw40uaYFGECEwmXF",
-        "Size": "0.94 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas9",
-        "Link": "https://drive.google.com/uc?export=download&id=1m1BMcCUh-k5c7RDxB6SlWhL_VH5ieV5A",
-        "Size": "0.86 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas6",
-        "Link": "https://drive.google.com/uc?export=download&id=1l2TtwBbDY3lXwYcYt5zeL5KKivhV7vHy",
-        "Size": "1.02 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas7",
-        "Link": "https://drive.google.com/uc?export=download&id=1kybAsJwaE48y89LNcTNxHq2jKqueem-M",
-        "Size": "0.93 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas5",
-        "Link": "https://drive.google.com/uc?export=download&id=1l5QFiPw2hQYLbMJY0-p_b7BeKP7-US8m",
-        "Size": "0.67 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas3",
-        "Link": "https://drive.google.com/uc?export=download&id=1l82tqbGr76gAKYGP72_02AL71Qt2JbVb",
-        "Size": "1.32 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas4",
-        "Link": "https://drive.google.com/uc?export=download&id=1l7dtMrRFUJfbH_sGFro6SfUFkUk6hvkW",
-        "Size": "0.91 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas2",
-        "Link": "https://drive.google.com/uc?export=download&id=1lOIZGN2kuscF9qPQRi3w7YxCxxzGI-Fz",
-        "Size": "0.52 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas14",
-        "Link": "https://drive.google.com/uc?export=download&id=1lQpUoCxe9spTGY-gP4v8Gp249tvV0Evm",
-        "Size": "1.09 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas13",
-        "Link": "https://drive.google.com/uc?export=download&id=1lVwUw-NDsZ7wa7bQ9rXaJBeyFBIUVNJi",
-        "Size": "0.94 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas11",
-        "Link": "https://drive.google.com/uc?export=download&id=1l_suC9j9GlvYaIGV4uNeKFjTI0RJh2G1",
-        "Size": "2.37 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas12",
-        "Link": "https://drive.google.com/uc?export=download&id=1l_UPxUSm6hBdHfSYAuftn_Uy77Wozawi",
-        "Size": "0.99 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas10",
-        "Link": "https://drive.google.com/uc?export=download&id=1laZuvjpC2UzwpLqZVPdOMi4ehfiB8Kcc",
-        "Size": "0.85 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "sammulas1",
-        "Link": "https://drive.google.com/uc?export=download&id=1lc8SCnKrUv05mY5Bm8On45Q_PrFuw3bx",
-        "Size": "0.58 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "MANGALB.TTF",
-        "Link": "https://drive.google.com/uc?export=download&id=1lqaR0jmmnrV8m1eqk3rki7--HoDDZL2T",
-        "Size": "0.16 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "bhumika",
-        "Link": "https://drive.google.com/uc?export=download&id=1lrF05fZi-HjTFHRfRXSLutuFwTWnt55j",
-        "Size": "0.52 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश",
-        "SubCategories2": "SatyarthPrakash"
-    },
-    {
-        "Name": "सरल बाल सत्यार्थ प्रकाश",
-        "Link": "https://drive.google.com/uc?export=download&id=1itegmEhAsGTpzKEmgxdLFDZENeGoSIzs",
-        "Size": "0.69 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश"
-    },
-    {
-        "Name": "सत्यार्थ प्रकाश भ्रान्ति समाधान",
-        "Link": "https://drive.google.com/uc?export=download&id=1j0rhO6zyRVPWP5kiFidrX0WAKBXVdfzM",
-        "Size": "3.72 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश"
-    },
-    {
-        "Name": "Light Of Truth",
-        "Link": "https://drive.google.com/uc?export=download&id=1j2ATQnz6NFC1wX6rNqAWXKZeoqq7DxH2",
-        "Size": "3.54 MB",
-        "Categories": "Swami Dayanand",
-        "SubCategories1": "सत्यार्थप्रकाश"
-    },
-    {
-        "Name": "स्विकारपत्र",
-        "Link": "https://drive.google.com/uc?export=download&id=1iWsTuAhLFQcPRAHgnz9Pvkuqw9IZbieN",
-        "Size": "0.48 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "सत्यार्थ प्रकाश",
-        "Link": "https://drive.google.com/uc?export=download&id=1ibkeNnczYBdcirGR7Zag3zcBWH7Puzfp",
-        "Size": "2.1 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "संस्कृत वाक्य प्रबोध  महर्षि दयानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1ijYwbiobSSXrPnXzKfG3x5uzFK9pATwk",
-        "Size": "4.62 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "संस्कृत वाक्य प्रबोध  महर्षि दयानंद(1)",
-        "Link": "https://drive.google.com/uc?export=download&id=1hs0IxG0kU1ty_a15exAv-EfiOPeWQUfK",
-        "Size": "4.62 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "संस्कारविधि",
-        "Link": "https://drive.google.com/uc?export=download&id=1hsS-uyIsEnK2nE1xenC3jtuq19zWs6At",
-        "Size": "0.81 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "व्यवहार भानु",
-        "Link": "https://drive.google.com/uc?export=download&id=1hweqHoWK3XeQQYT0jOWPk73y0q-9IMcv",
-        "Size": "0.13 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "वेदान्ति ध्वान्तनिवारण ",
-        "Link": "https://drive.google.com/uc?export=download&id=1i05uLsnhcUtAcXy7N0gQfOLpRg4PjU80",
-        "Size": "0.89 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "वेदविरुद्ध मतखण्डन",
-        "Link": "https://drive.google.com/uc?export=download&id=1i5K1HJrO1QyuZWI3p2is8rFrAZr2UU4d",
-        "Size": "0.99 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "भ्रमोच्छेदन",
-        "Link": "https://drive.google.com/uc?export=download&id=1iB16kuUdOfHC4CLUBLmzs-opG004kSih",
-        "Size": "3.47 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "भ्रान्ति निवारण",
-        "Link": "https://drive.google.com/uc?export=download&id=1i5s_Eo8M4EtQFnsE_npIa21a-FOCHDRY",
-        "Size": "5.85 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "दयानंद शास्त्रार्थ संग्रह",
-        "Link": "https://drive.google.com/uc?export=download&id=1iBFB4ZSVSUYit1l59967D-jHsfjFZxBD",
-        "Size": "0.7 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "ऋग्वेदादिभाष्यभूमिका",
-        "Link": "https://drive.google.com/uc?export=download&id=1iEyysr5zGtgW6GUV89QuLwToCpHKDAol",
-        "Size": "2.57 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "आर्योद्देश्यरत्नमाला",
-        "Link": "https://drive.google.com/uc?export=download&id=1iLeIz-meYBBGlBNnUQpMEXYp1aEn2N-G",
-        "Size": "0.06 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "satyarthprakash pratham sanskaran",
-        "Link": "https://drive.google.com/uc?export=download&id=1hmEfBoMGpYGayqYPuqDR8SIoGElyF2Jj",
-        "Size": "647.59 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "SP English   Chiranjiva Bharadwaja",
-        "Link": "https://drive.google.com/uc?export=download&id=1hpbsRR5U_vdtQ1r_X57BGT8dU_pR0qL1",
-        "Size": "67.27 MB",
-        "Categories": "Swami Dayanand"
-    },
-    {
-        "Name": "yoga sutras mulam ",
-        "Link": "https://drive.google.com/uc?export=download&id=1hdJ_q4epQ-XLLvcU9u_u6PCctKa1Nqrq",
-        "Size": "2.39 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "yajnavalkya smrti abridged",
-        "Link": "https://drive.google.com/uc?export=download&id=1hFXUZAPyKopmjioP1Di_HPQkfFwcf9D6",
-        "Size": "1.83 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "yajur veda upakarma",
-        "Link": "https://drive.google.com/uc?export=download&id=1hAUVLuCEMKF9DlSkzXPy82v3VuqSvwx_",
-        "Size": "7.87 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "why xtianity is false",
-        "Link": "https://drive.google.com/uc?export=download&id=1hMOlEaCILfBw4Uo9Cnjc23Y057uqgEiT",
-        "Size": "2.26 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "why jesus is not the messiah",
-        "Link": "https://drive.google.com/uc?export=download&id=1hOIDM6BwVCNoUuJYtJHeJ6knKFp7H44s",
-        "Size": "0.17 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "vishnu sahasranama stotra",
-        "Link": "https://drive.google.com/uc?export=download&id=1hSFDXQKshKsFCckpvFHSgCtjsAZRF2V8",
-        "Size": "3.24 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "vajrasuchika up.",
-        "Link": "https://drive.google.com/uc?export=download&id=1h_XF67fEwgoMfEup1JSEg38c8bi-xSJQ",
-        "Size": "0.4 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "vidura niti",
-        "Link": "https://drive.google.com/uc?export=download&id=1hSswpgw2mY2mf6XMQD6sRtgnS0dMf9su",
-        "Size": "0.59 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "tiruppavai",
-        "Link": "https://drive.google.com/uc?export=download&id=1h_jcB-38TKt7p9AqNo3w2S-rYcKkkyzq",
-        "Size": "6.25 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "thecosmicgame",
-        "Link": "https://drive.google.com/uc?export=download&id=1gu3xk1sF2l3gtm2lV34QgYda1PfxLjQf",
-        "Size": "4.08 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "the yoga school",
-        "Link": "https://drive.google.com/uc?export=download&id=1hcbUsm2hVhGlAqxp0LKiEiRSc80R093v",
-        "Size": "0.46 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "the hindu sacrament of marriage",
-        "Link": "https://drive.google.com/uc?export=download&id=1ggiBWPfDHLYFs16ig92eP36hC3tVuyM4",
-        "Size": "6.34 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "the bible unmasked",
-        "Link": "https://drive.google.com/uc?export=download&id=1gtVlWvKcTNxLKFsNMZgf8hlsT_Lquxhj",
-        "Size": "2.35 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "the butchers gita",
-        "Link": "https://drive.google.com/uc?export=download&id=1gnH67hSr4j56f_MVXbqZAzmoJlO2J3Sf",
-        "Size": "1.37 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "the basics of vedanta",
-        "Link": "https://drive.google.com/uc?export=download&id=1gu2l1BYzhY2Msu3q7JXfp7Eck-ptQ3JW",
-        "Size": "4.34 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "taittiriya upanisad",
-        "Link": "https://drive.google.com/uc?export=download&id=1h32btTKLAZ4TbTyjzNgPjg4FhUSn4tDr",
-        "Size": "5.58 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "sukta sangraha",
-        "Link": "https://drive.google.com/uc?export=download&id=1gf6caVNTl-qBT6hdjmrggw7ASBmmPnpx",
-        "Size": "32.11 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "srivaishnava prayer book 2014",
-        "Link": "https://drive.google.com/uc?export=download&id=1gBK7WSUfB4KovZs5ySGqB9d6sBeKrfxi",
-        "Size": "17.68 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "srivaishnava handbook",
-        "Link": "https://drive.google.com/uc?export=download&id=1gIH8kOi82NzzaZP_aKPlBtgZFHWp-tTI",
-        "Size": "5.79 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "srivacanabhusana",
-        "Link": "https://drive.google.com/uc?export=download&id=1gIgvk6Zt-04DMLoJSTPUFifv8knd2T__",
-        "Size": "2.09 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "sanskrit 101",
-        "Link": "https://drive.google.com/uc?export=download&id=1gJRMEAShe256nt0DluCe53J5gFPx9pWf",
-        "Size": "9.07 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "sandhya",
-        "Link": "https://drive.google.com/uc?export=download&id=1gUNCOlVxBIP544dMndFlUBFz-Z1F5Suh",
-        "Size": "3.97 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "pratishtha prayoga diacritics",
-        "Link": "https://drive.google.com/uc?export=download&id=1fs2wH7AXnb9K_IbUmANk7LLW0lsVdkgW",
-        "Size": "29.6 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "quran on hindus",
-        "Link": "https://drive.google.com/uc?export=download&id=1gWRb2GIyhT03gPSq0SwFei4SsatjIX-F",
-        "Size": "2.2 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "prapanna parijata",
-        "Link": "https://drive.google.com/uc?export=download&id=1g9xuoARPHBmnxLHJ9-GZUrR8sKXKxQnN",
-        "Size": "1.69 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "pancharatraprayoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1fUF9OIOo2n09VhaXPXRhBOek40xsWIkS",
-        "Size": "7.64 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "pastamba d. s. abridged",
-        "Link": "https://drive.google.com/uc?export=download&id=1gAPEhZ7LjcQ7ArIKk8QGCM56R-E528jJ",
-        "Size": "0.82 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "nyaya philosophy",
-        "Link": "https://drive.google.com/uc?export=download&id=1fbjUH8ybsKdDSFTVJGdj-EJHcq_QeAzp",
-        "Size": "0.51 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "mimamsa",
-        "Link": "https://drive.google.com/uc?export=download&id=1fidSTVwic2svmwdaxkC_h57JHwEnslXD",
-        "Size": "2.65 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "muhammad vs rama",
-        "Link": "https://drive.google.com/uc?export=download&id=1ffLfv36bmQuspAdQUyzxsk1BOaHx8_6h",
-        "Size": "2.33 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "manu for modern times",
-        "Link": "https://drive.google.com/uc?export=download&id=1fnvCJhoN_P9Gl1n1C7YvnXXndrYcYpGy",
-        "Size": "0.48 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "katha upanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1fo_a_6dXOchtg6xLGprLQMwwMmSq-k9Z",
-        "Size": "8.79 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "kali santarana upanisad",
-        "Link": "https://drive.google.com/uc?export=download&id=1fpbv1fabgHz-bjSutsLe-G5aFwYW2-OA",
-        "Size": "0.38 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "intro to vedic chanting",
-        "Link": "https://drive.google.com/uc?export=download&id=1fGLwfqBkmaor2PiPs6CVteFkFhbwAoo2",
-        "Size": "13.49 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "icon of panc 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1fR98Bj3isIgNwJnH-TilfL-q0K3NzF9k",
-        "Size": "7.06 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "intro to pancaratra",
-        "Link": "https://drive.google.com/uc?export=download&id=1fM5VkgjClgjYYw1DQNDgZ2UcSgSHafg8",
-        "Size": "0.21 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "icon of panc 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1f2Bc4oXLLeLgedvLJzH-c0g3B7QrsrgU",
-        "Size": "9.88 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "icon of panc 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1f9LEKVjRxn8NCyszrLzioAgMWXLnv-da",
-        "Size": "8.02 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hinduism for beginners",
-        "Link": "https://drive.google.com/uc?export=download&id=1eA51poJEzDjBT8UuLjO34YNwamEZmLjY",
-        "Size": "7.72 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu samskaras",
-        "Link": "https://drive.google.com/uc?export=download&id=1fBsBa8epa9CljqMpiEZLddbQ7sjwGGv6",
-        "Size": "11.98 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu ritual vol 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1erTR882MIKtSLX2-XoOfz658d2-ltLlv",
-        "Size": "9.93 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu ritual vol 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1exzUc9RZ6ofDE6eyFXCYo2Imweu1lzuN",
-        "Size": "6.06 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu iconography 6",
-        "Link": "https://drive.google.com/uc?export=download&id=1f-0Vi8oTyrdLKWlLfaD7pJJxWUUYAfIV",
-        "Size": "12.68 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu iconography 5",
-        "Link": "https://drive.google.com/uc?export=download&id=1ebN5Xg-ga6AP0saytFdpSlFcZ4Kg9LLd",
-        "Size": "2.73 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu iconography 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1efJYaP1MPviB7bq8p86xYwPce99nXOSt",
-        "Size": "2.42 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu iconography 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1eiPL-9htXApm9n71StM-Dzg6qm-Kw6cQ",
-        "Size": "4.68 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu iconography 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1enC_jaTochFMkFPcK1rxU9egP5bGpIYV",
-        "Size": "4.39 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hindu iconography 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1ekr4fcnws3c6yZ4XOYo0vvli6Car4CwU",
-        "Size": "7.6 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "hateful verses from the quran",
-        "Link": "https://drive.google.com/uc?export=download&id=1eB9tscLv47uFzzBEwab-0fNKJUb5YOb1",
+        "Name": "Compilers   Principles, Techniques, and Tools Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman Pearson Addison Wesley (2006)",
+        "Link": "https://drive.google.com/uc?export=download&id=1xBMexrTe_6Gs2d7L7tegsEG1uffzfRHA",
         "Size": "5.78 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
+        "Categories": "Others"
     },
     {
-        "Name": "god   bible koran gita",
-        "Link": "https://drive.google.com/uc?export=download&id=1eBP5jOBIx37f9BQ4C4ARwSxOqJkFTvDr",
-        "Size": "3.67 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
+        "Name": "Codingblocks Competitive programming ",
+        "Link": "https://drive.google.com/uc?export=download&id=1bDEj2PfmIpdL_ozUaE2jvEhiXFYz-Qo6",
+        "Size": "43.73 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "gita bhashya",
-        "Link": "https://drive.google.com/uc?export=download&id=1eEhwHsQ4oE0CUG1HbjuQAZPt0bN9ZQjD",
-        "Size": "5.02 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
+        "Name": "AWS Certified Cloud Practitioner",
+        "Link": "https://drive.google.com/uc?export=download&id=1R9jAD_HTojgSvzvliJ_byj5KbqVaW8RP",
+        "Size": "12.82 MB",
+        "Categories": "Others"
     },
     {
-        "Name": "gita and quran",
-        "Link": "https://drive.google.com/uc?export=download&id=1eFuYvK551bede9NY1HFkvlxgXcSxkNSP",
-        "Size": "4.78 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "conversations",
-        "Link": "https://drive.google.com/uc?export=download&id=1eISdegSrXDlKy0ZtiJ5egdDwLx9xSo3N",
-        "Size": "4.3 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "garuda purana saram",
-        "Link": "https://drive.google.com/uc?export=download&id=1eG-h-RITsn8HN4kTzcVP5LBUy4HdeaOJ",
-        "Size": "0.25 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "christianityexplainedtoahindu",
-        "Link": "https://drive.google.com/uc?export=download&id=1eKP6fRypM3yZKLPrjyCC9CbMYL3b-GTu",
-        "Size": "0.71 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "catechismofva",
-        "Link": "https://drive.google.com/uc?export=download&id=1eLxL_gJyjwkJaylKTXFdqjFqBFrzCyuG",
-        "Size": "3.37 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "attachment",
-        "Link": "https://drive.google.com/uc?export=download&id=1eRZqpmMcYpRXQJm6MPTvcpbIot9D5RWp",
-        "Size": "0.36 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "applied dharma",
-        "Link": "https://drive.google.com/uc?export=download&id=1eVVVlDk2TtUfsBmv6mSEQ2keb7YQilnq",
-        "Size": "4.02 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "apastamba  dharma grihya sutras",
-        "Link": "https://drive.google.com/uc?export=download&id=1ebEh1A0bxwJVqxWN9Yb685-y-iRi0jn0",
-        "Size": "2.03 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "a hindu criticism of islam",
-        "Link": "https://drive.google.com/uc?export=download&id=1eOiAyfV4a63Y8-wkIkVq2hSYagY-Mh1E",
-        "Size": "0.54 MB",
-        "Categories": "Srimatham",
-        "SubCategories1": "Srimatham"
-    },
-    {
-        "Name": "दिव्य जीवन",
-        "Link": "https://drive.google.com/uc?export=download&id=1e1zaNETDNVqVRypOWezXzf9TdrjNCNg6",
-        "Size": "410.25 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "yoga of sri aurobino",
-        "Link": "https://drive.google.com/uc?export=download&id=1dUeK8B-S8zup9ZsAvZSjTQeHjO1br1Hz",
-        "Size": "6.55 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Vedic Experience",
-        "Link": "https://drive.google.com/uc?export=download&id=1daFggCILXfQRaPp1NL72cTNEWVZqgPFQ",
-        "Size": "3.39 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Vedic Exp",
-        "Link": "https://drive.google.com/uc?export=download&id=1dbdti-Kb9gdTHARBMUtytpMykPlUaUwf",
-        "Size": "3.73 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "UpanishadsExpl",
-        "Link": "https://drive.google.com/uc?export=download&id=1diXTtJ0lD0zQP1rfk9gH95aGWl8j7sev",
-        "Size": "4.46 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "TheSecretofVeda",
-        "Link": "https://drive.google.com/uc?export=download&id=1dr5wi3ApDuY20EyViE6nwF4XSXg4qPJo",
-        "Size": "2.35 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "the synthesis of yoga aurbindo",
-        "Link": "https://drive.google.com/uc?export=download&id=1e-AsgximY8s0bG8zJ39Y1ixR801KcB7I",
-        "Size": "2.78 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "The Life Divine Vol2",
-        "Link": "https://drive.google.com/uc?export=download&id=1dMkBfRIDAYKXi7tlj_OAY_6AKhnt08sU",
-        "Size": "34.7 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "The Life Divine",
-        "Link": "https://drive.google.com/uc?export=download&id=1dOGsRYjDrbz9KQ8SkzeKmTMLAV-OFjY5",
-        "Size": "65.46 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "The Gita For The Youth",
-        "Link": "https://drive.google.com/uc?export=download&id=1dHPR3hM2WXiJlCV6olf9X-ywOX8jJiH3",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "The Genius Of India",
-        "Link": "https://drive.google.com/uc?export=download&id=1dHmY9ZYDC974OkkKoB4s3T8Q_SyTbk2r",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "songs of vidyapati",
-        "Link": "https://drive.google.com/uc?export=download&id=1cV5-V6clXaPC028SZzQBqdi8YCdT8eno",
-        "Size": "1.64 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Shri Aravind Ke Patra (Part 2 and 3)",
-        "Link": "https://drive.google.com/uc?export=download&id=1c_jUiPjFq32sbPi2xNW_3m_58qEmogx-",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Savitri Aur",
-        "Link": "https://drive.google.com/uc?export=download&id=1ccSxFqANbzfeJwCp-ukqMUL2uHJyyq5Q",
-        "Size": "1.9 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Savitri",
-        "Link": "https://drive.google.com/uc?export=download&id=1cq7oPJzo1kpH52XRmQ2MtY_eIWgXbnOn",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Savitri   Pushpa 7",
-        "Link": "https://drive.google.com/uc?export=download&id=1cqAKYG-V8OEhZkPX9xyK89JEBhX8_g5a",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Savitri   Pushpa 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1cxNEYlaIHtI0gMedNMqqjz4pIhKf_6DP",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Savitri   Pushpa 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1d8tqgDr_OOJvmJIMxCLdI74QuoHiuQgO",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Savitri   Pushpa 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1d3Kv4SiHqXBb3IUDPQ1hfamfsvLbtGJB",
-        "Size": "1.38 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Sandhya Mantras",
-        "Link": "https://drive.google.com/uc?export=download&id=1d9lC6UuYXvZcsniPK4h3Qs9rSKzyOB0P",
-        "Size": "0.31 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "PracticalGuideToIntegralYoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1dBRgWMrwFfitkllXlIgRxj5fzKaNPmSy",
-        "Size": "15.13 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "MathematicsVedic",
-        "Link": "https://drive.google.com/uc?export=download&id=1dDsaTpzQMIwKITDxmRTGzcYIKvGzm6OS",
-        "Size": "1.47 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Manav Ekta Kaa Adarsh, Yudh Aur Atma Nirnaya",
-        "Link": "https://drive.google.com/uc?export=download&id=1cQRuJHTSnmUP8tn6gzyy61n4muPBpm6T",
-        "Size": "56.28 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Light To Superlight",
-        "Link": "https://drive.google.com/uc?export=download&id=1cOnsTACr2y4H36BpyMBD-57Hu-WQc-Su",
-        "Size": "56.09 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "LifeDivinePart2",
-        "Link": "https://drive.google.com/uc?export=download&id=1c4sFjMuuggxX3JXMBUg-n8t5GhdTID6M",
-        "Size": "1.47 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "letters of sri aurobindo",
-        "Link": "https://drive.google.com/uc?export=download&id=1c9xMiXYdLswZeinLk2wnz4_Eh7q2S5bw",
-        "Size": "12.84 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "LifeDivinePart1",
-        "Link": "https://drive.google.com/uc?export=download&id=1c9SbOmBobgua6yzRxUK1lkZcpKhm9bGe",
-        "Size": "0.55 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Letters Of Sri Aurobindo On The Mother",
-        "Link": "https://drive.google.com/uc?export=download&id=1cCdyO1dVuoOWJck5SjqB_T3Gnm08nv1T",
-        "Size": "4.99 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "India^s Rebirth",
-        "Link": "https://drive.google.com/uc?export=download&id=1bgjXVbawsX1-3nlZr5AiiVEj-SZ-oBmN",
-        "Size": "59.62 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "KenaUpanishad",
-        "Link": "https://drive.google.com/uc?export=download&id=1cKj5cTxhGpInJKlui7N8LcjavePHkTO6",
-        "Size": "0.89 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "India and Her Future",
-        "Link": "https://drive.google.com/uc?export=download&id=1bklpNcN_Ql5FvCxcdNoibjQy4H-yBdIa",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "How to Bring up a Child",
-        "Link": "https://drive.google.com/uc?export=download&id=1bmnpq15-3ER5fc_cKeL-3tlExsZE3eFj",
-        "Size": "0.0 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "HinduMarriage",
-        "Link": "https://drive.google.com/uc?export=download&id=1bvDFG7im0dTUdDObNU_KyX5p4OpXTBJz",
-        "Size": "0.24 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "EssenceofVeda",
-        "Link": "https://drive.google.com/uc?export=download&id=1bx38o7s1rVPeegyYfh197ITr4YDuUdaE",
-        "Size": "0.13 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "EssaysontheGita",
-        "Link": "https://drive.google.com/uc?export=download&id=1c1p8rBx-4EKPi5Ge7ue9wqm3ldFVXaqK",
-        "Size": "1.88 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "EssaysinPhilosophyandYoga",
-        "Link": "https://drive.google.com/uc?export=download&id=1b6YZ5qyATWQfWZd6_29OadsAbMfr9rp6",
-        "Size": "1.35 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Deeper Meaning",
-        "Link": "https://drive.google.com/uc?export=download&id=1bDOXS3T6w9EkTmiQIusvAwMsmWTzu8TR",
-        "Size": "0.26 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "EssaysDivineandHuman",
-        "Link": "https://drive.google.com/uc?export=download&id=1bDE_WIkNfj07rubtY1lBSrx6GlRQymEl",
-        "Size": "0.88 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Darshan",
-        "Link": "https://drive.google.com/uc?export=download&id=1bHVHTKriAS9qvfaoI5a8VJTsPLjX-qZB",
-        "Size": "4.56 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "25Answers",
-        "Link": "https://drive.google.com/uc?export=download&id=1bSAObSfnCOqcxtPr_PPumDevtV8jqpeU",
-        "Size": "0.06 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "Bankim Tilak Dayanand",
-        "Link": "https://drive.google.com/uc?export=download&id=1bQGxjYfs-eI0uVfvRQ6haeQ__cyyL8wh",
-        "Size": "2.57 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "25 Answers about aurobindo",
-        "Link": "https://drive.google.com/uc?export=download&id=1bVDH77KfPLktm13WxNtNpr621SlnqfaP",
-        "Size": "0.06 MB",
-        "Categories": "Sri Aurobindo"
-    },
-    {
-        "Name": "jesus christ an artifice for aggression by sita ram goel",
-        "Link": "https://drive.google.com/uc?export=download&id=1bWZlvm2CeXTr7DcJxNCCakIKVGMTIULX",
-        "Size": "1.18 MB",
-        "Categories": "Sitaram Goel"
-    },
-    {
-        "Name": "Hinduism doctrine way",
-        "Link": "https://drive.google.com/uc?export=download&id=1bYFzL3S07D-_2FZP789EeRYlSMpHnjD8",
-        "Size": "1.83 MB",
-        "Categories": "Sitaram Goel"
-    },
-    {
-        "Name": "Hinduism doctrine way (Rajgopalachari)",
-        "Link": "https://drive.google.com/uc?export=download&id=1bYYz3yscxOXc8KVJspkBNx_tOoO_wkI0",
-        "Size": "5.31 MB",
-        "Categories": "Sitaram Goel"
-    },
-    {
-        "Name": "Hindu TemplesWhat Happend to Them by Sita Ram Goel",
-        "Link": "https://drive.google.com/uc?export=download&id=1bZ4v02oma1vkOe_GuA8YxFbd-gRv0Nmm",
-        "Size": "2.24 MB",
-        "Categories": "Sitaram Goel"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1_UhPduuIwc8NE_WFMlShX-CMqUJbLLw3",
-        "Size": "0.04 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Preliminary Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1_YCJ26V6MnJTRtxeEF7LvtMzqD5nmX_Q",
-        "Size": "1.59 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Content Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1_aKVx3Hf3644UVDBV8OpXIhMR5vvH77E",
-        "Size": "0.62 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 8 674   822p",
-        "Link": "https://drive.google.com/uc?export=download&id=1_eKUy0aBA6SGO0zsezFKI3DPbbcQwwSr",
-        "Size": "6.91 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 7 588   673p",
-        "Link": "https://drive.google.com/uc?export=download&id=1_mGBVMDETtIeT1DZOWuMOOphwrJd2HDx",
-        "Size": "4.05 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 5 412   498p",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZyRxIl2wejFBYPicRrWl5YvtgCImdj1L",
-        "Size": "4.1 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 6 499   587p",
-        "Link": "https://drive.google.com/uc?export=download&id=1_vnp_CyHwG2t_wJDwZcDSeJILXaCy4Me",
-        "Size": "4.19 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 4 332   411p",
-        "Link": "https://drive.google.com/uc?export=download&id=1_44kt1mUqA6FiZfeB13PqP4WEvETXgSZ",
-        "Size": "3.8 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 2 141   244p",
-        "Link": "https://drive.google.com/uc?export=download&id=1_JvwqdB47IMvfenEiU3sRTWvTvTKOsuD",
-        "Size": "4.86 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 3 245   331p",
-        "Link": "https://drive.google.com/uc?export=download&id=1_FawKUesILxdMX5obEk_XFvPHp4NePaD",
-        "Size": "4.1 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Chapter 1 52   140p",
-        "Link": "https://drive.google.com/uc?export=download&id=1_OPQ7mTzWIVBhyezQzdAywj3X-3DW40G",
-        "Size": "4.2 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Bramhanam - Vol.2"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1aa9bY-Ol86_gzbxcMd02UN-hDQ5U8nah",
-        "Size": "0.05 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 5, KANDA. 5"
-    },
-    {
-        "Name": "Preliminary Pages",
-        "Link": "https://drive.google.com/uc?export=download&id=1ajuiuFYhIxR6dENnpGWCBwkSzGfBR_g_",
-        "Size": "0.19 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 5, KANDA. 5"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1amxXEOlLatDxLTbNqk6xT2W5wQY5AV1s",
-        "Size": "2.55 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 5, KANDA. 5"
-    },
-    {
-        "Name": "Chapter 4 241 298P",
-        "Link": "https://drive.google.com/uc?export=download&id=1b3Ci-3QhIiFfhRNKDoBE_GuNW7TYU5_l",
-        "Size": "6.5 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 5, KANDA. 5"
-    },
-    {
-        "Name": "Chapter 3 161 240P",
-        "Link": "https://drive.google.com/uc?export=download&id=1aSzsRpNk0GvLySfd6hGi8e0_vpK4o1_K",
-        "Size": "6.83 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 5, KANDA. 5"
-    },
-    {
-        "Name": "Chapter 2 81 160P",
-        "Link": "https://drive.google.com/uc?export=download&id=1aVoQWsIwEfP-wZZbOvJY29NwiJw35o1e",
-        "Size": "6.93 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 5, KANDA. 5"
-    },
-    {
-        "Name": "Chapter 1 2 80P",
-        "Link": "https://drive.google.com/uc?export=download&id=1aWEhks9i77frZnNmicVYv-7-cNTbIVu_",
-        "Size": "7.14 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 5, KANDA. 5"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1a_mMtbqsMF3LNWIdGYndESzKFWL9Uupw",
-        "Size": "0.06 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Preliminary Pages",
-        "Link": "https://drive.google.com/uc?export=download&id=1aK8a6XqIXvQOd7rEw3OCvAE2-f14ljIZ",
-        "Size": "5.53 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 7 481 560p",
-        "Link": "https://drive.google.com/uc?export=download&id=1aSjvUzJwnm-odTG-Xy7HJB4cGHUnDwui",
-        "Size": "9.0 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 8 561 628p",
-        "Link": "https://drive.google.com/uc?export=download&id=1aLaKSbnfhAjdXV-lXXydc2KI-QWDUmBk",
-        "Size": "7.7 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 6 401 480",
-        "Link": "https://drive.google.com/uc?export=download&id=1a9orW4LzUjfZSEwvRgItNu8jEYmlKd7Q",
-        "Size": "9.05 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 4 241 320p",
-        "Link": "https://drive.google.com/uc?export=download&id=1aDErz6fQdWEJvMfayb4XR4PMi37YXrM4",
-        "Size": "9.07 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 5 321 400p",
-        "Link": "https://drive.google.com/uc?export=download&id=1aAjaWLamOPazfvW3s5Ougg-2aBNJEmds",
-        "Size": "9.21 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 2 81 160p",
-        "Link": "https://drive.google.com/uc?export=download&id=1a2ojqKNl9vcSrs4mYb6TIvApAMev1mTx",
-        "Size": "9.17 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 3 161 240p",
-        "Link": "https://drive.google.com/uc?export=download&id=1a1QZDn-uG4RRJT5DU_0aIvtJu6fzuYMf",
-        "Size": "8.98 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Chapter 1 2 80p",
-        "Link": "https://drive.google.com/uc?export=download&id=1a3v94LDS6uJ2jgQOVoh9LQuOcx56NUWy",
-        "Size": "9.29 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATPATH BRAHMANAM VOL. 1, KANDA. 1"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1YsZWuAPj5ml1CZSo6XNjdmR2zKvvxb1e",
-        "Size": "0.2 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Content Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1YtZ0pBdwIiBl3PowSknR2AsvXjUENHVb",
-        "Size": "0.41 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Chapter 6 1   137p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Yjfio7Jp7VprP1pg5EkAGcTv2DUMHA2G",
-        "Size": "11.07 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Chapter 5 1   168p",
-        "Link": "https://drive.google.com/uc?export=download&id=1YmrzjM-C8ED6pCXUfO8gL10GYl0OkJGw",
-        "Size": "13.35 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Chapter 3 1   216p",
-        "Link": "https://drive.google.com/uc?export=download&id=1YZ0qTJSbdGPTjO4Pj557okf5mBVoA_8G",
-        "Size": "17.51 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Chapter 4 1   249p",
-        "Link": "https://drive.google.com/uc?export=download&id=1YYQIkFyiN81jCxDS-AuwQEWa1mcvIE2y",
-        "Size": "11.77 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Chapter 2 1   210p",
-        "Link": "https://drive.google.com/uc?export=download&id=1YMppYBSpbLVEfvniL-fgktf8CI-YSm3o",
-        "Size": "17.73 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Chapter 1 1   75p",
-        "Link": "https://drive.google.com/uc?export=download&id=1YUqQg_-YadSNpMNAz1s3j4L60SWGGUyz",
-        "Size": "6.01 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "Shatpath Brahmanam - Pt.4"
-    },
-    {
-        "Name": "Title",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZLL4C0YsexNX5e30jk-VVx2qp4oZ7vNu",
-        "Size": "0.03 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Preliminary Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZOExkvAoGRbRst6BsAb4zHDrQsQETSJU",
-        "Size": "0.11 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Other",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZQBpTeTQyd52cA7mT0nytCcWLLdCqkcF",
-        "Size": "0.04 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Chapter7 449 462p",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZwC1m0HAYQOixbWENSmvtTwK3DnQ4nKw",
-        "Size": "0.61 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZVHUDlPxXpdN7gk5GEcWfa9jz_9h8Zxy",
-        "Size": "0.04 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Chapter6 369 448p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Z0NQWGd9xEVbpbyYQTavKAqOkN9Bun_e",
-        "Size": "3.6 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Chapter5 289 368p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Z0luR_SdZjX05WnPe15WlVDT-RZRo5Mp",
-        "Size": "3.69 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Chapter4 209 288p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Z9JLETwc_F9cqDRZL0rI_lZO4yQ7PFhB",
-        "Size": "3.63 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Chapter3 129 208p",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZAtlWnkpSf31FBvLIMKcxY8aLSlf343W",
-        "Size": "3.59 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Chapter2 49 128p",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZDegOyqy1LQBnG5gIPF817BnqinVZGCF",
-        "Size": "3.63 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "Chapter1 1 48p",
-        "Link": "https://drive.google.com/uc?export=download&id=1ZGbyXyb2peq3xrP5h77CqFPU12gqkpkt",
-        "Size": "3.52 MB",
-        "Categories": "Shatpath Bramhanam",
-        "SubCategories1": "SHATAPATHA BRAMHANAM VOL. 6, PART.6"
-    },
-    {
-        "Name": "SHATPATH   BRAHMANAM PART II",
-        "Link": "https://drive.google.com/uc?export=download&id=1YGrrxYMVA-ToUFiRsBU_qMYB0r8q-jC7",
-        "Size": "140.81 MB",
-        "Categories": "Shatpath Bramhanam"
-    },
-    {
-        "Name": "सामवेद",
-        "Link": "https://drive.google.com/uc?export=download&id=1Y9F_W-sP9n_nHuNev5wIg3oWnRTZ4OWy",
-        "Size": "15.85 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "सामवेद हरिशरण सिद्धांतालंकार 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1Y4S8vLs1fhgesQQvM7D9usNs5nA9UDCm",
-        "Size": "37.76 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "सामवेद हरिशरण सिद्धांतालंकार 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1Y0BBcWmfprGzbvMWz9RKic46Wen3Ki8y",
-        "Size": "21.34 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "सामवेद सुबोध भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1Xwc6kUjd2r4qZYx9EsxBnGKmM0DeDjeI",
-        "Size": "37.83 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "सामवेद सहिंता मन्त्र भाग",
-        "Link": "https://drive.google.com/uc?export=download&id=1XwjYAI6mo_nK7G8VO15iRXFTurt9430t",
-        "Size": "0.8 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "सामवेद सम्पूर्ण हिंदी भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1Y-bv2YFQkCqXvvPQ8G2PlyBkA_LWcjoQ",
-        "Size": "19.04 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "सामवेद प्रकाश",
-        "Link": "https://drive.google.com/uc?export=download&id=1Xfu3uhevzNDBk3ips0VWYdtSltojmABg",
-        "Size": "14.34 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "सामवेद संगीतमय.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=1Xeiykp3tX1FPeoM-6dzygMHipy5Z1zsj",
-        "Size": "4.16 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Samved in english",
-        "Link": "https://drive.google.com/uc?export=download&id=1XqgyCZ5XmNHQRzfgjHNm1Dp6iK2UqFkm",
-        "Size": "2.95 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Sam Veda 7",
-        "Link": "https://drive.google.com/uc?export=download&id=1XdYa9UdRfsP_OGSMj-CfG2eXOpqUYMUy",
-        "Size": "28.76 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Sam Veda 6",
-        "Link": "https://drive.google.com/uc?export=download&id=1Xbaj2biLMHAHWMlqghW3j4uhbebqfpeQ",
-        "Size": "32.13 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Sam Veda 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1XTbkjBoBjXtb6wENyvkHCy9uyrDV25PZ",
-        "Size": "47.15 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Sam Veda 5",
-        "Link": "https://drive.google.com/uc?export=download&id=1XaWjj6jd8GFNv4THVJ3JUFaBcef3aYId",
-        "Size": "46.13 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Sam Veda 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1XGRKTq0AIZFdin318h5LhISfH9703-xI",
-        "Size": "55.7 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Sam Veda 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1XP2BvkpvNkmEeZtUN94F0bZVsFPrrygd",
-        "Size": "49.8 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "Sam Veda 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1XFd_GoH3QN4vzYj1UNRA7roKT2KLAnxD",
-        "Size": "59.18 MB",
-        "Categories": "SamaVeda - सामवेद"
-    },
-    {
-        "Name": "ऋग् मण्डल ९",
-        "Link": "https://drive.google.com/uc?export=download&id=1Us4hKC8oP1NJ_EBGxpumiLuq9yJV0qWb",
-        "Size": "0.37 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल ८",
-        "Link": "https://drive.google.com/uc?export=download&id=1UtzyqfX2OIADCO9l_s72x_JAftoZ4C4B",
-        "Size": "0.53 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल ६",
-        "Link": "https://drive.google.com/uc?export=download&id=1VAp98IMlrb66Qo6yvG40VK2MPKQx_WAw",
-        "Size": "0.32 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल ७",
-        "Link": "https://drive.google.com/uc?export=download&id=1V94rHr8_tTTjnaJ4QW-kDmkAJihQ5kEV",
-        "Size": "0.37 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल ५",
-        "Link": "https://drive.google.com/uc?export=download&id=1VCfyU6iUQDoEUYKJkbtg4HGCPeMPk61-",
-        "Size": "0.31 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल ४",
-        "Link": "https://drive.google.com/uc?export=download&id=1VDIxu81GgllT9rlSrEAP5IrCNaUuTa5d",
-        "Size": "0.26 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल ३",
-        "Link": "https://drive.google.com/uc?export=download&id=1VNtlHMN26VJ9twO9fc_RAG2YiAqLsJ2C",
-        "Size": "0.27 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल १०",
-        "Link": "https://drive.google.com/uc?export=download&id=1VPF7Ejj4URkaNJv64DgM2GSMqoLPw4Yg",
-        "Size": "0.72 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल २",
-        "Link": "https://drive.google.com/uc?export=download&id=1VOM6pZ0AuAwv1TUBZTCEEYiOsXwJ921i",
-        "Size": "0.21 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् मण्डल १",
-        "Link": "https://drive.google.com/uc?export=download&id=1VgltGbfoduZA-uCSzma9uiVirIzasRL_",
-        "Size": "0.77 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "मण्डल अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक ८",
-        "Link": "https://drive.google.com/uc?export=download&id=1VmBth6s7MW3oYGKjUTn-i6Lc3cl1dzxD",
-        "Size": "0.53 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक ७",
-        "Link": "https://drive.google.com/uc?export=download&id=1VnqSR5EUS4Qu-4W7RftL461SjMu-4Rbl",
-        "Size": "0.48 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक ६",
-        "Link": "https://drive.google.com/uc?export=download&id=1VtC8X93ycLFtviUZMZvRjsGXj5wjsfiY",
-        "Size": "0.52 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक ५",
-        "Link": "https://drive.google.com/uc?export=download&id=1W-87iRTfDwldzexKrKvmQw2TS_rA9OF9",
-        "Size": "0.5 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक ३",
-        "Link": "https://drive.google.com/uc?export=download&id=1WFxY63kOkJIqCeVq_P1kWVnOXcWOlpHc",
-        "Size": "0.49 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक ४",
-        "Link": "https://drive.google.com/uc?export=download&id=1WAN3-gUnJo7upI7NQ8mD0cciul3JVvVo",
-        "Size": "0.51 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक १",
-        "Link": "https://drive.google.com/uc?export=download&id=1WO7NDWZpNRs__ijOz-GnxXO388q73VL1",
-        "Size": "0.49 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् अष्टक २",
-        "Link": "https://drive.google.com/uc?export=download&id=1WJEtXQwVM7VDbPgrP9qXpe10KtXkh5_3",
-        "Size": "0.52 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता",
-        "SubCategories2": "अष्टक अनुसार"
-    },
-    {
-        "Name": "ऋग् संख्यानुसार.xls",
-        "Link": "https://drive.google.com/uc?export=download&id=1Uf5c0wA7zH9XLnhM8BnR_i4eeOu86r0d",
-        "Size": "17.42 MB",
-        "Categories": "RigVeda - ऋग्वेद",
-        "SubCategories1": "ऋग्वेद संहिता"
-    },
-    {
-        "Name": "ऋग्वेद हरिशरण सिद्धांतालंकार 7",
-        "Link": "https://drive.google.com/uc?export=download&id=1XBXyULTNvl8it_tvm_z7-c7YLWd6lsXT",
-        "Size": "46.07 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद हरिशरण सिद्धांतालंकार 5",
-        "Link": "https://drive.google.com/uc?export=download&id=1X3VZF1Q9gLuwgef9s0jcakf4oc9bxu48",
-        "Size": "48.91 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद हरिशरण सिद्धांतालंकार 6",
-        "Link": "https://drive.google.com/uc?export=download&id=1XBUHZINpwAUa_ZiahsrYlvJaRTXF7clK",
-        "Size": "42.02 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद हरिशरण सिद्धांतालंकार 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1Wz4pbdchY33WjsR81BY0l4YDNi_P9Huo",
-        "Size": "39.39 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद हरिशरण सिद्धांतालंकार 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1WyNtRb4T4KquZzpbBIaSra1EMyDFymRM",
-        "Size": "34.85 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद हरिशरण सिद्धांतालंकार 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1WxJcUOotS_Kitxt6Bc59QbsA0dTzoL9S",
-        "Size": "39.66 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद हरिशरण सिद्धांतालंकार 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1WqhIiwQAwIrnbJ-NKzQPvxGvvzcBQk8n",
-        "Size": "42.08 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सुबोध भाष्य 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1WiOk86XRshtRxn5qN2KhNdPh-b5242dI",
-        "Size": "86.96 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सुबोध भाष्य 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1WiojONbX2Nrm3gkW4t8HmmaVNDZgesN2",
-        "Size": "159.72 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सम्पूर्ण भाष्य ( खंड 7 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1Wd6SWBfFucchYxXdpM67cVG_cCO9iXU-",
-        "Size": "19.52 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सुबोध भाष्य 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1Whv0tZPn-94ZRNwFkXwcJOBFO7St_v5f",
-        "Size": "72.9 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सम्पूर्ण भाष्य ( खंड 6 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1WWW98KKaU0XZJi7H4duui8BwXnerA5Xm",
-        "Size": "24.07 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सम्पूर्ण भाष्य ( खंड 5 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1WRUW0ip5qIZAB71AbJ0BY5XkbSQDJcgo",
-        "Size": "26.05 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सम्पूर्ण भाष्य ( खंड 4 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1Up-3KGt-70FsZEKFzj8UDYEKUsIHYvUP",
-        "Size": "29.35 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सम्पूर्ण भाष्य ( खंड 3 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1UmO5CiuJoEulM2hE5aedsBAhaFuw4CsS",
-        "Size": "35.06 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सम्पूर्ण भाष्य ( खंड 2 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1UlQx6ET1S8uvLXrlcW1-2Q5E6F5RwPEh",
-        "Size": "16.94 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद सम्पूर्ण भाष्य ( खंड 1 )",
-        "Link": "https://drive.google.com/uc?export=download&id=1USv65BiXaOLADn6eYhD69hRiyPimB2DC",
-        "Size": "23.3 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग्वेद दयानंद भाष्य प्रथम मंडल",
-        "Link": "https://drive.google.com/uc?export=download&id=1UPTKUt5ocb5Hifr2eVWoQIeGhzTbUEzz",
-        "Size": "12.56 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "ऋग् वेद,भा १",
-        "Link": "https://drive.google.com/uc?export=download&id=1UMaafGgm7yQbzG2AIuMipuSAYMo_Zkad",
-        "Size": "33.82 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "RigVed Dharmdev ji Eng 5",
-        "Link": "https://drive.google.com/uc?export=download&id=1UH5i08qKNfdlkEPmVC76bSk2qh1BHh3s",
-        "Size": "31.27 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "RigVed Dharmdev ji Eng 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1UE6gdfYz4h1nWSUT8CGL0SUebYr4t9yu",
-        "Size": "33.38 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "RigVed Dharmdev ji Eng 4",
-        "Link": "https://drive.google.com/uc?export=download&id=1UG2vyD67zxsmKxhphj-oyV4n4igrYExn",
-        "Size": "36.73 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "RigVed Dharmdev ji Eng 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1UBeJGkM6WL2n8DgqvIF4DPN4awDifNb2",
-        "Size": "39.35 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "RigVed Dharmdev ji Eng 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1UBDw_MzxO9C-rslQX38uy3vFdo4yXeUw",
-        "Size": "39.98 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "Rigved  english.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=1UBIvcho2DuTx0IYeB6WKXTrDPs6eA7xr",
-        "Size": "1.95 MB",
-        "Categories": "RigVeda - ऋग्वेद"
-    },
-    {
-        "Name": "वाल्मीकि रामायण हिंदी बालकाण्ड",
-        "Link": "https://drive.google.com/uc?export=download&id=1TviqbnDD7VGebvkj2JkmY-NaqDKhKhrv",
-        "Size": "13.54 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 9 उत्तर कांड पूर्वार्द्ध",
-        "Link": "https://drive.google.com/uc?export=download&id=1U3La9WEbKy6B9wRPdlmceo2DMecuJaHx",
-        "Size": "12.94 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 8 युद्ध कांड उत्तरार्द्ध",
-        "Link": "https://drive.google.com/uc?export=download&id=1TjnoNuAdQ2ait94y2beGIfGRcRE33wjA",
-        "Size": "21.26 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 6 सुंदर कांड",
-        "Link": "https://drive.google.com/uc?export=download&id=1TKrCPgmB7ZC0TVnlVgP9n9XZKDrDhlZ3",
-        "Size": "21.84 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 7 युद्ध कांड पूर्वार्द्ध",
-        "Link": "https://drive.google.com/uc?export=download&id=1TPtgtDmpQV85OhWQFtKUSBe_rrzXY0pG",
-        "Size": "17.26 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 4 अरण्य कांड",
-        "Link": "https://drive.google.com/uc?export=download&id=1TIw94V68ZXGfKVcLL6yNBrn4nj4IOSIV",
-        "Size": "46.97 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 5 किष्किन्धा कांड",
-        "Link": "https://drive.google.com/uc?export=download&id=1TMq6t-S2AcvGI_HsX5yJz0-htbPv6dNr",
-        "Size": "13.28 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 3 अयोध्या कांड उत्तरार्द्ध",
-        "Link": "https://drive.google.com/uc?export=download&id=1TEkPkA-tD7-W2QfvaOqIadDmyHV_0u89",
-        "Size": "13.08 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 2 अयोध्या कांड पूर्वार्द्ध",
-        "Link": "https://drive.google.com/uc?export=download&id=1TB8Qtx_mBF0aj2v-qjKkPi6Mmq02yGVR",
-        "Size": "13.07 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 10 उत्तर कांड उत्तरार्द्ध",
-        "Link": "https://drive.google.com/uc?export=download&id=1TBjTEV5NF8Db4yew0nDO65JUuBf-EdBf",
-        "Size": "9.09 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "रामायण भ्रांतियां और समाधान.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=1SO9-8yV7EwipdMcNGRtJi2lxYP53dro5",
-        "Size": "1.67 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "वाल्मीकि रामायण 1 बालकाण्ड",
-        "Link": "https://drive.google.com/uc?export=download&id=1T8VDGcA1hmtSKvKAA5rNqW26dFhenniZ",
-        "Size": "13.54 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "Ramayana",
-        "Link": "https://drive.google.com/uc?export=download&id=1SPzU04mSX26PkyuBSRmO5uov2fTgC3vp",
-        "Size": "0.7 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "ramayana ayodhya kand",
-        "Link": "https://drive.google.com/uc?export=download&id=1SVctw0vmo4pxvJq37o3cmJYLWorC5nUi",
-        "Size": "9.68 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "Ramayana Spotlights",
-        "Link": "https://drive.google.com/uc?export=download&id=1SSkT0dJIdmPke4k5DkgRe_hcPptFTOFL",
-        "Size": "0.13 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "manas uttarkand hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SWGEwMcBuE5Ifm45KtZarV-CvRqVUlVR",
-        "Size": "0.45 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "manas lankakand hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SfhrzuQb1_T_UmbItD5HOQ2kDgZ_m-jU",
-        "Size": "0.23 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "manas sundarkand hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1Se9P9M3zOuj4KFhii6ggbXfP-tHTiQlh",
-        "Size": "0.14 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "manas kishkindhakand hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SjycXAUUhgfeG4lJPSG9YbqQViALAJs1",
-        "Size": "0.11 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "manas ayodhyakand hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SvHq4TStRQqKil9f2vzIFCmaeT7tn5xN",
-        "Size": "0.38 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "manas balkand hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SpNFk7WqTnNr5zMXn9R3xw_5gP3WJVc8",
-        "Size": "0.9 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "Kamban Ramayan english",
-        "Link": "https://drive.google.com/uc?export=download&id=1T75Mso6eoPrbkfVlx0rlPc0J10IwNBNk",
-        "Size": "3.1 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "manas aranyakand hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1Swd_i1mWTQgyNcaGe6XtGtAZF92nP2Yi",
-        "Size": "0.15 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "balakanda",
-        "Link": "https://drive.google.com/uc?export=download&id=1T7XbecP7v6o3Z-7l5gDNiPSFuDZmNgjf",
-        "Size": "2.14 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "002 Keshav Aur Unki Ramchandrika Hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SNEPlzDUt6qK6b2RA2kn1KyF3Od_nG0X",
-        "Size": "18.53 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "003 Keshav Aur Unki Ramchandrika Hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SFBYjTq8iSmESdoBV62VxMO8YIbj8YgW",
-        "Size": "11.87 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "001 Keshav Aur Unki Ramchandrika Hindi",
-        "Link": "https://drive.google.com/uc?export=download&id=1SCNHXlIXcQOPVhdMJQW29V2IJhuFN0f0",
-        "Size": "17.14 MB",
-        "Categories": "Ramayan"
-    },
-    {
-        "Name": "Yatindra mata dipika. Or Light Of The School. Of Sri Ramanuja 1912",
-        "Link": "https://drive.google.com/uc?export=download&id=1RehEHs9nIkW7HWuAAujGNQniJuAWZ-pM",
-        "Size": "20.25 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Yatindra Mata Dipika Or The Light Of The School Of Ramanuja 1912",
-        "Link": "https://drive.google.com/uc?export=download&id=1RgaWGPBMBk_PKJihsxlqo3opLkRSFgaU",
-        "Size": "12.41 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "YAMUNACHARYA SIDDHI TRAYA R Ramanujachari Ubhaya Vedanta Grantha Mala Book Trust 1972",
-        "Link": "https://drive.google.com/uc?export=download&id=1RcHeRvrYRiFFY632QZYUB_S9kDzinY6s",
-        "Size": "18.55 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Visistadvaita.Siddhi",
-        "Link": "https://drive.google.com/uc?export=download&id=1RWWRglSAlY7Jl4A23bQWJFg1A6H-hAuM",
-        "Size": "32.66 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Vedartha Sangraha of Ramanuja Raghvacharchar S.S. R.K. Mutt Third Edition",
-        "Link": "https://drive.google.com/uc?export=download&id=1R7rdci9WqHLzuCwfweQhJ56p5pjXAc2L",
-        "Size": "28.68 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "VedantasaraOfBhagavadRamanuja",
-        "Link": "https://drive.google.com/uc?export=download&id=1R6vVWVuuKaEGgyhq1M2uUcL7GU0V54hF",
-        "Size": "54.59 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Ubhaya Vedanta Pravartana Sabheya Sankshipta Itihasa (Kannada)",
-        "Link": "https://drive.google.com/uc?export=download&id=1QuiPc4cy5NO2GNV60xA09cxM7wv3U7qu",
-        "Size": "33.36 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "The teachings of Vedanta according to Ramanuja 1877",
-        "Link": "https://drive.google.com/uc?export=download&id=1QoxshYAwwUBjXl8Igo1OmonyWv8IyRVV",
-        "Size": "4.69 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "The Vedānta sūtras with the commentary of Rāmānuja",
-        "Link": "https://drive.google.com/uc?export=download&id=1QotFOQsfwyQI5a6bKjbf2WI6Ra8JWFYL",
-        "Size": "3.33 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "The place of Ramanuja in the story of India 1911",
-        "Link": "https://drive.google.com/uc?export=download&id=1Qr0RreM_kG1zh0UzBhoPq44L0jBFECHS",
-        "Size": "2.23 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "SriRamanujaCampu",
-        "Link": "https://drive.google.com/uc?export=download&id=1QlLoI-3fttektSvQmiWYbYRcTjXjBl-h",
-        "Size": "37.39 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Sribhasya Of Ramanuja,Vol. 1, Part. 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1QgbwWRsL3Z3DQ-2zBv86CmLlJS3Fbh3Y",
-        "Size": "31.39 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Sri Bhashya English Translation Vol 3   M Rangacharya, MB Varadaraja Aiyangar 1965",
-        "Link": "https://drive.google.com/uc?export=download&id=1QXaM8EFQszUTyZ7uooLFmykm1nfWIBSK",
-        "Size": "25.46 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Sri Bhashya English Translation Vol 1   M Rangacharya, MB Varadaraja Aiyangar 1899",
-        "Link": "https://drive.google.com/uc?export=download&id=1QTd01NdBEN76zcGzTaVY_toVrgPuvQ1k",
-        "Size": "38.03 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Sri Bhashya English Translation Vol 2   M Rangacharya, MB Varadaraja Aiyangar 1964",
-        "Link": "https://drive.google.com/uc?export=download&id=1QUZlt-L4Z-pGOo7N3ue3G_QEvLVQauIY",
-        "Size": "20.95 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Sri Bhagavad gītā With Rāmānujāchāya s Viṣishtādvaita   Commentary 1898",
-        "Link": "https://drive.google.com/uc?export=download&id=1QFyc8YDSEPAU-aIhjPsK9OlYApVtHgHN",
-        "Size": "17.23 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Shrimad bhagavada giitaa Vol.3 1911",
-        "Link": "https://drive.google.com/uc?export=download&id=1QDg845WXZx53GSc2i1Y5mDIRk57eDFdS",
-        "Size": "20.62 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Sarva Darsana Samgraha.by.Madhavacharya Vidyaranya.tr.by.E.B.Cowell",
-        "Link": "https://drive.google.com/uc?export=download&id=1QEbsdkGeqHVbvzN75zGTWt2UvL0t81UH",
-        "Size": "11.56 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "philosophy of Ramanuja with special reference to his theory of the self 1926",
-        "Link": "https://drive.google.com/uc?export=download&id=1PucXebHuBGV42wIge6E6yjoc3ncOtfPZ",
-        "Size": "4.64 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "prapannamrta",
-        "Link": "https://drive.google.com/uc?export=download&id=1PqFiAlZvhUGxn3Go-ajIbLrzvVZEPvOO",
-        "Size": "13.78 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Life And Teachings Of Sri Ramanujacharya  Srinivasa Aiyengar C.R. ",
-        "Link": "https://drive.google.com/uc?export=download&id=1Pn4E2DA_ICnv3hgrADM-tqLd-K19ldQ-",
-        "Size": "27.49 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Narayana Sara Sangraha of Ramanuja (Pothi or Oblong)",
-        "Link": "https://drive.google.com/uc?export=download&id=1Q3CyhwNuvBgIvppU5W4hyoY72rBjgrwU",
-        "Size": "6.23 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "kathopnishad 1919",
-        "Link": "https://drive.google.com/uc?export=download&id=1PeD0hydnnrWVy4ZP0sHCfO7qeLBL9VZA",
-        "Size": "11.01 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Hindi Book Srimad Bhagavad Gita With Ramanuja Bhasya Hindi Gita Press",
-        "Link": "https://drive.google.com/uc?export=download&id=1PZVFpdWqWvU55eFeGfLvIBlF80FDUlI9",
-        "Size": "35.76 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Hindu Conecption Of The Deity As Culminating In Ramanuja 1934",
-        "Link": "https://drive.google.com/uc?export=download&id=1Pj_EfiyJScF0W4cE9VNE7CSvKP4Bow3e",
-        "Size": "8.35 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Elements of vedic religion 1931",
-        "Link": "https://drive.google.com/uc?export=download&id=1PVYEt0YhCFn5lM0nGtCw3uleJqMAlt8A",
-        "Size": "13.98 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "A History Of Indian Philosophy Vol4 Ed1st",
-        "Link": "https://drive.google.com/uc?export=download&id=1PRcMPWarmIEyrusXtMfIcFX23PdYL1X9",
-        "Size": "42.31 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "Elements of vedic religion 1931 scan",
-        "Link": "https://drive.google.com/uc?export=download&id=1PTLD15B17fcPYzAhiAxCHXZTrfaTExce",
-        "Size": "35.44 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "A History Of Indian Philosophy Vol 3 Ed 1st",
-        "Link": "https://drive.google.com/uc?export=download&id=1PPSYR5M3LcYZ9eRcvbLbTG2cCqJG-9Kd",
-        "Size": "53.79 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "A History Of Indian Philosophy Vol 2 Ed 1st",
-        "Link": "https://drive.google.com/uc?export=download&id=1PNDJx-pSvzGWnHO9lf5YpjzfzcH2W0ia",
-        "Size": "54.2 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "A History Of Indian Philosophy Vol 1 Ed 1st",
-        "Link": "https://drive.google.com/uc?export=download&id=1PJGBNgg4LHclSX9D4M6A84K0GbcJMen0",
-        "Size": "47.9 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.92341.Sankalpa suryodayavol1",
-        "Link": "https://drive.google.com/uc?export=download&id=1PJFOu7wxc1yT05FID4JKvk4RhP90vTDU",
-        "Size": "20.92 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.553920.Sribhasya Of",
-        "Link": "https://drive.google.com/uc?export=download&id=1P2J7GVrSCTBotX416xo4UKbjy8q-O8ow",
-        "Size": "38.96 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.553654.Sri Bhasya",
-        "Link": "https://drive.google.com/uc?export=download&id=1Ov5rqU19I0NiQIVS36i3VV3scmSD47-J",
-        "Size": "43.47 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.496361.Srivachana Bhushana",
-        "Link": "https://drive.google.com/uc?export=download&id=1Oply14MdJuYF3BGApPjvOVp4c9s-CuLz",
-        "Size": "176.31 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.496172.Sribhashyavol2",
-        "Link": "https://drive.google.com/uc?export=download&id=1Og-1ZiPWn5JakWOXePB0tqI5AihQBPnB",
-        "Size": "167.75 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.496163.Shribhashya Vol",
-        "Link": "https://drive.google.com/uc?export=download&id=1ObQClNCi1j6oSJRjQsl4of69Ahg7EKnP",
-        "Size": "82.1 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.496113.Ahirbudhasamhitavol2",
-        "Link": "https://drive.google.com/uc?export=download&id=1OatC3kB9A3ZouRmjR6Wng7l48DV4KEOT",
-        "Size": "68.99 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.496000.Tattvatika",
-        "Link": "https://drive.google.com/uc?export=download&id=1OTikYSyVtlAjGBvru8Pmw9kN0SalCRE1",
-        "Size": "39.07 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.486954.Sri Bhagavad Gita And The Tatparyachandrika Of Sri Vedanta Desika 1907",
-        "Link": "https://drive.google.com/uc?export=download&id=1O_i2aGd0-otfrNV3C1gMIaEhuSx6jMOo",
-        "Size": "6.21 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.486229.Parashara Smruti",
-        "Link": "https://drive.google.com/uc?export=download&id=1OORDFTJGBJP9ErsnITyJdjid6XUnjEfG",
-        "Size": "30.27 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.383366.Sribhashya with",
-        "Link": "https://drive.google.com/uc?export=download&id=1O8AeYwSHiQZTQlPf0RGkzwQj9Kjjaw1L",
-        "Size": "23.52 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.480803.The Concept",
-        "Link": "https://drive.google.com/uc?export=download&id=1ORcSw57yY8AW5jvcl7VEnB7zCGo01nfR",
-        "Size": "11.3 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.383341.Vedanta deepa",
-        "Link": "https://drive.google.com/uc?export=download&id=1OOBLEwWV_8HLIAgHRa8Us5GCERwrXTh4",
-        "Size": "4.26 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.383337.Bhagavadramanuja ",
-        "Link": "https://drive.google.com/uc?export=download&id=1O7pLsJvs4OrfHg6hGcGGNVAUzDM50FCX",
-        "Size": "96.23 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.383133.Nyaya Parishuddhi",
-        "Link": "https://drive.google.com/uc?export=download&id=1O7699QvgO1EM99w8-dPOHl7s3bAnFECg",
-        "Size": "74.19 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.367523.Vedanta Deepa",
-        "Link": "https://drive.google.com/uc?export=download&id=1O4WxfcFP0A_O5j5-Ej4_IvmOQijmrgpP",
-        "Size": "44.61 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.383133.Nyaya Parishuddhi(1)",
-        "Link": "https://drive.google.com/uc?export=download&id=1O5F_afpUkl_7Di6zvpfcd9yKTmxIR3rW",
-        "Size": "74.19 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.329481.Vedantasara Of",
-        "Link": "https://drive.google.com/uc?export=download&id=1O2CUaa7isXPIbl_153L5WFGGOWqN7TSQ",
-        "Size": "27.07 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.188682.The Vedanta Sutraspart 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1NqFQOosTojDKNnkEIyGPLhJvzUP3XDvy",
-        "Size": "80.94 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "2015.214575.Life Of Ramanujacharya",
-        "Link": "https://drive.google.com/uc?export=download&id=1NvYTy5cDcEgq9Z_Qv0JjozHxW4ighPtu",
-        "Size": "21.96 MB",
-        "Categories": "Ramanuja"
-    },
-    {
-        "Name": "THE GARUDA MAHAPURANAM Vol 02 Sanskrit with English Translation by M N Dutt 2007 edition",
-        "Link": "https://drive.google.com/uc?export=download&id=1LlsOJZxyuB_UwcaXFbpqq62XUHmhttji",
-        "Size": "72.36 MB",
-        "Categories": "Puran",
-        "SubCategories1": "Garuda-Purana Sanskrit English enhanced scan 2007"
-    },
-    {
-        "Name": "THE GARUDA MAHAPURANAM Vol 01 Sanskrit with English Translation by M N Dutt 2007 edition",
-        "Link": "https://drive.google.com/uc?export=download&id=1LlqV6OHSkkNanqvYpCqZMxi414Nd1lXd",
-        "Size": "155.28 MB",
-        "Categories": "Puran",
-        "SubCategories1": "Garuda-Purana Sanskrit English enhanced scan 2007"
-    },
-    {
-        "Name": "VISHNU KHANDA from Skanda Purana including SHREE VENKATACHALA MAHATMYAM SANSKRIT",
-        "Link": "https://drive.google.com/uc?export=download&id=1NgVe3yrlZ5_EMuGb_F6zIKGlHabjJzBX",
-        "Size": "10.74 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "SHREEMAD DEVI BHAGAVATAM Shrimad Devi Bhagavatam SHREE DEVI BHAGAVATA PURANA Sanskrit 826 pages",
-        "Link": "https://drive.google.com/uc?export=download&id=1N9opu9gvB8CtoA9X3H9EJ77DAwf4vyrw",
-        "Size": "45.2 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "SHREE VISHNU PURANA SANSKRIT HINDI Mula Shloka aur Hindi Anuvadsahit Munilala Gupta Gita Press 625 pages NEW SCAN",
-        "Link": "https://drive.google.com/uc?export=download&id=1Nb9iXNyrowrUfeEqEu71z6RH549TtwBH",
-        "Size": "42.09 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "SHREE VISHNU PURANA WITH VISHNUCHITTIYAM Sanskrit PB Annangaracharya 1972.zip",
-        "Link": "https://drive.google.com/uc?export=download&id=1Nf28B81ZfxMrt6kZ5SVKNCXDIo-0LUDY",
-        "Size": "52.04 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "SHREE VENKATACHALA MAHATMYAM 2 VOLUMES UNIQUE EDITION VARAHAADI AsthaPuranam Antargatam SANSKRIT.zip",
-        "Link": "https://drive.google.com/uc?export=download&id=1NZJbClWMQD8judiBEMS_ktug0_UuBi0D",
-        "Size": "51.0 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "SHREE RAGHAVENDRA MAHATMYAM SAINT OF MANTRALAYA Vol 01 ENGLISH Original in Tamil by Amman Sathiyanathan",
-        "Link": "https://drive.google.com/uc?export=download&id=1NYh4CMBpVqGXhd7Ou89CIblYxeKE-5aC",
-        "Size": "165.79 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Ramchritmanas Roman Goswami Tulsidas Gita Press ENGLISH",
-        "Link": "https://drive.google.com/uc?export=download&id=1NZMaxBgKX3mfqjNWok4TtKUcKXKNpOlv",
-        "Size": "4.93 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Padma Purana Volume 10 ENGLISH Motilal Banasirdass 2004",
-        "Link": "https://drive.google.com/uc?export=download&id=1NXun38iWS5hNInLbhv3xtxqNlKgCZgKK",
-        "Size": "17.28 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Padma Purana Volume 09 ENGLISH Motilal Banasirdass 2004",
-        "Link": "https://drive.google.com/uc?export=download&id=1NLJqJXjrzeZ-pJTvbq2k29x-Y1rC_pRY",
-        "Size": "15.76 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Padma Purana Volume 08 ENGLISH Motilal Banasirdass 2004",
-        "Link": "https://drive.google.com/uc?export=download&id=1NJoNzCDpGzgLguDpHb7IViCiACsQhSXO",
+        "Name": "Web Based Projects that rock the class",
+        "Link": "https://drive.google.com/uc?export=download&id=1rvgM_kjCXLU_zK0edqwlbi7R7cqF6csI",
         "Size": "13.96 MB",
-        "Categories": "Puran"
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Padma Purana Volume 05 ENGLISH Motilal Banasirdass 2004",
-        "Link": "https://drive.google.com/uc?export=download&id=1NI97FjmCkNC_uVQmoQTFaPhBmauYK3kh",
-        "Size": "17.3 MB",
-        "Categories": "Puran"
+        "Name": "The Guide of HTML5 and Javascript",
+        "Link": "https://drive.google.com/uc?export=download&id=1P_rfYb-qZqpBC7SxzIJ67eq_GC6jqswt",
+        "Size": "8.76 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Padma Purana Volume 04 ENGLISH Motilal Banasirdass 2004",
-        "Link": "https://drive.google.com/uc?export=download&id=1NIQ4wd5YFWGcUa04Aup2BfPLo5xpypAd",
-        "Size": "14.93 MB",
-        "Categories": "Puran"
+        "Name": "Copy of Web Development Recipes",
+        "Link": "https://drive.google.com/uc?export=download&id=1qoSXuxA3IwtDw14bJR5uPvCiMgg3juvr",
+        "Size": "8.58 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Padma Purana Volume 03 ENGLISH Motilal Banasirdass 2004",
-        "Link": "https://drive.google.com/uc?export=download&id=1NHKJU0xnwksVYX80j6_nlBhrQY2TNPqB",
-        "Size": "15.06 MB",
-        "Categories": "Puran"
+        "Name": "Copy of ProPHP",
+        "Link": "https://drive.google.com/uc?export=download&id=14VbwD4Md23iqm6G13hj2tUbcS3IEjL6c",
+        "Size": "4.06 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Padma Purana Volume 02 ENGLISH Motilal Banasirdass 2004",
-        "Link": "https://drive.google.com/uc?export=download&id=1NF4bZm5d2NgADfXorWBe4qPZoAV9ZNQL",
-        "Size": "18.55 MB",
-        "Categories": "Puran"
+        "Name": "Copy of PHPWeb",
+        "Link": "https://drive.google.com/uc?export=download&id=1OKTQ4cSJL6GE_LthgLuZCVT0sVsNI_8Y",
+        "Size": "10.22 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Vishnu Purana   Volume 05 part 02",
-        "Link": "https://drive.google.com/uc?export=download&id=1N1dgDZj6COkaYhvaXCa8j_yumvSJtC6Y",
-        "Size": "14.85 MB",
-        "Categories": "Puran"
+        "Name": "Copy of PHPOracleWeb",
+        "Link": "https://drive.google.com/uc?export=download&id=1OZ9WoFfvgpUytZRHY2T7hPGqgWA_949V",
+        "Size": "7.09 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "SHREE BRAHMA SAMHITA with the commentaries by Jiva Goswami translated by Bhaktivedanta Narayana Maharaj",
-        "Link": "https://drive.google.com/uc?export=download&id=1NCBZ7_IaDZ7uqdjJoM_TXr3yWZEpyjyo",
-        "Size": "1.83 MB",
-        "Categories": "Puran"
+        "Name": "Copy of PHPCookBook",
+        "Link": "https://drive.google.com/uc?export=download&id=1ANGqG_fn4Z9cB1PLKAOJXcidTtrdfgBl",
+        "Size": "13.65 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Vishnu Purana   Volume 05 part 02 BW",
-        "Link": "https://drive.google.com/uc?export=download&id=1MscdcSO4W2O2s_Ci8Gd5qiF5MAdvfgzp",
-        "Size": "12.63 MB",
-        "Categories": "Puran"
+        "Name": "Copy of NodejsPracticeManning",
+        "Link": "https://drive.google.com/uc?export=download&id=1TvktkT-wHRnKZWElfjA5bcmGB9OlrR9u",
+        "Size": "7.23 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Vishnu Purana   Volume 05 part 01 BW",
-        "Link": "https://drive.google.com/uc?export=download&id=1MrJl6Lr29zJJDJPhSVPuLJY7j9ab-sVr",
-        "Size": "18.38 MB",
-        "Categories": "Puran"
+        "Name": "Copy of NodejsDesignPatterns",
+        "Link": "https://drive.google.com/uc?export=download&id=1N7nFh_gtWxr8LNFF-iSH7M3KphCLqfAN",
+        "Size": "8.9 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Vishnu Purana   Volume 05 part 01",
-        "Link": "https://drive.google.com/uc?export=download&id=1Mok-Au0aqyZ9oROdVRNE3Qh3xzFPJyz-",
-        "Size": "21.38 MB",
-        "Categories": "Puran"
+        "Name": "Copy of jQuery Mobile Web Development Essentials, 2nd Edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1TrAckqcIGIsBcg_fgtNq59gQwnn2zxKz",
+        "Size": "4.44 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Shree Vishnu Purana   Volume 04",
-        "Link": "https://drive.google.com/uc?export=download&id=1MVghhFNj16tYuAtO_ZzGedORMnZbRoiJ",
-        "Size": "18.37 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Vishnu Purana   Volume 03",
-        "Link": "https://drive.google.com/uc?export=download&id=1MVNydjXcDwf_qoK3dqVFvhQ-Cfotuu_O",
-        "Size": "18.31 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Vishnu Purana   Volume 04 BW",
-        "Link": "https://drive.google.com/uc?export=download&id=1Mo49hsVFQvdqwvAhb8lb7clZ1NdqXdOo",
-        "Size": "16.35 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Vishnu Purana   Volume 03 BW",
-        "Link": "https://drive.google.com/uc?export=download&id=1MRLA7vTmRj2EfP-jcj6OppZ0cH0kYrV9",
-        "Size": "16.28 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Vishnu Purana   Volume 02",
-        "Link": "https://drive.google.com/uc?export=download&id=1MTOYmHcO_L6OUhV3ZqQTXuyRvfjgRwQq",
-        "Size": "19.01 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Vishnu Purana   Volume 02 BW",
-        "Link": "https://drive.google.com/uc?export=download&id=1MNyNGnIPOumzc6bhxOcmC-IwkXvz9eNl",
-        "Size": "17.16 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Vishnu Purana   Volume 01 BW",
-        "Link": "https://drive.google.com/uc?export=download&id=1MFLQJM-oqKwypkISuBV-Q-I1pkDgj1t1",
-        "Size": "16.23 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Vishnu Purana   Volume 01",
-        "Link": "https://drive.google.com/uc?export=download&id=1MO3s56FKgx5ZauBwbszxyXBsJS6cBJo1",
-        "Size": "18.79 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Varaha Purana 02",
-        "Link": "https://drive.google.com/uc?export=download&id=1MJRQ7TasZxOeeb4nwGJDDdp_IyBnvIr_",
-        "Size": "15.09 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Shree Varaha Purana 01",
-        "Link": "https://drive.google.com/uc?export=download&id=1MDER-B54FD9iY9ptJ_E79F-kQ_HO57rP",
-        "Size": "13.92 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "SHREE BRAHMA SAMHITA #5th Chapter# with Tika by Shree Shreemad Jeeva Goswami and transl by BhaktiSiddhanta Saraswati Goswami Shree Gaudiya Math Madras 1932",
-        "Link": "https://drive.google.com/uc?export=download&id=1MBwDCglF8puXW-9-DyZA2jsVk9S1St1e",
-        "Size": "35.37 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "SANKALPA KALPADRUMA by Vishvanatha Cakravarti Thakur translated by Bhaktivedanta Narayana Maharaj 2009",
-        "Link": "https://drive.google.com/uc?export=download&id=1MBhzO9Fb4VOE6Fcl5KDtQDGWaeRizYrt",
-        "Size": "3.33 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "RAMAYANA OF VALMIKI translated by Hari Prasad Shastri ENGLISH 1952",
-        "Link": "https://drive.google.com/uc?export=download&id=1M5QhDJJzeJDionk3MdBo8S6GVBP6gkaE",
-        "Size": "77.46 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Puranic Encyclopaedia 1921 Motilal Banarsidass BW",
-        "Link": "https://drive.google.com/uc?export=download&id=1M3J4TR7mFQ87TZJeStEGMRRarQVoEosf",
-        "Size": "49.45 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "PHILOSOPHY OF SHREE MADHVACHARYA by BNK Sharma Motilal Banarsidass 1986",
-        "Link": "https://drive.google.com/uc?export=download&id=1LzTVkDVIs7kZrI4Q-fnNZRvsikPfIKYp",
-        "Size": "2.11 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "Puranic Encyclopaedia 1921 Motilal Banarsidass",
-        "Link": "https://drive.google.com/uc?export=download&id=1M1CuFS4FJiD_WzEtEIHFQ36fHLuFcBQW",
-        "Size": "65.42 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "NRSIMHA PURANA SANSKRIT edited by Uddhavacharya Gopal Narayan Company Booksellers 1889",
-        "Link": "https://drive.google.com/uc?export=download&id=1Lyqy19uvX3tBktkGNKsxh-4hq6iPG_0f",
-        "Size": "37.23 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "NATYA SHASTRA A Treatise on Hindu Dramaturgy and Histrionics translated by Manomohan Ghosh.zip",
-        "Link": "https://drive.google.com/uc?export=download&id=1LuM4DDgU6kRo9i6GlwuHN6zGfokB0mnp",
-        "Size": "48.51 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "KRISHNA MAHATMYAM FROM SKANDA PURANA SANSKRIT TELUGU Tirumala Tirupati Devasthanams 1997",
-        "Link": "https://drive.google.com/uc?export=download&id=1Lor4IDsw8WBLkTLDGou2cMqoMjlBwDLj",
-        "Size": "11.29 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "INTRODUCTION TO THE PANCARATRA AND THE ANIRBUDHYA SAMHITA by Otto Schrader Adyar Library 1916",
-        "Link": "https://drive.google.com/uc?export=download&id=1LmeAIqWzLWo-YD2kBeYvdi5zKSERPe5e",
-        "Size": "14.39 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "KALKI PURANA HINDI SANSKRIT",
-        "Link": "https://drive.google.com/uc?export=download&id=1LmIjm1qqNA8Gd-ITqLUueN40SaZQ2Vsj",
-        "Size": "13.38 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "BRAHMA VAIVARTA PURANA Hindi with Stotras and Kavachas starting from page 737.Pdf",
-        "Link": "https://drive.google.com/uc?export=download&id=1LbJElA4GlmlWUEDLeQ-Pvf9rILtcmblU",
-        "Size": "51.4 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "AGNI PURANA Volume 01 M N Dutt 1987.djvu",
-        "Link": "https://drive.google.com/uc?export=download&id=1LQKlIne_TaEhfBS5tvRtau9ZWdvaBLk5",
-        "Size": "20.78 MB",
-        "Categories": "Puran"
-    },
-    {
-        "Name": "मनुस्मृति सम्पूर्ण",
-        "Link": "https://drive.google.com/uc?export=download&id=1LZ1Wmoqk5jm9xDd9sfTP3wUMVFHTqxBq",
-        "Size": "18.2 MB",
-        "Categories": "Manu and Manusmriti"
-    },
-    {
-        "Name": "pure manusmriti",
-        "Link": "https://drive.google.com/uc?export=download&id=1LTkvOO2lZJXFC59k5xkABMspZgxa4OQ4",
-        "Size": "133.89 MB",
-        "Categories": "Manu and Manusmriti"
-    },
-    {
-        "Name": "Manu ka Virodh kyon",
-        "Link": "https://drive.google.com/uc?export=download&id=1LVu4nn9XyekWolPM_WmHBPfJP5AMYSVq",
-        "Size": "0.78 MB",
-        "Categories": "Manu and Manusmriti"
-    },
-    {
-        "Name": "2015.496266.Mahabharatha ",
-        "Link": "https://drive.google.com/uc?export=download&id=1LKZAsHvXLQHxxCgevG9JOBvXtSpS8Fq6",
-        "Size": "58.19 MB",
-        "Categories": "Mahabharta"
-    },
-    {
-        "Name": "2015.495525.Mahabharatha ",
-        "Link": "https://drive.google.com/uc?export=download&id=1LHJhI-EEa5fshG0Tohwtxq8VyIaEtOnI",
-        "Size": "46.51 MB",
-        "Categories": "Mahabharta"
-    },
-    {
-        "Name": "2015.495339.Mahabharatha ",
-        "Link": "https://drive.google.com/uc?export=download&id=1LG5aamVuu6nT0TiHArsaOEkLKca8U-sk",
-        "Size": "111.79 MB",
-        "Categories": "Mahabharta"
-    },
-    {
-        "Name": "sammulas14",
-        "Link": "https://drive.google.com/uc?export=download&id=1LFTXl9vLmWkMp__52qzfpIOanHrVjCtp",
-        "Size": "1.09 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "चौदहवीं का चाँद",
-        "Link": "https://drive.google.com/uc?export=download&id=1L81Zk7O2PwQjEAkPfnxKIT13m7wWXSaV",
-        "Size": "0.48 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "Quran on Hindus",
-        "Link": "https://drive.google.com/uc?export=download&id=1KiYKGPhV_gXEYapwSBZ_u9eDNTnbt2jM",
-        "Size": "2.2 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "Muhammad vs Rama",
-        "Link": "https://drive.google.com/uc?export=download&id=1Kipeh3Dlw8twPn22Bps-6Ept7E9SYCyg",
-        "Size": "2.33 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "JIHAD   Arya Musafir Pandit Lekhram",
-        "Link": "https://drive.google.com/uc?export=download&id=1KlSYnixgI4aG_G18Jt9G2SB9Ey_ngLB2",
-        "Size": "4.61 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "Hindi   Jihad   Jannat",
-        "Link": "https://drive.google.com/uc?export=download&id=1KxCx9omAcaNSI5cHAGJkV7_2nIGIwo8Z",
-        "Size": "0.31 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "Hindi   Rangeela Rasool",
-        "Link": "https://drive.google.com/uc?export=download&id=1KuPb1nWpARByc8O3SB__ChZyy2Pj_v-T",
-        "Size": "0.63 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "Hateful verses from the Quran",
-        "Link": "https://drive.google.com/uc?export=download&id=1KxICrJikpRQsxAM52LSznprbGTFKf1So",
-        "Size": "5.78 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "God Bible Koran Gita",
-        "Link": "https://drive.google.com/uc?export=download&id=1KxMTBObh7l1hf6Fo4umTvJzaX4oJKogu",
-        "Size": "3.67 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "does Hinduism teach all religions are same",
-        "Link": "https://drive.google.com/uc?export=download&id=1L-RDVD59EYGisM7Vabri3GHjACm-1XTd",
-        "Size": "0.32 MB",
-        "Categories": "Islam Postmortem"
-    },
-    {
-        "Name": "English   RBB Part 3of3",
-        "Link": "https://drive.google.com/uc?export=download&id=1L4YWBaRdp-bgCwq5QoNllNljNBkEgErD",
-        "Size": "19.56 MB",
-        "Categories": "Introduction to the Commentry on the 4 Vedas"
-    },
-    {
-        "Name": "ऋग्वेदादिभाष्यभूमिका",
-        "Link": "https://drive.google.com/uc?export=download&id=1L4M0IpDMmeW4wnVkRedbUNZM78yaYgXg",
-        "Size": "2.57 MB",
-        "Categories": "Introduction to the Commentry on the 4 Vedas"
-    },
-    {
-        "Name": "English   RBB Part 2of3",
-        "Link": "https://drive.google.com/uc?export=download&id=1L1k9whqM2Lr4j5Ybss5Z63xrdTzBQIOT",
-        "Size": "18.26 MB",
-        "Categories": "Introduction to the Commentry on the 4 Vedas"
-    },
-    {
-        "Name": "English   RBB Part 1of3",
-        "Link": "https://drive.google.com/uc?export=download&id=1L2g2hAjd5KeW9oDyIcwlo2bmMRgHBW19",
-        "Size": "18.93 MB",
-        "Categories": "Introduction to the Commentry on the 4 Vedas"
-    },
-    {
-        "Name": "Young India",
-        "Link": "https://drive.google.com/uc?export=download&id=1KhWuKyGzNWKrGO-MdO3x6BfPlEkVd0UC",
-        "Size": "0.93 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "The Wisdom of the Hindus",
-        "Link": "https://drive.google.com/uc?export=download&id=1KFGR-bXcQLLcTfblk9kd2_NmQTbmw01K",
-        "Size": "3.03 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "The Arctic Home of the Aryans",
-        "Link": "https://drive.google.com/uc?export=download&id=1KFlp8-l6Rx8PsiO6ud-mKWS4ZiIL0Kbc",
-        "Size": "1.76 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Schrodinger Vedanta",
-        "Link": "https://drive.google.com/uc?export=download&id=1KTDiHgwrcgQphYymJkrRAu6gttnQaEYS",
-        "Size": "0.04 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "The Genius Of India",
-        "Link": "https://drive.google.com/uc?export=download&id=1KRuU34iBAc7NysM6LknIx2DUGRamgdLh",
-        "Size": "0.0 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "sanatan dharm catechism",
-        "Link": "https://drive.google.com/uc?export=download&id=1KagIZkDSwK53VBhFOLduLQFmrkOasZmA",
-        "Size": "16.41 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "India^s Rebirth",
-        "Link": "https://drive.google.com/uc?export=download&id=1JtmlSfbc1vzGlS8Z_QhgFTLyltuukDg-",
-        "Size": "59.62 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Looking for a hindu identity",
-        "Link": "https://drive.google.com/uc?export=download&id=1KC-OFOgbcktNv3Z9bJj-nqUhuuPUtNen",
-        "Size": "0.24 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "India and Her Future",
-        "Link": "https://drive.google.com/uc?export=download&id=1Jl8uFGVwBfa39MfEtdpnYVJGoX3SZL0t",
-        "Size": "0.0 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "hinduism invades america",
-        "Link": "https://drive.google.com/uc?export=download&id=1JjJmPXU7dEVzKCKKsLQ7Oibmj31sxIdN",
-        "Size": "21.97 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "How the British Ruined India",
-        "Link": "https://drive.google.com/uc?export=download&id=1JrnEjNw2F3MxBK7X3lqQSdSbc-pdy5JL",
-        "Size": "0.17 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "four lectures",
-        "Link": "https://drive.google.com/uc?export=download&id=1JQxTTg8XIZMwdPZ_6pQhT1ut2MOqa6cY",
-        "Size": "4.87 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "EncyHinduism",
-        "Link": "https://drive.google.com/uc?export=download&id=1JRQRXaDfqEyDCRSazUSq4GliR0Us54jt",
-        "Size": "10.57 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Defending Dharma",
-        "Link": "https://drive.google.com/uc?export=download&id=1JUQ1g3XsGSozzqRbUcli6IBrpfuKMUAg",
-        "Size": "0.18 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Death of Aryan Invasion Theory",
-        "Link": "https://drive.google.com/uc?export=download&id=1JXSbq6BstrP7MaHXwTjnyrYzsZQnJUCn",
-        "Size": "0.14 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "caste problems",
-        "Link": "https://drive.google.com/uc?export=download&id=1JhXx5uRur8w1WQlH9DsE8iyTv3_jeqaK",
-        "Size": "0.07 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Beef in ancient India",
-        "Link": "https://drive.google.com/uc?export=download&id=1JiBvMfzLCSfV7RpCyMFsN76Cb3WLbRHo",
-        "Size": "0.18 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Aryabhatta Indian work on mathematics astronomy",
-        "Link": "https://drive.google.com/uc?export=download&id=1J9f6TWrCb6FQTomH0QMrIHzOv_EgYN7E",
-        "Size": "8.11 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "AncientIndia",
-        "Link": "https://drive.google.com/uc?export=download&id=1JIj4JxDDR5A15DF-C0VQTbbd44RqcuIS",
-        "Size": "0.05 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "AriseIndia",
-        "Link": "https://drive.google.com/uc?export=download&id=1JArNn70TG39T2JJ-Zc_ESEAUokPRTIjP",
-        "Size": "0.46 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Ancient Indian Law III",
-        "Link": "https://drive.google.com/uc?export=download&id=1JJ2Wg7zQDwmtQoo89zJQxYnLg_0nMN7p",
-        "Size": "0.49 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Ancient Indian Law I",
-        "Link": "https://drive.google.com/uc?export=download&id=1JL85vccEeJ7vB_VOzjuiUV0cJ_PlfqDx",
-        "Size": "0.46 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Ancient Indian Law II",
-        "Link": "https://drive.google.com/uc?export=download&id=1JJLh0zPl9VJY8e9b1ilQi4iWvSRNSx3K",
-        "Size": "0.43 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Ancient India",
-        "Link": "https://drive.google.com/uc?export=download&id=1JMVMdUj4jmhPMx2tJAX9NTuun7Umwymo",
-        "Size": "14.64 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "American Hindus",
-        "Link": "https://drive.google.com/uc?export=download&id=1JMj7dxXji6eQ9D_0uhu_loiwyGqr5jpb",
-        "Size": "0.05 MB",
-        "Categories": "Hindutva and India"
-    },
-    {
-        "Name": "Title",
-        "Link": "https://drive.google.com/uc?export=download&id=1G_B7WxtTy_WTI5WJsO9VjYabqxcfXmd-",
-        "Size": "0.07 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA ED. 2ND"
-    },
-    {
-        "Name": "Introduction",
-        "Link": "https://drive.google.com/uc?export=download&id=1GeFDQMTa4-qioOg9uAxElBwyu3Dnzb_H",
-        "Size": "0.6 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA ED. 2ND"
-    },
-    {
-        "Name": "Preface",
-        "Link": "https://drive.google.com/uc?export=download&id=1GcWRvebJP7qCY9dwlUXe7NFnuA3pFujD",
-        "Size": "0.21 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA ED. 2ND"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1Gfu-sKGwY0SeS0YnphazmoJAInBCBu4n",
-        "Size": "0.09 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA ED. 2ND"
-    },
-    {
-        "Name": "Chapter 1 1 70p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Gw-hmEqKiGEKHndaL1qFcO7o_IcUDuGP",
-        "Size": "7.42 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA ED. 2ND"
-    },
-    {
-        "Name": "Chapter 2 71 98p",
-        "Link": "https://drive.google.com/uc?export=download&id=1GiAtg1ZALOuDs1m_IRNCThdh9rOqQYgG",
-        "Size": "3.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA ED. 2ND"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1H-91cr4XQY5dUuEDzYpAN6m7a2Brbl_Y",
-        "Size": "0.03 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA BESANT, ANNIE TR"
-    },
-    {
-        "Name": "Preface",
-        "Link": "https://drive.google.com/uc?export=download&id=1H0K4e9Ja--zRCOjarGLlISrHbxcONd2N",
-        "Size": "0.26 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA BESANT, ANNIE TR"
-    },
-    {
-        "Name": "Chapter2 87 134p",
-        "Link": "https://drive.google.com/uc?export=download&id=1H9-hycwqvc_tBklBxTIYsjRrkW53qfMs",
-        "Size": "1.26 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA BESANT, ANNIE TR"
-    },
-    {
-        "Name": "Chapter3 135 168p",
-        "Link": "https://drive.google.com/uc?export=download&id=1H8Yi_bNbHGrGGQ6vsCH_UnA946I4FP3v",
-        "Size": "0.94 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA BESANT, ANNIE TR"
-    },
-    {
-        "Name": "Chapter1 13 86p",
-        "Link": "https://drive.google.com/uc?export=download&id=1HEJs-TONr-Xc-5wF_QuUS5eUqayuelEP",
-        "Size": "2.06 MB",
-        "Categories": "Gita",
-        "SubCategories1": "THE BHAGAVAD GITA BESANT, ANNIE TR"
-    },
-    {
-        "Name": "Title",
-        "Link": "https://drive.google.com/uc?export=download&id=1HVk8dKQXYnV4OogtWMDpujaVeZTVF2ao",
-        "Size": "0.06 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Introduction",
-        "Link": "https://drive.google.com/uc?export=download&id=1HZdIxsCJ6QZVv6zd0ZFJ4BT4SBS3A4tE",
-        "Size": "0.13 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Preliminary",
-        "Link": "https://drive.google.com/uc?export=download&id=1HZ-Oh2mWFTvH8Ts-y2DA6XGl4sYVea4M",
-        "Size": "1.18 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1HafslyhWygovBBZhd0fjgPEWNN-fr_wk",
-        "Size": "0.02 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Chapter6 8 161 226p",
-        "Link": "https://drive.google.com/uc?export=download&id=1HeuZRrPX4RnWlUoo2_tSoxJCtrSDiwWy",
-        "Size": "2.45 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Chapter9 11 227 296p",
-        "Link": "https://drive.google.com/uc?export=download&id=1HbzY4llp17RcoX2e-1NlPBVkqDYjQGSG",
-        "Size": "2.51 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Chapter3 5 89 160p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Hg4ioD33OcXR3iAdXOMNH9Seb7G6VDmv",
-        "Size": "2.77 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Chapter16 18 363 427p",
-        "Link": "https://drive.google.com/uc?export=download&id=1HlQImjuN9GtXsxgtJCPB7IjntLkDVvMf",
-        "Size": "2.45 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Chapter12 15 297 362p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Hq5dLoRky8Ofqkm2ImGMmO5FM_FlAc4D",
-        "Size": "2.38 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Chapter1 2 29 88p",
-        "Link": "https://drive.google.com/uc?export=download&id=1HqPNygpRaCncAJcRZWsDKYeYEFMC8_Ex",
-        "Size": "2.21 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATHARUP GUPTA, RAJIV,TR"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1DT6Tzp_G94Fire3lrOsY1Me8xNEd9NO0",
-        "Size": "0.19 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Content Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1D_1Tk2EvRJxaSCshU6bA_DvwQuxJhSlM",
-        "Size": "0.06 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Chapter6",
-        "Link": "https://drive.google.com/uc?export=download&id=1D_4RPxjgj4_pAHrYNH0sRlck4dVsGRDo",
-        "Size": "3.92 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Chapter5",
-        "Link": "https://drive.google.com/uc?export=download&id=1D4koyV7-LAGT5YO2_JMkzANOANd5O25B",
-        "Size": "9.45 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Chapter4",
-        "Link": "https://drive.google.com/uc?export=download&id=1D8xm_5eCbbnuR_Ps2Vvna3AqyV7cpgXz",
-        "Size": "9.43 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Chapter3",
-        "Link": "https://drive.google.com/uc?export=download&id=1D9R0eyM5mjRnzYbLQzJlbM2dis7K1rvU",
-        "Size": "9.73 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Chapter1",
-        "Link": "https://drive.google.com/uc?export=download&id=1CU0hwg3et-Z3NmjUklL8bvk3UzRu22SD",
-        "Size": "10.3 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Chapter2",
-        "Link": "https://drive.google.com/uc?export=download&id=1CCmc5toRFimgHKEqz8Ufboiq5SiBu8on",
-        "Size": "9.84 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGBADGITA JATARUP"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1CWgeZtFcaSqi4iop1NuY65LlpsEtntJ_",
-        "Size": "0.05 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Preface",
-        "Link": "https://drive.google.com/uc?export=download&id=1C_mvtirUoQcmXhveCgd7JtodY46EyiSB",
-        "Size": "0.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Other Pages2",
-        "Link": "https://drive.google.com/uc?export=download&id=1CvGokhZmI02AYNVQw1pG_tyqt2HcTibf",
-        "Size": "0.18 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Introduction",
-        "Link": "https://drive.google.com/uc?export=download&id=1D1PclaSMlhs7Dr8ozdngCWMDt9-79FHT",
-        "Size": "1.32 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Other Pages",
-        "Link": "https://drive.google.com/uc?export=download&id=1Cxtu1639LGuu73BmA4AbsICZRTbyfpAp",
-        "Size": "1.06 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Errata",
-        "Link": "https://drive.google.com/uc?export=download&id=1C4ld47doBYvSXlizHXKlZA065GhcTS87",
-        "Size": "0.12 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Chapter 5 325 420P",
-        "Link": "https://drive.google.com/uc?export=download&id=1C5cU-FWqvCkzDA3YKULYrtnQqJ4RcUu7",
-        "Size": "11.28 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1C50_wpdiMsJywt8eNIsO9D9g4DmqLlbl",
-        "Size": "0.08 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Chapter 4 245 324P",
-        "Link": "https://drive.google.com/uc?export=download&id=1C6yNn3EIEHwhrKqfJAgqaLXimH4sMNWx",
-        "Size": "8.59 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Chapter 3 165 244P",
-        "Link": "https://drive.google.com/uc?export=download&id=1C-bfl2jKsl4QyVTej2Yjno1-MG3REKtL",
-        "Size": "8.6 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Chapter 2 85 164P",
-        "Link": "https://drive.google.com/uc?export=download&id=1C2UjFh8ZpgPF_oZgLF7PpywVycSYBgI0",
-        "Size": "8.67 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Chapter 1 18 84P",
-        "Link": "https://drive.google.com/uc?export=download&id=1C3eWh2qQ1XfxzxWamjm-Z7LiSZTR8qqQ",
-        "Size": "7.4 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABATGITA ED.1 RAY, ANILBARAN ED"
-    },
-    {
-        "Name": "Title",
-        "Link": "https://drive.google.com/uc?export=download&id=1GHSIF7VdaGJ1ZfL7rS8cuSI8AEJWNUwQ",
-        "Size": "0.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1GPa6tSmZbopIKyHVt6oAWclguqBzEcI2",
-        "Size": "0.54 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Preliminary",
-        "Link": "https://drive.google.com/uc?export=download&id=1GOA5jfjdgLKj_NYYCzfHeS3nF5ZkQ2sV",
-        "Size": "1.09 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Chapter4 241 314p",
-        "Link": "https://drive.google.com/uc?export=download&id=1GVbwGTTEe-OjbcreRy71h3zK_t5Dbf0j",
-        "Size": "4.95 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Chapter3 161 240p",
-        "Link": "https://drive.google.com/uc?export=download&id=1GWKozdKQv4f_VUHpRJQorerV0QrZmVtY",
-        "Size": "5.48 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Chapter2 81 160p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Fxpy7P25fm2m4jUHHvX_BA71Y9ymIYmI",
-        "Size": "5.13 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Chapter1 1 80p",
-        "Link": "https://drive.google.com/uc?export=download&id=1FzaZRGVxGgvqfXj3kmMpoYvtk7DadX5z",
-        "Size": "4.96 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Appendix",
-        "Link": "https://drive.google.com/uc?export=download&id=1G0_2rJwU_-wr1GNdFKNqOUPVcrFQwG8O",
-        "Size": "0.23 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABAT SEN, GUNADACHARAN"
-    },
-    {
-        "Name": "Title",
-        "Link": "https://drive.google.com/uc?export=download&id=1G1qglRGq0ysPgu9DeP556LC5mjd0eN1T",
-        "Size": "0.09 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1G2tQAKYjHexAgnwKOus1XAM8_wQVlLRl",
-        "Size": "0.18 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Chapter7 469 528p",
-        "Link": "https://drive.google.com/uc?export=download&id=1G5Chudf2d_Qhd3aEwZ9iQkA8k3YVtVEd",
-        "Size": "2.78 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Chapter5 311 390p",
-        "Link": "https://drive.google.com/uc?export=download&id=1GCZh4n4D4wIEUliuHe-1rU-QdhlNE-u2",
-        "Size": "3.89 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Chapter6 390 468p",
-        "Link": "https://drive.google.com/uc?export=download&id=1GC74edF4KKxcm9kIghlrVdKAfvNwovGe",
-        "Size": "3.89 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Chapter4 231 310p",
-        "Link": "https://drive.google.com/uc?export=download&id=1GG9ZEo7HRR1y4e4SKZe1nZGWhDb0s0bq",
-        "Size": "3.87 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Chapter3 151 230p",
-        "Link": "https://drive.google.com/uc?export=download&id=1FZxx6S22nSK7UsKQgdMGuK56akJti40R",
-        "Size": "3.79 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Chapter2 71 150p",
-        "Link": "https://drive.google.com/uc?export=download&id=1FZyL6gBWRTK5r2_lxHckKWER2P3EsPaQ",
-        "Size": "3.91 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Chapter1 1 70p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Fg2-FZ5abKjMjTuYJyxWXTK-gCfy8a7n",
-        "Size": "3.74 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SRIMADBHAGABADGITA VOL.1, PART.5 BASU, DEBENDRA BIJAY"
-    },
-    {
-        "Name": "Preliminary Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1FrSKEZ_PBpzXrNOBDsoCuzkdiUW9-ggs",
-        "Size": "2.16 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Other Pages",
-        "Link": "https://drive.google.com/uc?export=download&id=1FrWKUy_cz6--NXG8wbHIM47h5rnMQhON",
-        "Size": "0.8 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Chapter 6 564 – 596p",
-        "Link": "https://drive.google.com/uc?export=download&id=1FuOOwps3g4XIZvB69s8VSuR_zEEEfPTp",
-        "Size": "2.55 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Chapter 5 460 – 563p",
-        "Link": "https://drive.google.com/uc?export=download&id=1FxYAcvpo8TZqGxFsXhxbZIpl0WBo7Bvv",
-        "Size": "5.99 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Chapter 4 361 – 459p",
-        "Link": "https://drive.google.com/uc?export=download&id=1EwI4j4_vHeG4qD9fIdbu0ELtIkTl-3ui",
-        "Size": "5.14 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Chapter 3 263 – 360p",
-        "Link": "https://drive.google.com/uc?export=download&id=1ExGIcTANCcaEe0UG0mpyd_Otxk3pHczt",
-        "Size": "4.7 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Chapter 2 136 – 262p",
-        "Link": "https://drive.google.com/uc?export=download&id=1F68ZyM8OqXXEuzXeiKNIKU1gsw8Tu6iY",
-        "Size": "6.35 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Chapter 1 33 – 135p",
-        "Link": "https://drive.google.com/uc?export=download&id=1FQaHN12vKGOtZAzSsHMHL9hu_TwCNUSy",
-        "Size": "4.99 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimat Bhagabat Geeta"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1FZrtv6y2qaBulnCbqjZtUMOEuxOgCbHM",
-        "Size": "0.11 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimadbhagbatgita"
-    },
-    {
-        "Name": "Chapter 6 528 – 562p",
-        "Link": "https://drive.google.com/uc?export=download&id=1ERFZ1mHanxBsDDe78VoB89IImtq7KUaP",
-        "Size": "2.48 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimadbhagbatgita"
-    },
-    {
-        "Name": "Chapter 5 426 – 527p",
-        "Link": "https://drive.google.com/uc?export=download&id=1EdnAsB1S2qH5M-aYxtMd2c4sDezLUENm",
-        "Size": "4.13 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimadbhagbatgita"
-    },
-    {
-        "Name": "Chapter 4 318 – 425p",
-        "Link": "https://drive.google.com/uc?export=download&id=1EijzTE4i1FKkWVXR5vE4F3-GRsAPe66a",
-        "Size": "4.54 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimadbhagbatgita"
-    },
-    {
-        "Name": "Chapter 3 217 – 317p",
-        "Link": "https://drive.google.com/uc?export=download&id=1EnfpJm7u1a3mCUGzH51sYTJ1-QgQoXV7",
-        "Size": "4.19 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimadbhagbatgita"
-    },
-    {
-        "Name": "Chapter 2 110 – 216p",
-        "Link": "https://drive.google.com/uc?export=download&id=1EpnN7oYqxuf4HGquIzq8h17Z1IUtMpq3",
-        "Size": "4.76 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimadbhagbatgita"
-    },
-    {
-        "Name": "Chapter 1 8 – 109p",
-        "Link": "https://drive.google.com/uc?export=download&id=1DhFassicB7sNrkH9Si9xoUZdwN5ntJii",
-        "Size": "4.62 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Shrimadbhagbatgita"
-    },
-    {
-        "Name": "Title",
-        "Link": "https://drive.google.com/uc?export=download&id=1DmlAgbNN431sBbbK-xI979Yql6QFtCiq",
-        "Size": "0.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
-    },
-    {
-        "Name": "Preliminary",
-        "Link": "https://drive.google.com/uc?export=download&id=1DmmSPnhgDXMqAg2xIYdRj1FCf1WaHEbH",
-        "Size": "0.11 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
-    },
-    {
-        "Name": "Content",
-        "Link": "https://drive.google.com/uc?export=download&id=1DnS0Q25DayYu449aO2hsH8O5uIKsW7gq",
-        "Size": "0.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
-    },
-    {
-        "Name": "Chapter6 401 439",
-        "Link": "https://drive.google.com/uc?export=download&id=1DtAwLDaYUb7ruxeBY2ADbJQfsp2bqloz",
-        "Size": "1.23 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
-    },
-    {
-        "Name": "Chapter5 321 400",
-        "Link": "https://drive.google.com/uc?export=download&id=1DwXzuTO93NW1W8qChxRonvwPRSxpMpc-",
+        "Name": "Copy of jQuery 2.0 Development Cookbook",
+        "Link": "https://drive.google.com/uc?export=download&id=19_25L5cTbYwU2ySGh5oqvUynqcnDPX_Q",
         "Size": "2.6 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
+        "Categories": "Web Development"
     },
     {
-        "Name": "Chapter4 241 320",
-        "Link": "https://drive.google.com/uc?export=download&id=1DyUifUAYZLjK7ap93Dy_-oLJ-OsfBYPB",
-        "Size": "2.49 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
-    },
-    {
-        "Name": "Chapter3 161 240",
-        "Link": "https://drive.google.com/uc?export=download&id=1E4s69bCsRcG_wUEpsdHJY1SmCUB9M570",
+        "Name": "Copy of HTML5 Architecture",
+        "Link": "https://drive.google.com/uc?export=download&id=1_h2PNzu2PV_0wb8gNUMCTUYMcTpgJYF0",
         "Size": "2.56 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
+        "Categories": "Web Development"
     },
     {
-        "Name": "Chapter1 1 80p",
-        "Link": "https://drive.google.com/uc?export=download&id=1E8-xcDS8wy-VuxQoL8VCXmnbs-Y4PrWB",
-        "Size": "2.68 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
+        "Name": "Copy of HTML5 and JavaScript Web Apps",
+        "Link": "https://drive.google.com/uc?export=download&id=1NcPOQa4XWc1fgchsxbke1AHi8XVCQsCn",
+        "Size": "11.63 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Chapter2 81 160",
-        "Link": "https://drive.google.com/uc?export=download&id=1E7sFpyFDX6L9SISvEFzb2AtGLEYKu9p5",
-        "Size": "2.65 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
+        "Name": "Copy of HTML  amp  CSS  The Complete Reference, 5th Edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1H9V79NDd5MWuuINy97hPUov4TE16GKTT",
+        "Size": "11.03 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Advertisment",
-        "Link": "https://drive.google.com/uc?export=download&id=1E9VpUAz9Quh98OKQaXL8ydnYvSmsOMSh",
-        "Size": "1.21 MB",
-        "Categories": "Gita",
-        "SubCategories1": "SHRIMADBHAGABADGITA CHAKRABORTY, ADHARCHANDRA ED"
+        "Name": "Copy of DevNodejs",
+        "Link": "https://drive.google.com/uc?export=download&id=1vHYdS5u76xQWGacK0CjRcIhk8iNSnbg9",
+        "Size": "7.22 MB",
+        "Categories": "Web Development"
     },
     {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1AL8KoFRz58_fNiOwevqgU7E1XELxrBCX",
-        "Size": "0.03 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "The Road to React by Robin Wieruch 2020",
+        "Link": "https://drive.google.com/uc?export=download&id=1BhiLY3pbK5dVHjvNnMXT65zb0n29Eqmk",
+        "Size": "0.83 MB",
+        "Categories": "React.js Ebooks"
     },
     {
-        "Name": "Introduction 2",
-        "Link": "https://drive.google.com/uc?export=download&id=1ANhYvcq-YYoICOqmljoXqqPFpHjfBiu7",
-        "Size": "2.01 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Pro React 16 by Adam Freeman 2019",
+        "Link": "https://drive.google.com/uc?export=download&id=1WJFU5lpaIwE_Z6rvYbep-N42Nq8MqAjr",
+        "Size": "18.27 MB",
+        "Categories": "React.js Ebooks"
     },
     {
-        "Name": "Preliminary Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1ANBGvyA8z9WxdRNZ5Qq4ySRPhiJ_L1QF",
-        "Size": "0.1 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Fullstack React with TypeScript by Nate Murray 2020",
+        "Link": "https://drive.google.com/uc?export=download&id=1ypTKRy1GqXy_lxdajeRSJI-20BduMJn-",
+        "Size": "13.35 MB",
+        "Categories": "React.js Ebooks"
     },
     {
-        "Name": "Introduction 1",
-        "Link": "https://drive.google.com/uc?export=download&id=1ARw0mNR35uUCuoczf3cetrGsB_3uxYHw",
-        "Size": "2.11 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Fullstack React   The Complete Guide to ReactJS and Friends 2020",
+        "Link": "https://drive.google.com/uc?export=download&id=1KZ5m97sqF4W-e6pTJoVfIdGs73dLTueh",
+        "Size": "19.39 MB",
+        "Categories": "React.js Ebooks"
     },
     {
-        "Name": "Chapter 9",
-        "Link": "https://drive.google.com/uc?export=download&id=1AW1RywYM7bY-7_sJ-JyT-KnwoFayeTvZ",
-        "Size": "1.23 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Zed Shaw   Learn Python the Hard Way 3rd",
+        "Link": "https://drive.google.com/uc?export=download&id=1OdXQBXqOklVgeICnozpWI-cdu_Y-7vq7",
+        "Size": "2.54 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Content Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1AS-ovKDdiqpF_e6t4xsTkBEBT6XWFKtE",
-        "Size": "0.08 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Zed Shaw   Learn Python the Hard Way 3rd.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1uaVlV28GSMDb8NbsT5DE6GmEJ70JAQDZ",
+        "Size": "19.08 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 8",
-        "Link": "https://drive.google.com/uc?export=download&id=1AYWeIgI8LjgJPhpAJUE8vPGUtRixEt8b",
-        "Size": "1.86 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Y. Daniel Liang   Introduction to Programming Using Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1Uh07LxgKzuRZVTCR50xeagrsS5rRKSCh",
+        "Size": "8.83 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 7",
-        "Link": "https://drive.google.com/uc?export=download&id=1AguPQKQ5AbAnRzwYMhIoX-f3_VTvPp3h",
-        "Size": "2.0 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Will McGugan   Beginning Game Development with Python and Pygame 2007",
+        "Link": "https://drive.google.com/uc?export=download&id=141WlIp1MfG0mZgMrCLiS3IQ0F1T9uR-W",
+        "Size": "8.1 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 6",
-        "Link": "https://drive.google.com/uc?export=download&id=1AoE3upM2RrcvVTxvyvs606FqiLvwOUx4",
-        "Size": "2.01 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Wesley J. Chun   Core Python Programming",
+        "Link": "https://drive.google.com/uc?export=download&id=15asvt9K8u04bcJi0SssPu9QFoqoX6k_h",
+        "Size": "7.91 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 4",
-        "Link": "https://drive.google.com/uc?export=download&id=19--3JrybUeX7wEuXP9VGRgvQXt05DyI-",
-        "Size": "1.94 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Wes McKinney   Python for Data Analysis.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1oosfDhw0nN1nA1-h6Xz3fSV0bH09BI89",
+        "Size": "7.31 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 5",
-        "Link": "https://drive.google.com/uc?export=download&id=18yeKqMJD67hvj4sdh5VaO7SKL7E4jozr",
-        "Size": "1.95 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Uwe Schoning   Logic for Computer",
+        "Link": "https://drive.google.com/uc?export=download&id=1jBl017H8ihiw_1Yhont7BSol2PCxHPXk",
+        "Size": "9.93 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 3",
-        "Link": "https://drive.google.com/uc?export=download&id=1907T7PVEasVS5-Df3PuZIe3o_oXQ_iE1",
-        "Size": "1.73 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Ucoluk, Kalkan   Introduction to Programming Concepts with Case Studies in Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1uwFK7hgdnVn63evpuiNHXJRQo05Sj2-5",
+        "Size": "4.9 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 10",
-        "Link": "https://drive.google.com/uc?export=download&id=197FNpPwgp22GpndCravpUhqfUjcrjAAQ",
-        "Size": "1.2 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Tony Gaddis   Starting out with Python 2nd",
+        "Link": "https://drive.google.com/uc?export=download&id=1OPtZz6mz9qWhCLZThxGojhRHLdpssiHi",
+        "Size": "3.7 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 2",
-        "Link": "https://drive.google.com/uc?export=download&id=191ol134THeAecV523Fc8xC9k7NfbFipx",
-        "Size": "1.76 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of TJ. O Connor   Violent Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1Cdp4axxTHWtnuAr555o0ImWdfW6ao2Bt",
+        "Size": "7.83 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Chapter 1",
-        "Link": "https://drive.google.com/uc?export=download&id=198Xn9eqNDm_VeCU-AHynPUSQl02b4RJd",
-        "Size": "1.91 MB",
-        "Categories": "Gita",
-        "SubCategories1": "PANCADASI GITA CHATTERJEE, JATINDRA MOHAN"
+        "Name": "Copy of Tim Hall, J P Stacey   Python 3 for Absolute Beginners",
+        "Link": "https://drive.google.com/uc?export=download&id=1HaJ4Sz5woTUE_P2mjONo4X2pSIQIbGx1",
+        "Size": "7.61 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Title",
-        "Link": "https://drive.google.com/uc?export=download&id=199Inb0tt55Kg77S2QP2eFzIBx-_BnX5S",
-        "Size": "0.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "LECTURES ON BHAGAVAD GITA ED. 2ND SHANKAR, BHAWANI"
-    },
-    {
-        "Name": "Preface",
-        "Link": "https://drive.google.com/uc?export=download&id=19UpwvaqmLvNJbUFAZ75r4pvm2A9AP75T",
-        "Size": "0.15 MB",
-        "Categories": "Gita",
-        "SubCategories1": "LECTURES ON BHAGAVAD GITA ED. 2ND SHANKAR, BHAWANI"
-    },
-    {
-        "Name": "Preliminary Page",
-        "Link": "https://drive.google.com/uc?export=download&id=19OZEOBBhvpQDcpJYltfzOkwpMZ0soy7Q",
-        "Size": "0.57 MB",
-        "Categories": "Gita",
-        "SubCategories1": "LECTURES ON BHAGAVAD GITA ED. 2ND SHANKAR, BHAWANI"
-    },
-    {
-        "Name": "Chapter1 1 73p",
-        "Link": "https://drive.google.com/uc?export=download&id=19WlO_b089Nqu8M_B8BcX_iupOTUc2q1w",
-        "Size": "3.83 MB",
-        "Categories": "Gita",
-        "SubCategories1": "LECTURES ON BHAGAVAD GITA ED. 2ND SHANKAR, BHAWANI"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=19Y17MrNDQimfhdmadCrwcpGCd45OHfwC",
-        "Size": "0.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Hints on the Study of The Bhagavad-Gita Besant, Annie"
-    },
-    {
-        "Name": "Chapter 1 1   129p",
-        "Link": "https://drive.google.com/uc?export=download&id=19cB__jcL5brpOc_11Zvg3etUC90qKkDf",
-        "Size": "5.31 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Hints on the Study of The Bhagavad-Gita Besant, Annie"
-    },
-    {
-        "Name": "Content Page",
-        "Link": "https://drive.google.com/uc?export=download&id=19Ze9Y13noHjn5mogUz3YZLUHirTdF9D3",
-        "Size": "0.02 MB",
-        "Categories": "Gita",
-        "SubCategories1": "Hints on the Study of The Bhagavad-Gita Besant, Annie"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1Bd-Wo1mv2yE_9AsPgSD9cdr5C-8NVyO4",
-        "Size": "0.03 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Other Pages",
-        "Link": "https://drive.google.com/uc?export=download&id=1BfPhc6C-wt_EzuXE7kVMyV6GzkQt6ZFu",
-        "Size": "0.03 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Content Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1Bfe009-H6iNn_SMgOWRp73zuryn5bdcZ",
-        "Size": "0.04 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Chapter 7 Part 2 451 501p",
-        "Link": "https://drive.google.com/uc?export=download&id=1BgxkTVGNZFZUZZMKLjO9VEvmMTT_tPky",
-        "Size": "2.87 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Chapter 6 Part 2 379 450p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Bh2nH-UkAb0uwRoz8mGkOegeNxGSvnFu",
-        "Size": "4.18 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Chapter 4 Part 2 219 398p",
-        "Link": "https://drive.google.com/uc?export=download&id=1BnYAVCzVHwklKFMnRAV_X8hHGJHbdWjq",
-        "Size": "4.53 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Chapter 5 Part 2 299 378",
-        "Link": "https://drive.google.com/uc?export=download&id=1BmEDGvStXpnJSb7s9kXnmrDDLrWLrWO6",
-        "Size": "4.59 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Chapter 3 Part 1 161 218p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Bs1AyfdC2N_MQHnKHIvIuhozJ4LP89j7",
-        "Size": "3.31 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Chapter 2 Part 1 81 160p",
-        "Link": "https://drive.google.com/uc?export=download&id=1BQKPXVZw6ZqNQxghbGHiHT8RpT7RdGNv",
-        "Size": "4.54 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Chapter 1 Parrt 1 1 80p",
-        "Link": "https://drive.google.com/uc?export=download&id=1BQfFCqZn6ELhiTiK5zBfDdcgA1fzL1mV",
-        "Size": "4.59 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA, ED. 1, SERIES.2(1928) GHOSE, AUROBINDO"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1BSQYv4YTZ6n--URkjnuloddK8uj_zFhz",
-        "Size": "0.03 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA ED.2, SERIES.1(1926) GHOSE, AUROBINDO, SRI"
-    },
-    {
-        "Name": "Content Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1BVyID_2lP1YFO44ggnjoO36bddtm98xw",
-        "Size": "0.05 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA ED.2, SERIES.1(1926) GHOSE, AUROBINDO, SRI"
-    },
-    {
-        "Name": "Chapter 5 321 379p",
-        "Link": "https://drive.google.com/uc?export=download&id=1B_PAfazq-L_nw73d2NQeuS-uiY8pLI9I",
-        "Size": "3.39 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA ED.2, SERIES.1(1926) GHOSE, AUROBINDO, SRI"
-    },
-    {
-        "Name": "Chapter 4 241 320p",
-        "Link": "https://drive.google.com/uc?export=download&id=1Bb5JdGqdslQUxUP0imlE-PFsM1Np0EwO",
-        "Size": "4.58 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA ED.2, SERIES.1(1926) GHOSE, AUROBINDO, SRI"
-    },
-    {
-        "Name": "Chapter 2 81 160p",
-        "Link": "https://drive.google.com/uc?export=download&id=1B-58n05mPSX4FdyFeRvf7eZJ-wMPfdrm",
-        "Size": "4.68 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA ED.2, SERIES.1(1926) GHOSE, AUROBINDO, SRI"
-    },
-    {
-        "Name": "Chapter 3 161 240p",
-        "Link": "https://drive.google.com/uc?export=download&id=1BbRGL-9V-VaNvi1G_e2tfmWkcXHtXV8Y",
-        "Size": "4.62 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA ED.2, SERIES.1(1926) GHOSE, AUROBINDO, SRI"
-    },
-    {
-        "Name": "Chapter 1 1 80p",
-        "Link": "https://drive.google.com/uc?export=download&id=1B836xP0gRCRZeD13BOK9R7iPG6jwdUrT",
-        "Size": "4.59 MB",
-        "Categories": "Gita",
-        "SubCategories1": "ESSAYS ON THE GITA ED.2, SERIES.1(1926) GHOSE, AUROBINDO, SRI"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=1BIeLs-7AzFj9zZCXyMUZE-KLEQFuwkbo",
-        "Size": "0.07 MB",
-        "Categories": "Gita",
-        "SubCategories1": "DISCOURSES ON THE BHAGAVAT GITA ROW, T.SUBBA"
-    },
-    {
-        "Name": "Introduction",
-        "Link": "https://drive.google.com/uc?export=download&id=1BJi_20DPEDN2f3arKQewGFu1NnFSsB-k",
-        "Size": "0.96 MB",
-        "Categories": "Gita",
-        "SubCategories1": "DISCOURSES ON THE BHAGAVAT GITA ROW, T.SUBBA"
-    },
-    {
-        "Name": "Chapter 2 51 95p",
-        "Link": "https://drive.google.com/uc?export=download&id=1BO9mrJBSlA2-dN8K8NQ2F4cwkxFzjs2W",
-        "Size": "5.97 MB",
-        "Categories": "Gita",
-        "SubCategories1": "DISCOURSES ON THE BHAGAVAT GITA ROW, T.SUBBA"
-    },
-    {
-        "Name": "Chapter 1 2 50p",
-        "Link": "https://drive.google.com/uc?export=download&id=1BOfqdV1l196t6MA0_AvbK6gPlNGCetRP",
-        "Size": "7.15 MB",
-        "Categories": "Gita",
-        "SubCategories1": "DISCOURSES ON THE BHAGAVAT GITA ROW, T.SUBBA"
-    },
-    {
-        "Name": "श्रीमद्भगवदगीता हिंदी, गीताप्रेस",
-        "Link": "https://drive.google.com/uc?export=download&id=1J-jESHkt6crncXdPZs00HuQcGT8gJMRI",
-        "Size": "0.46 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "यथार्थ गीता, स्वामी अड़गड़ानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1J0N4vgAFPZUZ3A_-lKdQkvNv5coIb3dK",
-        "Size": "3.16 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "दैनिक जीवन में गीता, स्वामी अखण्डानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1Iwwvwrwl9W7Ru8LLFu7t_w9xSK7I-7sL",
-        "Size": "133.99 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीताभाष्य, रामानुजाचार्य, श्री सम्प्रदाय",
-        "Link": "https://drive.google.com/uc?export=download&id=1IW1v9BgOlgrq7yi1aOavy0OG1_fAJriC",
-        "Size": "35.76 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीतारहस्य  बाल गंगाधर तिलक",
-        "Link": "https://drive.google.com/uc?export=download&id=1Il-B2bWx9UpZQJUkKWQkl4SOT2Xy1jbs",
-        "Size": "40.44 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीताभाष्य, चक्रवर्ती ठाकुर, गौड़ीय सम्प्रदाय",
-        "Link": "https://drive.google.com/uc?export=download&id=1Ia9Y_3B8drnbUmVqHg-XDM0VQzdZWqqG",
-        "Size": "2.99 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता रस रत्नाकर, स्वामी अखण्डानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1ILQ3nE_pYkQF95OfGovXN-OIq_OIIlUC",
-        "Size": "229.12 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीताभाष्य, आदि शंकराचार्य, अद्वैत सम्प्रदाय",
-        "Link": "https://drive.google.com/uc?export=download&id=1IUCh58ioXxrFrGkaLpn27_gtVpPtaPrM",
-        "Size": "36.22 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता प्रवचन 3 (Pandit Giridhar Sharma)",
-        "Link": "https://drive.google.com/uc?export=download&id=1IBlj8Q0aBeixZoHykqbCsDR-M-geyNVb",
-        "Size": "22.9 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता प्रवचन 2 (Pandit Giridhar Sharma)",
-        "Link": "https://drive.google.com/uc?export=download&id=1IHO-xzoQ4q6Ky3pwfNkEF2IVtd6fOl82",
-        "Size": "15.27 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता प्रवचन 1 (Pandit Giridhar Sharma)",
-        "Link": "https://drive.google.com/uc?export=download&id=1I9pXVh2aWUo75sc7mFbd6g6i5lADDVp9",
-        "Size": "32.27 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता दर्शन 3, स्वामी अखण्डानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1I2yJbgoxc6tQrE15UOegWUOTySYH8sBz",
-        "Size": "311.45 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता नवनीत   (वैदिक सिद्धांत टीका)",
-        "Link": "https://drive.google.com/uc?export=download&id=1I8A-8mbTRPhOr1psHP-A2y8IYMOEpk0y",
-        "Size": "45.37 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता दर्शन 2, स्वामी अखण्डानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1HzCtq8rdh-oJ5eww7gEHfPiOd808oaH6",
-        "Size": "224.16 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita Translation English, Gitapress",
-        "Link": "https://drive.google.com/uc?export=download&id=18dZl3LlPHsyWDtOChNnN29FhBViVc2RZ",
-        "Size": "0.64 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "गीता दर्शन 1, स्वामी अखण्डानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=1Hude4Ky7ZIp71Fa6tdkzy-dNjgL-VcoC",
-        "Size": "260.58 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita Translation, Sanskrit Hindi English",
-        "Link": "https://drive.google.com/uc?export=download&id=18h039eFP5r5VWrnDs1hSxZeJPoP1sBol",
-        "Size": "12.71 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita Shankara Bhashya English (Adwait)",
-        "Link": "https://drive.google.com/uc?export=download&id=18tFFmAlhugHo0nZS4hs6Afa8u3N2KwRJ",
-        "Size": "2.09 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita Ramanuj Bhashya English (Vishishtadwait)",
-        "Link": "https://drive.google.com/uc?export=download&id=17FN2QhCLvg7TyzutL-ChhmEgoPqNkmWD",
-        "Size": "4.14 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita by Swami Shivanand (Divine Life Society)",
-        "Link": "https://drive.google.com/uc?export=download&id=17XseA7xoh89fKLswIbcWrTdKlKrMEoZk",
-        "Size": "0.35 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita For Busy People, Swami Sivanand",
-        "Link": "https://drive.google.com/uc?export=download&id=17WevSlT-tgoxigl1mxkGQRBBN07iW7yA",
-        "Size": "0.1 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita by Swami Prabhupad (Gita as it is)",
-        "Link": "https://drive.google.com/uc?export=download&id=17zzS3DXpNUypyQJniJ_GXfIRYwYribzx",
-        "Size": "1.09 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita by Swami Chinmayananda (Chinmaya Mission)",
-        "Link": "https://drive.google.com/uc?export=download&id=187nq6zOi37qMX4abV5j2mIdJcMyI1BKl",
-        "Size": "2.97 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita by Swami Nikhilananda (Ramkrishna Mission)",
-        "Link": "https://drive.google.com/uc?export=download&id=182bZH6e6uL-_aIoo1uhqhx4zJrXpupHm",
-        "Size": "11.46 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Gita by Swami Adgadananda (Yatharth Gita)",
-        "Link": "https://drive.google.com/uc?export=download&id=189uB0Q9-ZPnvHEV12z7ysN2ag80fk1-Y",
-        "Size": "2.46 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Bhagvat Giitaa Bhaag 1 Sadhale S. J. Shambhu",
-        "Link": "https://drive.google.com/uc?export=download&id=17DH059yCoeRkztRBZpNdCuuSB_8YVmJr",
-        "Size": "458.83 MB",
-        "Categories": "Gita"
-    },
-    {
-        "Name": "Preface",
-        "Link": "https://drive.google.com/uc?export=download&id=17AY2oujvp5087w6bXAywthsbtGkHNSQY",
-        "Size": "0.07 MB",
-        "Categories": "Devi-Gita"
-    },
-    {
-        "Name": "Title Page",
-        "Link": "https://drive.google.com/uc?export=download&id=173D4Ee7y6vrekENgst5rZb7Ykc1BuK6H",
-        "Size": "0.07 MB",
-        "Categories": "Devi-Gita"
-    },
-    {
-        "Name": "Chapter 2 1   22p",
-        "Link": "https://drive.google.com/uc?export=download&id=17Ah9HiDGo_sD-A_gSdkB2z-gM7--GfZE",
-        "Size": "0.81 MB",
-        "Categories": "Devi-Gita"
-    },
-    {
-        "Name": "Chapter 1 1   60p",
-        "Link": "https://drive.google.com/uc?export=download&id=17Au5sJwWUWShxxCq026Yj5HGhQvtH_PM",
-        "Size": "1.62 MB",
-        "Categories": "Devi-Gita"
-    },
-    {
-        "Name": "स्वामी दयानन्द की सूक्तियां.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=16eFPBXXC5aJx3agj8PF43Gn1Dx5yzJmK",
-        "Size": "1.65 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "स्वामी दयानंद लघु जीवनी",
-        "Link": "https://drive.google.com/uc?export=download&id=16muk9mgg1_1ZqNTyDKulZTN4FJxpI8rM",
-        "Size": "0.27 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "श्रीमद्दयानंद सरस्वती स्वामिना व्याख्यान",
-        "Link": "https://drive.google.com/uc?export=download&id=16nQzdmYuZloyNkFWp_giitdbOYKoBzEu",
-        "Size": "8.32 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "श्रीमद्दयानंद वचनामृत",
-        "Link": "https://drive.google.com/uc?export=download&id=16qusWyhz3K73Jt1wHMz3q51Gk3aIFuTG",
-        "Size": "6.26 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "योगी का आत्मचरित्र",
-        "Link": "https://drive.google.com/uc?export=download&id=16rqAX1pCPXyNjZAFIYn996dNJ1zaAguy",
-        "Size": "0.55 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "महर्षि दयानंद और विवेकानंद",
-        "Link": "https://drive.google.com/uc?export=download&id=16D3YcXRMsrLusBvs1bLlZNu7xAeY-V8z",
-        "Size": "19.94 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद लीला",
-        "Link": "https://drive.google.com/uc?export=download&id=15hfFwZVPhONdlm5PofJ7kbV7dF1794ZP",
-        "Size": "0.43 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद दर्शन.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=15khfqY-_HsIrpTpWKNVnAd5JRkAl8NOX",
-        "Size": "4.81 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद जीवनी देवेन्द्रनाथ मुखोपाध्याय 1.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=15oaTgZ0YmwWz20YikzeNmAmplLkVxjwc",
-        "Size": "12.55 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद जीवनी देवेन्द्रनाथ मुखोपाध्याय 2.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=15nwxsIWV5NJ1H_KeQM2wXXXark8KHyaA",
-        "Size": "10.25 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद जीवनी   अरविन्द.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=15th6dSc4O92qpKhHS2cg7-aE_ZMcdScG",
-        "Size": "0.5 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद कृत आत्मचरित्र",
-        "Link": "https://drive.google.com/uc?export=download&id=15x-ra4YjXvxw9z1PODrQH3zQpHfZAB40",
-        "Size": "0.05 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद कृत आत्मचरित्र 2",
-        "Link": "https://drive.google.com/uc?export=download&id=15yTY35Ctu2jjXV6cYai0H1xHboN7VqJb",
-        "Size": "0.07 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "दयानंद आनंद सागर.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=163FDIJZUUGTiImEf73eWWPTSROhxDXjX",
-        "Size": "2.74 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "ऋषि के तराने",
-        "Link": "https://drive.google.com/uc?export=download&id=163LvK3L6LfDumRf5oyOeCg84eAXRYr7r",
-        "Size": "0.14 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "DayanandCommentaryExpertcomment",
-        "Link": "https://drive.google.com/uc?export=download&id=163nBhB_--59dLuhHWpweWxf9wT3hSQ1B",
-        "Size": "0.06 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "Dayanand and Arya Samaj by roman rolia.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=16651lxpF7U7fgRZIdzZNmczMWjYjtJyw",
-        "Size": "0.18 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "Autobiography of Dayanand Saraswati",
-        "Link": "https://drive.google.com/uc?export=download&id=166_SxMfs0sKl48rQseEW58pMLwmqVIe7",
-        "Size": "0.11 MB",
-        "Categories": "Complete Maharshi Dayanand महर्षि दयानंद समग्र"
-    },
-    {
-        "Name": "Why Chrishtianity is False",
-        "Link": "https://drive.google.com/uc?export=download&id=15KQegL0YjHRS4ztn013_iua0hbai94bN",
-        "Size": "2.26 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "The Bible Unmasked",
-        "Link": "https://drive.google.com/uc?export=download&id=15RbzaznCavGYGOJompImQFOnJ6rtrQiT",
-        "Size": "2.35 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "The Cosmic Game (hindu vs Christian )",
-        "Link": "https://drive.google.com/uc?export=download&id=15OLqxAgtLz2svhcF7vI4TjdP2C2kyH9u",
-        "Size": "4.08 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "sammulas13",
-        "Link": "https://drive.google.com/uc?export=download&id=15V30wIVCAo6MMVw_xb8iTOO-zS_sE3G0",
-        "Size": "0.94 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "Hindu Response to Christian Creed",
-        "Link": "https://drive.google.com/uc?export=download&id=15_if0s59zPKABCmOC-FMOSrKZ22Aecjc",
-        "Size": "0.45 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "God Bible Koran Gita",
-        "Link": "https://drive.google.com/uc?export=download&id=15dNmKAKyNCGhSCTXt87Ofx83vCmZoe3C",
-        "Size": "3.67 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "does Hinduism teach all religions are same",
-        "Link": "https://drive.google.com/uc?export=download&id=15eNbL7RBMerL85sL2n8lDhKxR5iwNxjP",
-        "Size": "0.32 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "christ vs krishna",
-        "Link": "https://drive.google.com/uc?export=download&id=15hGcf1XxHtbSRPp-Y2PvIkr5ja94al-V",
-        "Size": "5.94 MB",
-        "Categories": "Christianity Postmortem"
-    },
-    {
-        "Name": "ब्रह्मचर्य ही जीवन है",
-        "Link": "https://drive.google.com/uc?export=download&id=16DRz5YhNapge6EtzSs41az7uWLUgYSl5",
+        "Name": "Copy of Tarek Ziade   Expert Python Programming",
+        "Link": "https://drive.google.com/uc?export=download&id=1oWLthw-XL_0LiHNFh779j3XpaQjhHE-S",
         "Size": "5.04 MB",
-        "Categories": "Brahmcharya"
+        "Categories": "Python"
     },
     {
-        "Name": "ब्रह्मचर्य की शक्ति  स्वामी रामतीर्थ",
-        "Link": "https://drive.google.com/uc?export=download&id=16I9iJmb4mjyeJarHHhcw9OlSTcskK8p6",
-        "Size": "3.66 MB",
-        "Categories": "Brahmcharya"
+        "Name": "Copy of Simon Monk   Programming the Raspberry Pi. Getting Started with Python.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1iO5tjAYuMWm3nvGEkdAXg9pHmFTOcfhn",
+        "Size": "13.25 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "ब्रह्मचर्य की महिमा",
-        "Link": "https://drive.google.com/uc?export=download&id=16R30k00l9AHm9L38BegcxxoN6dZDAXOb",
-        "Size": "5.16 MB",
-        "Categories": "Brahmcharya"
+        "Name": "Copy of Shai Vaingast   Beginning Python Visualization. Crafting Visual Transformation Scripts",
+        "Link": "https://drive.google.com/uc?export=download&id=1fV7sNrkZTSSXT0yQjOJPJgXQs9bw8p9q",
+        "Size": "2.95 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "brahmacharya",
-        "Link": "https://drive.google.com/uc?export=download&id=16bABTOKnAz24QeZjq4u9MYEby2KSPINa",
-        "Size": "1.19 MB",
-        "Categories": "Brahmcharya"
-    },
-    {
-        "Name": "दिव्य प्रेरणा प्रकाश",
-        "Link": "https://drive.google.com/uc?export=download&id=16TlcrNP-OEKkxnbpFarz32le0Hq8l55l",
-        "Size": "1.14 MB",
-        "Categories": "Brahmcharya"
-    },
-    {
-        "Name": "वैदिक सूर्य विज्ञान",
-        "Link": "https://drive.google.com/uc?export=download&id=15Bad4gK7qRJKteRZMxSVLL-1Geejrt6C",
-        "Size": "0.92 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "वैदिक सूक्त.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=15DllyqoceYon0G4JAbMEECAcF_XFtEiv",
-        "Size": "0.41 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "वेदार्थ संग्रह",
-        "Link": "https://drive.google.com/uc?export=download&id=153GEIKjtszN6Uqkb0j8TnT4j2YsYOS81",
-        "Size": "82.28 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "वैदिक सम्पत्ति",
-        "Link": "https://drive.google.com/uc?export=download&id=157rhkJ192uwOT-K4C30c6Rxz2pZO32E8",
-        "Size": "28.14 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "वेद सौरभ",
-        "Link": "https://drive.google.com/uc?export=download&id=13gU0LDMCsJwbX1zUPLML55tm1YvKX_N8",
-        "Size": "10.31 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "वेद पाठ नियम",
-        "Link": "https://drive.google.com/uc?export=download&id=13oK2MoiAI1MGVLfa8QnwCclb3iBRaLCT",
-        "Size": "0.02 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "वेद की तीन बातें.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=13wVdHTnCn_A0RmpT3iBxf5G1uvtID69K",
-        "Size": "1.45 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "वेद ईश्वरीय ज्ञान.PDF",
-        "Link": "https://drive.google.com/uc?export=download&id=1428ZLCwOggLD5GaTxoZUbpa1CtqCAqod",
-        "Size": "1.56 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Wisdom of Veda",
-        "Link": "https://drive.google.com/uc?export=download&id=142a0xEW8CLRktBlYBrbJMulEOWL5Okb1",
-        "Size": "0.89 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "vedic vision of god",
-        "Link": "https://drive.google.com/uc?export=download&id=145iLSuw57SyHBnDqFk_RI938-8TA_HFM",
-        "Size": "0.3 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Vedic Conception of God",
-        "Link": "https://drive.google.com/uc?export=download&id=149GfaB75gC_JUWFx2FL1Hked3PzbWAl4",
-        "Size": "0.09 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Vedas the myth and reality",
-        "Link": "https://drive.google.com/uc?export=download&id=14KDrK58u5puN98wqDHCLMM6X3f3mNKbJ",
-        "Size": "8.08 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Vedas Share",
-        "Link": "https://drive.google.com/uc?export=download&id=14LextKVcT16ewaz_XWaqlDV-MFYxff_X",
-        "Size": "0.06 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Vedas on Women.docx",
-        "Link": "https://drive.google.com/uc?export=download&id=14ZYTIooi5THSktKZSYFUngqJKrzhdc51",
-        "Size": "0.02 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Vedas and us",
-        "Link": "https://drive.google.com/uc?export=download&id=14nH-bJJoOUFt6_ku5YPRmMa6hTEnj29T",
-        "Size": "0.8 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Veda Books",
-        "Link": "https://drive.google.com/uc?export=download&id=14ERVkseh2tORE71Ndf2dWjAdhY6Y7K4A",
-        "Size": "0.21 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Veda Message",
-        "Link": "https://drive.google.com/uc?export=download&id=14o1Z5Ilun3YjQAOn7rErp0jpGCFLwn0v",
-        "Size": "0.06 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "The Vedas",
-        "Link": "https://drive.google.com/uc?export=download&id=14uSgxlcvi8QB_iC9Oyr3YhP5Xrot-RKC",
-        "Size": "0.08 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "The Vedic View of life",
-        "Link": "https://drive.google.com/uc?export=download&id=14yHoyERnWGiocmpRiLcyWzHkLu_DQw54",
-        "Size": "1.14 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "The Secret Of The Veda Aurobindo",
-        "Link": "https://drive.google.com/uc?export=download&id=13J7qf2nKXXIJpRF1b22gP8QQycjYfcJx",
-        "Size": "2.13 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "The Call of Vedas",
-        "Link": "https://drive.google.com/uc?export=download&id=13JSWObOxAqzpomPcmqxf4NOFm7V_SUGQ",
-        "Size": "15.64 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "SubodhVedasOnWomen.doc",
-        "Link": "https://drive.google.com/uc?export=download&id=12TabA0nbdGR2LCHyGPqugegkLS_6YGPd",
-        "Size": "0.06 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Glory of Vedas",
-        "Link": "https://drive.google.com/uc?export=download&id=12Y463Ho0P2X9GpPg0ra07TxGZOjVouIn",
-        "Size": "0.15 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Beliefs of Vedic Philosophy",
-        "Link": "https://drive.google.com/uc?export=download&id=12csrbe3QlmBdQSToI85I4fuQ07acD0xQ",
-        "Size": "0.08 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "environmental studies in vedas",
-        "Link": "https://drive.google.com/uc?export=download&id=12cqgFRRWWPCI47BJPR6TNjnnWH9OsDgW",
-        "Size": "0.12 MB",
-        "Categories": "Books on Vedas"
-    },
-    {
-        "Name": "Why be a Hindu",
-        "Link": "https://drive.google.com/uc?export=download&id=13O9LRo7r0UgFTWUgc48UPyl79k9QqUDv",
-        "Size": "0.39 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "WHAT EVERY HINDU OUGHT TO KNOW",
-        "Link": "https://drive.google.com/uc?export=download&id=13RreB1cw1J-zTtsbS76Wb42YJSGJCJ_a",
-        "Size": "0.28 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "voiceofaryas.com WORSHIP AND RELIGION  GANGAPRASAD UPADYAYA",
-        "Link": "https://drive.google.com/uc?export=download&id=13TYtYNYGvBkjnYlyj5vXbHNYJJlaUVl0",
-        "Size": "0.03 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "Vedic Dharma",
-        "Link": "https://drive.google.com/uc?export=download&id=13WGs4cVA0JYz2OBgUtk9TiSi8Ei3N1iF",
-        "Size": "1.06 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "study material(www.trutharya.org)",
-        "Link": "https://drive.google.com/uc?export=download&id=13Z8S2zUswqtF9A62fWE__7v_PFgR6L8x",
-        "Size": "0.32 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "sanatan dharma catechism",
-        "Link": "https://drive.google.com/uc?export=download&id=13dd1fpxgVXBTgEdOeotskvp6rEq5BfFb",
-        "Size": "16.41 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "Principles of Hindu Ethics",
-        "Link": "https://drive.google.com/uc?export=download&id=13f10OQ-4zF7k-6F_USCBkCf_jtS45N26",
-        "Size": "1.83 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "How to Bring up a Child",
-        "Link": "https://drive.google.com/uc?export=download&id=13fDJBvPs_djjsphwDAq1OlRKDCa8FUgH",
-        "Size": "0.0 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "Hinduism for Beginners",
-        "Link": "https://drive.google.com/uc?export=download&id=12ggRTLwLoo8U-wX0EV8oZIHm_UGgoeFW",
-        "Size": "7.72 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "Hindu Ethics",
-        "Link": "https://drive.google.com/uc?export=download&id=12nSq9KcCLjzonWpA_0SLkXG86in4k224",
-        "Size": "1.54 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "hinduism all",
-        "Link": "https://drive.google.com/uc?export=download&id=12inTcz9DTAoFdtVfvxsI3lQz8HsW7IKs",
-        "Size": "0.54 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "Hindu 10 questions",
-        "Link": "https://drive.google.com/uc?export=download&id=132q50V_QWgMJmGfKvcNYU8nZTWGEio4K",
-        "Size": "3.67 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "Darshan",
-        "Link": "https://drive.google.com/uc?export=download&id=134-MvM7vqzmrQf6vMe0wNkJ18AzTqffS",
-        "Size": "4.56 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "All about Hinduism Swami Shivanand",
-        "Link": "https://drive.google.com/uc?export=download&id=13B3QrZL1Euc6ZlsYMHzIdoZvvFobxeW8",
-        "Size": "3.47 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "AHinduismPrimer",
-        "Link": "https://drive.google.com/uc?export=download&id=13GczTy3_fofqwA449rDfF6Xtg-weQxCw",
-        "Size": "0.37 MB",
-        "Categories": "Basic hinduism"
-    },
-    {
-        "Name": "सुभाष चंद्र बोस जीवनी",
-        "Link": "https://drive.google.com/uc?export=download&id=12LynJUMlEfcTi1bk0uXYReISbxuApsFN",
-        "Size": "8.29 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "नादिर शाह",
-        "Link": "https://drive.google.com/uc?export=download&id=12LQqTCWPjEggSheM_OsStRMVGPMvKXCO",
-        "Size": "16.91 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "रामप्रसाद बिस्मिल जीवनी",
-        "Link": "https://drive.google.com/uc?export=download&id=12Kg4YB_pz8XO4UrCeJmYRyfhwEmR4CY_",
-        "Size": "11.41 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "आद्य शंकराचार्य जीवन चरित",
-        "Link": "https://drive.google.com/uc?export=download&id=12HAZK-r0i1Qszov9pe1rjfp_lr6dCWFI",
-        "Size": "5.76 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "Stalin, Sankrtyayn Rahul",
-        "Link": "https://drive.google.com/uc?export=download&id=12CDh6P_hopfMq4azqn25Viig1c5J1SB5",
-        "Size": "23.64 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "The Life of Shivaji Maharaj Founder of the Maratha Empire 1000694573",
-        "Link": "https://drive.google.com/uc?export=download&id=12EYr3nfgmORLEE948bV51bak-qfluTxh",
-        "Size": "30.23 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "Rahul Sanskrityayayan gunakar Mule",
-        "Link": "https://drive.google.com/uc?export=download&id=122cXFEmBTGn5NM8er7iaBU1GQ77dFIxi",
-        "Size": "12.37 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "MERA JIVAN SANGRAM , Hitlar, p, Jivan sangram, hindi ()",
-        "Link": "https://drive.google.com/uc?export=download&id=12-xaH0IUxsTsh1_inTzvsWj5fczSKp2c",
-        "Size": "13.38 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "Prithvi raj rasaou, mata prasad",
-        "Link": "https://drive.google.com/uc?export=download&id=121mG9cl8Qa3vZbWP0vM3uMZ9F3YxcxpU",
-        "Size": "51.41 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "Lenin, Sankrtyayn Rahul",
-        "Link": "https://drive.google.com/uc?export=download&id=11gOqqiqKueG1BunVjiLHk9YGZ8ySL72X",
-        "Size": "21.29 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "KARLMARKS, Rahul,  Jeevani,  ",
-        "Link": "https://drive.google.com/uc?export=download&id=11twszvwmWG-xyfvkY058WGHrVePLF5NC",
-        "Size": "13.04 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "Gurudutt Vidyarthi",
-        "Link": "https://drive.google.com/uc?export=download&id=11ZjiYV4Ey6Rf8auMD93iJ2QT_TvC8Ffh",
-        "Size": "23.99 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "AnIndianPilgrim",
-        "Link": "https://drive.google.com/uc?export=download&id=11aJyZJBB1qV8qHIUW0cauqB5WfPb4sO3",
-        "Size": "0.55 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "Adi Shankara Biography",
-        "Link": "https://drive.google.com/uc?export=download&id=11fYMaYHZZlj2uYmYKLX3IcLXgzc0577r",
-        "Size": "15.07 MB",
-        "Categories": "Autobiography"
-    },
-    {
-        "Name": "अर्थववेद १",
-        "Link": "https://drive.google.com/uc?export=download&id=11LoYXvNoM5r3AsvN8vx_z0fZWfs8z2Na",
-        "Size": "22.32 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अर्थववेद २",
-        "Link": "https://drive.google.com/uc?export=download&id=11UtMrWti_pSBrFq0sf3q0t_FzE8T_ZSb",
-        "Size": "18.63 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्ववेद हरिशरण सिद्धांतालंकार 3",
-        "Link": "https://drive.google.com/uc?export=download&id=11JQxESpoV9druiO4wwq5xlxJR1WG00S4",
-        "Size": "50.88 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्ववेद हरिशरण सिद्धांतालंकार 2",
-        "Link": "https://drive.google.com/uc?export=download&id=11FKxH90VCwTve-QWmxYdOcdsTkh_8Vor",
-        "Size": "39.89 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्ववेद हरिशरण सिद्धांतालंकार 1",
-        "Link": "https://drive.google.com/uc?export=download&id=11Bn5v5HeLHxHHQhXBijdQNkHX6koqfaq",
-        "Size": "39.11 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्ववेद सुबोध भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=115dG58b2bwH4OzrGDxIUL2XfwdwKe78p",
-        "Size": "70.43 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्ववेद सहिंता मन्त्र भाग",
-        "Link": "https://drive.google.com/uc?export=download&id=115LBDcUvYGfydS8HIJAVsR7GqVoM-HJF",
-        "Size": "2.36 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्ववेद सम्पूर्ण भाष्य (खंड 2 )",
-        "Link": "https://drive.google.com/uc?export=download&id=10vefhtPDt8zVexTnorH2znVQJVxB5VMk",
-        "Size": "22.87 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्ववेद सम्पूर्ण भाष्य (खंड 1 )",
-        "Link": "https://drive.google.com/uc?export=download&id=10go3kK-4SdSiQfO1PPpZNuP2KHOF0ANa",
-        "Size": "24.55 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "Atharvaveda in English",
-        "Link": "https://drive.google.com/uc?export=download&id=10ZM3mgHXBVcxz8vCpLqC_uvo_tIRJIx7",
-        "Size": "30.09 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "अथर्व वेद मे जादू",
-        "Link": "https://drive.google.com/uc?export=download&id=10i_vClJL1nzc7dKpjiXnGkF8Omwn0OnA",
-        "Size": "1.66 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "Atharvaveda in English 2",
-        "Link": "https://drive.google.com/uc?export=download&id=10YgEPDMHIZHu-CbxzXHz0GWwyTzkGrh4",
-        "Size": "25.22 MB",
-        "Categories": "AtharvaVeda - अथर्ववेद"
-    },
-    {
-        "Name": "बृहदारण्यकोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=10RyGZfkGO5h-3uAbeo1OgbvZGAVniu1N",
-        "Size": "69.64 MB",
-        "Categories": "Aadi Shankaracharya"
-    },
-    {
-        "Name": "प्रश्नोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1-AQporzt1GgGmFKwwJWtRJGpDYADFrkf",
-        "Size": "4.37 MB",
-        "Categories": "Aadi Shankaracharya"
-    },
-    {
-        "Name": "प्रबोध सुधाकर",
-        "Link": "https://drive.google.com/uc?export=download&id=1-vri4lgkRUwtpiuwpGk0m1IGBVTigmvC",
-        "Size": "16.65 MB",
-        "Categories": "Aadi Shankaracharya"
-    },
-    {
-        "Name": "परापूजा",
-        "Link": "https://drive.google.com/uc?export=download&id=1-wTCL8yMEVvei5_ZXIRHjNAQIoYx1UnA",
-        "Size": "2.17 MB",
-        "Categories": "Aadi Shankaracharya"
-    },
-    {
-        "Name": "तैत्तिरीयोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=101ksM78v1uOQ2H7zvpOPGHma-f4dgJdE",
+        "Name": "Copy of Sebastian Bassi   Python for Bioinformatics",
+        "Link": "https://drive.google.com/uc?export=download&id=12PVGof-RP5v_4zDzBhHYppyFnqTOENOr",
         "Size": "6.97 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Categories": "Python"
     },
     {
-        "Name": "तत्वबोध",
-        "Link": "https://drive.google.com/uc?export=download&id=106QGNSo55Ik0XONA_91VzcgW_dSXRp4R",
-        "Size": "0.3 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Sandro Tosi   Matplotlib for Python Developers (11 2009) (ATTiCA)",
+        "Link": "https://drive.google.com/uc?export=download&id=1au--p5SNOBxP9v7eVGdLUdsO3_PFzMkc",
+        "Size": "12.37 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "एतरेयोपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=1073i10qdBF7KZktY533yxoH7kbyqFFZ0",
-        "Size": "4.26 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of PythonBook",
+        "Link": "https://drive.google.com/uc?export=download&id=1bUCHDvNzQ60Ezc-cUeZ_I_dVFVuUbc5w",
+        "Size": "0.8 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "ईशावास्योपनिषद शांकर भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=107ebIOiu2qgCv--At5pSmxgu1vx_sLTY",
-        "Size": "1.74 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Python High Performance Programming   Lanaro, Gabriele",
+        "Link": "https://drive.google.com/uc?export=download&id=1c23m_6CkLbsVg1G-B064Gff2PHFFB9cY",
+        "Size": "1.1 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "आत्मबोध शंकराचार्य",
-        "Link": "https://drive.google.com/uc?export=download&id=108iPWVqDgO_uKEqPyq7QLoq9p-bRvl6K",
-        "Size": "0.53 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Python for Unix and Linux System Administration   Noah Gift   Jeremy M. Jones.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=14UKCGoZpqiHlt7WhFviunjqz1tg9JOWL",
+        "Size": "1.77 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "आचार्य शंकर कृत गायत्री मंत्र भाष्य",
-        "Link": "https://drive.google.com/uc?export=download&id=10NkCIbyUz1MgE4d5xYEoSICeCMWzrJOB",
-        "Size": "2.14 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Python Crash Course   A Hands On, Project Based Introduction to Programming (2nd Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1F84HET9fXbym5kSMmWaWRrl-b8Wg3aZm",
+        "Size": "5.38 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Shankara Digvijayam",
-        "Link": "https://drive.google.com/uc?export=download&id=10QHg-vkoMVIxFGo14XL4XGfNybNPtha8",
-        "Size": "0.21 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Punch, Enbody   The Practice of Computing using Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1EUFIZNqLTSgPtLsYGYOuRoIqU-wtyzPL",
+        "Size": "8.63 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Saundarya Lahari",
-        "Link": "https://drive.google.com/uc?export=download&id=1-K6QgYK-cV5yE50-9VMuf-HrzfZWRuzF",
-        "Size": "19.29 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Programming with Python [2017]",
+        "Link": "https://drive.google.com/uc?export=download&id=166axlQdK4SvPrLJjEQUPzcLz-zWVLgaK",
+        "Size": "10.89 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Sankara Sutra Bhashya",
-        "Link": "https://drive.google.com/uc?export=download&id=1-R-D40OQwIf6t1ys36Hf2EWWFj3nq2HV",
+        "Name": "Copy of OReilly   Head First Python 2010.zip",
+        "Link": "https://drive.google.com/uc?export=download&id=1pDMZJoSFD8qy408oOxIibgn3tgymBsjy",
+        "Size": "0.36 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of OReilly   Head First Python 2010",
+        "Link": "https://drive.google.com/uc?export=download&id=1E-ULnp86YHBQJnZlm-EN2xR3FktxCxxK",
+        "Size": "41.7 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Norton, Samuel, Aitel, Foster Johnson, Richardson, Diamond, Parker, Roberts   Beginning Python (2005, WROX)",
+        "Link": "https://drive.google.com/uc?export=download&id=1hGVb-njm1wFNhzIheH4r5RSTOmloAYwf",
+        "Size": "15.05 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Moore, Budd, Wright   Professional Python Frameworks. 2007, WROX",
+        "Link": "https://drive.google.com/uc?export=download&id=10xo8AoR5DuSkqZb-An_dpyiLKsome948",
+        "Size": "10.31 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Mitch Garnaat   Python and AWS Cookbook",
+        "Link": "https://drive.google.com/uc?export=download&id=1EYM5faj1V8cNOX6xo9j6-wdojwf9kUAA",
+        "Size": "4.59 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Mitch Garnaat   Python and AWS Cookbook.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1TlU-hbCSXDBpITFo9BU2kSA2ZwRir2B6",
+        "Size": "0.74 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Michel Anders   Python.3.Web.Development.Beginners.rar",
+        "Link": "https://drive.google.com/uc?export=download&id=1qZXxsJUesK27XUDzT3Es1A7ASi1uqXTE",
+        "Size": "1.03 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Michel Anders   Python.3.Web.Development.Beginners",
+        "Link": "https://drive.google.com/uc?export=download&id=1ez_srNmNTZayxmHiBvfb9Qut6QwCXJds",
         "Size": "4.82 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Categories": "Python"
     },
     {
-        "Name": "Isavasya Upanishad with Shankara Bhashya",
-        "Link": "https://drive.google.com/uc?export=download&id=1-itN8soIdaTrXWN9CMDYkQ5PovUJP03x",
-        "Size": "1.74 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Michael Dawson   Python Programming for Absolute Beginner.chm",
+        "Link": "https://drive.google.com/uc?export=download&id=1n9n4Ae4o23k8Z8qPOZMSAAGMEZX5h9xt",
+        "Size": "5.47 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Sankara Clarifications of Certain Vedantic",
-        "Link": "https://drive.google.com/uc?export=download&id=1-VBFVfhhwMp7yZD9ZMCHYLTyQDXXiydr",
-        "Size": "2.96 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Mark Summerfield   Python in practice.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1qE7NkA9PD04gRoIvpo683r1JbI1zWrux",
+        "Size": "11.23 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Aparoksha Anubhuti by Sri Shankaracharya",
-        "Link": "https://drive.google.com/uc?export=download&id=1-jdq7GhpmRtVGLlIGFoAaopJr_WeGs3g",
-        "Size": "4.67 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Mark Summerfield   Programming in Python3. 2nd",
+        "Link": "https://drive.google.com/uc?export=download&id=1WoUHeX2k8E10IjPJhvNi3MpOLOhNPj4l",
+        "Size": "6.59 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Advait Vedanta for Beginners",
-        "Link": "https://drive.google.com/uc?export=download&id=1-jvwtdRukjP5MqCavzW79ncd-5BpwPZO",
-        "Size": "0.34 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Name": "Copy of Mark Lutz   Python Pocket Reference 2014",
+        "Link": "https://drive.google.com/uc?export=download&id=1JC5UslpyrGhAmr3qU0Ua70SwQHf1aEim",
+        "Size": "4.96 MB",
+        "Categories": "Python"
     },
     {
-        "Name": "Aatma Bodha Knowledge of self",
-        "Link": "https://drive.google.com/uc?export=download&id=1-oqjpB4yHnQdNCDH3WRkMkQwd1sqou80",
+        "Name": "Copy of Mark Lutz   Python Pocket Reference",
+        "Link": "https://drive.google.com/uc?export=download&id=1mex_EJrhSW7tzLk-9BDraBmKxHZWjCFK",
+        "Size": "1.45 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Mark Lutz   Programming Python 4th Edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1bm-X049TVqq1DSX0xu9euFPMSCgXTcdo",
+        "Size": "13.78 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Mark Lutz   Learning Python 5th",
+        "Link": "https://drive.google.com/uc?export=download&id=1ME31LPIxo8FJM_Eug20kBDqUX4hh5dIA",
+        "Size": "14.72 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Mark Lutz   Learning Python 5th.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1M2HSvC45zk-TJBMLigwMpogtZp9LzcF0",
+        "Size": "5.91 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Magnus Lie Hetland   Beginning Python. From Novice to Professional 2nd.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1DAU9GB-VovbPNSrWE7REN9bDmOuEIC7j",
+        "Size": "10.8 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Magnus Lee Hetland   Python Algorithms",
+        "Link": "https://drive.google.com/uc?export=download&id=1cxPzG3-sTsSg0E4ghJoRSR8m2EeUBLLl",
+        "Size": "4.63 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Learn Python the Hard Way (3rd Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1kIKMqZM-bA7sRU3kzw1mCTJwQe-qQ_nP",
+        "Size": "3.94 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Kent D. Lee   Python Programming Fundamentals",
+        "Link": "https://drive.google.com/uc?export=download&id=11SUxeAKMA9b57UcC2QktYQh-8Mw7FKSF",
+        "Size": "4.05 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Justin Seitz   Gray Hat Python.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1eCJa107PLdmfz4D5vewK3PP_I_8SPxK6",
+        "Size": "0.63 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jose Unpingco   Python for Signal Processing",
+        "Link": "https://drive.google.com/uc?export=download&id=1eLXK16tjQV8Rt58W_uWRFdqtBrZlVVFZ",
+        "Size": "2.9 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jones, Drake   Python   XML. XML Processing with Python",
+        "Link": "https://drive.google.com/uc?export=download&id=15JwyeMPdtSXGUKA4sBRjOZePrtMdSLcm",
+        "Size": "3.5 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of John V. Guttag   Introduction to Computation and Programming Using Python. Spring 2013",
+        "Link": "https://drive.google.com/uc?export=download&id=1zBbukYyA38UBrhKAt3At8F76ATS3McgA",
+        "Size": "102.84 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of John Goerzen   Foundations of Python Network Programming.djvu",
+        "Link": "https://drive.google.com/uc?export=download&id=1qQWHGXtnbE_4ybmqUt0Aln3wuFYZFnSY",
+        "Size": "2.88 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jim Knowlton   Python, Create Modify Reuse",
+        "Link": "https://drive.google.com/uc?export=download&id=1JfvjPFnOvkRpT3b06cAwG2Hqob8sZANj",
+        "Size": "6.26 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jim Knowlton   Python, Create Modify Reuse.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1MZMzR2ELbOPltCEFMzoxZTeGZLWmrRph",
+        "Size": "10.64 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jeff Younker   Foundations of Agile Python Development",
+        "Link": "https://drive.google.com/uc?export=download&id=1gw2IOgiNddYL9N1TzBxC93GEW4VrfFVM",
+        "Size": "6.9 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jason R. Briggs   Python for kids",
+        "Link": "https://drive.google.com/uc?export=download&id=13nWUw6vp0aTcaAh1OKTU2AM_7ArRTgJ8",
+        "Size": "13.28 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jason R. Briggs   Python for kids.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1HeV7vpsjQXLZ7qLCqQQy9yJf8Gl5LRkW",
+        "Size": "7.03 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of James Payne   Beginning Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1MZgWJh0JQZDT6p5yDfdn_5BGI9EUtwsS",
+        "Size": "4.41 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Jaan Kiusalaas   Numerical Methods in Engineering with Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1_3r79PTRo71l2iwZrhU0PvyrYnHX1ACM",
+        "Size": "7.06 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Ivan Idris   NumPy Cookbook",
+        "Link": "https://drive.google.com/uc?export=download&id=1BvuZwq7AzP89s2DrlPmPrtzuit9Kx2yr",
+        "Size": "5.21 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Ivan Idris   NumPy 1.5",
+        "Link": "https://drive.google.com/uc?export=download&id=1ugqObksafM8aAQtJMjtftrCPvyqEUlAC",
+        "Size": "2.02 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Ivan Idris   NumPy. Beginner s Guide 2nd",
+        "Link": "https://drive.google.com/uc?export=download&id=1JxTQM3RUUs-WN5HdVLHMJ65_dtBas9fI",
+        "Size": "3.66 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Ivan Idris   NumPy. Beginner s Guide 2nd.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1DJUmIFoRVCSd3GA76KDyDqo8b7m6NKas",
+        "Size": "4.19 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Head First Python   A Brain Friendly Guide (2nd Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1SFGiNZMQwK0p4dumWtv2ZyQKkLAfn2ML",
+        "Size": "87.02 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Hans Petter Langtangen   A Primer on Scientific Programming with Python 3rd",
+        "Link": "https://drive.google.com/uc?export=download&id=1ub1hLuDZt-6x3sZdwG1XDE7RWZ3vSpdx",
+        "Size": "7.18 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Hand Petter Langtangen   Python Scripting for Computational Science",
+        "Link": "https://drive.google.com/uc?export=download&id=14pRrJYVe9gp-J5T9_qWhN81ieJ0906l8",
+        "Size": "4.84 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Greg L. Turnquist   Python.Testing.Cookbook.rar",
+        "Link": "https://drive.google.com/uc?export=download&id=1oKJ_I6z1Ace_VfrJDddHAfqCH34itbc1",
+        "Size": "1.23 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Greg L. Turnquist   Python.Testing.Cookbook",
+        "Link": "https://drive.google.com/uc?export=download&id=1_QE0yatJWQrM1C1OQL2El8jhCEWXK1h0",
+        "Size": "9.4 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of epdf.pub learn python the hard way.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1ogzQkXTzcXJYWgFleHwmJJNeJfmJ-uwc",
+        "Size": "0.32 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of epdf.pub head first python",
+        "Link": "https://drive.google.com/uc?export=download&id=1hxoHUSUvJDsPMcIRMT0vfx4wjk2L5qfj",
+        "Size": "37.84 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Eli Bressert   SciPy and NumPy",
+        "Link": "https://drive.google.com/uc?export=download&id=1KeS2eKfX5Dq2qjthRcc6A-DdF5Qg8UCm",
+        "Size": "6.23 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Eli Bressert   SciPy and NumPy.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1nRzuttgy_QW-iF96UTwNCkFcN1SPv3H8",
+        "Size": "2.89 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of David M. Beazley   Python essential reference.djvu",
+        "Link": "https://drive.google.com/uc?export=download&id=1om1M0Oqiusj8He_Xy-C9U-_e16IzrCdE",
+        "Size": "4.11 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Daniel Arbuckle   Python Testing Beginners Guide",
+        "Link": "https://drive.google.com/uc?export=download&id=1Prof9MHTZiTht84Oo7n1mMMt2eAPPIsi",
+        "Size": "2.54 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Cyrille Rossant   Learning IPython for Interactive Computing and Data Visualization",
+        "Link": "https://drive.google.com/uc?export=download&id=1NYGU_1fJmGOZQLjkvA6gaGMXzuwI8pIz",
+        "Size": "1.88 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Cyrille Rossant   Learning IPython for Interactive Computing and Data Visualization.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1kzofi4hCkXvs97tFJjVoMubgs3XndZ6U",
+        "Size": "2.2 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Cody Precord   wxPython 2 8  Cookbook.zip",
+        "Link": "https://drive.google.com/uc?export=download&id=1qujgy6jvyF3xk_-d5mx4AhozjHvxKMnf",
+        "Size": "3.61 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Cody Precord   wxPython 2.8 Application Development Cookbook   2010.tar.bz2",
+        "Link": "https://drive.google.com/uc?export=download&id=1TgG8KMpXB6uS4HRpiIsjJOfadCoF12uX",
+        "Size": "0.16 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Bird, Klein, Loper   Natural Language Processing with Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1AI3ctQQ2oDYdWDJZvuWWLT5fWrUNOiNZ",
+        "Size": "3.42 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Beginning Python   Peter Norton, Alex Samuel, David Aitel, Eric Foster Johnson, Leonard Richardson, Jason Diamond, Aleatha Parker, Michael Roberts",
+        "Link": "https://drive.google.com/uc?export=download&id=1BX4XXD3YguIqO0AiKoaDA4JInGnmgHAd",
+        "Size": "15.05 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Beginning Python   From Novice To Professional   Magnus Lie Hetland",
+        "Link": "https://drive.google.com/uc?export=download&id=1p4_eleB9Mg3wRlTlgYX93IPhfYON9ehc",
+        "Size": "13.26 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Beazley, Jones   Python Cookbook 3rd",
+        "Link": "https://drive.google.com/uc?export=download&id=1tYvFdlmKdbGgnk1Jhgv82juqTtXQP_ZI",
+        "Size": "9.44 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of B. M. Harwani   Introduction to Python Programming and Developing GUI Applications with PyQT",
+        "Link": "https://drive.google.com/uc?export=download&id=12KLvGbBPVvQ4odMAriKAArgSdzm52JS2",
+        "Size": "20.0 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Allen B. Downey   Think Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1chc7dCa7N5VhBAZM9hLETsIZ5fcppCOg",
+        "Size": "7.52 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Allen B. Downey   Think Python.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1IpLQ3dVeFb0GWSZqtWqRjEDUK7RkXeyT",
+        "Size": "2.76 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Allen B. Downey   Python for Software Desing. Cambridge",
+        "Link": "https://drive.google.com/uc?export=download&id=1uQygHQ5Qy-lL2SfwtIbL_wAXRgBxJFl7",
+        "Size": "3.6 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Copy of Al Sweigart   Making Games with Python and Pygame",
+        "Link": "https://drive.google.com/uc?export=download&id=1tpzW7cqqZgE33oreromQIy7blkXW_YDc",
+        "Size": "4.35 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "2019 Book AdvancedGuideToPython3Programming",
+        "Link": "https://drive.google.com/uc?export=download&id=1GIX_U4o5lLcJNb-DeZ40ZDXE5ti1tq5x",
+        "Size": "22.91 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "2019 Book ABeginnersGuideToPython3Programming",
+        "Link": "https://drive.google.com/uc?export=download&id=1bnqsXTkdGzUp6emUV-UUCKCMohquoYbV",
+        "Size": "29.05 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "2017 Book IntroductionToDataScience",
+        "Link": "https://drive.google.com/uc?export=download&id=1FznvBqcqFHyg6_ytVx5tTFv6cbnZRg8B",
+        "Size": "6.87 MB",
+        "Categories": "Python"
+    },
+    {
+        "Name": "Machine Learning With Python",
+        "Link": "https://drive.google.com/uc?export=download&id=1HjgnCXwmwod521kmFvECmp_9cmifGatA",
+        "Size": "17.54 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Statistical Reinforcement Learning Modern Machine Learning Approaches",
+        "Link": "https://drive.google.com/uc?export=download&id=1IaOgZ1KJo3oley_cluP9CGbizglzFipu",
+        "Size": "7.25 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Natural Language Annotation for Machine Learning A Guide to Corpus",
+        "Link": "https://drive.google.com/uc?export=download&id=1LEDKUhvb7fuWN1K50YLYXMSBmLbHstLY",
+        "Size": "5.64 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning The Art and Science of Algorithms that Make",
+        "Link": "https://drive.google.com/uc?export=download&id=1ajZr-7NiegDkX7Bhu7eo0htPrdocd328",
+        "Size": "9.49 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning Paradigms Applications in Recommender Systems",
+        "Link": "https://drive.google.com/uc?export=download&id=1quy1UlaF5ZBwlN_LMfw67EOC25sMO-s7",
+        "Size": "4.66 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning in Python Essential Techniques for Predictive",
+        "Link": "https://drive.google.com/uc?export=download&id=1UhRbP9VtcJxjYfIT0aVB_FNUBwJcrpi7",
+        "Size": "13.35 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning Hands On for Developers and Technical Professionals",
+        "Link": "https://drive.google.com/uc?export=download&id=1vE75A3Y40v3PBlIlpTBCxmfdTe4TIc_P",
+        "Size": "7.38 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning for Hackers Case Studies and Algorithms to Get",
+        "Link": "https://drive.google.com/uc?export=download&id=1_a_9FxE2sti8COev7LsN9sC_Ys4c1EFi",
+        "Size": "23.08 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Kernel Based Data Fusion for Machine Learning Methods and Applications",
+        "Link": "https://drive.google.com/uc?export=download&id=1u_wxFaqbrQNXqZe7k8GAMenKKNXqURou",
+        "Size": "3.26 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Identifying Product and Process State Drivers in Manufacturing",
+        "Link": "https://drive.google.com/uc?export=download&id=1FYAPdIe6IZRIZk7yV9ETisI_Hv3a5Y3F",
+        "Size": "10.87 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Growing Adaptive Machines Combining Development and Learning",
+        "Link": "https://drive.google.com/uc?export=download&id=1_5-T9kPRSeP_46xIkd7yDWvL1EjewRpa",
+        "Size": "7.69 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Extreme Learning Machines 2013 Algorithms and Applications",
+        "Link": "https://drive.google.com/uc?export=download&id=1Ty2bIFk7aFLvj5lhi2bJ1PqgPKdsLKlB",
+        "Size": "8.51 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Efficient Learning Machines Theories, Concepts, and Applications",
+        "Link": "https://drive.google.com/uc?export=download&id=1rlX-XjWstU-oFEbvoLQoBSHtQ4-McT1I",
+        "Size": "7.93 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Thoughtful Machine Learning  A Test Driven Approach",
+        "Link": "https://drive.google.com/uc?export=download&id=12W6Khd60R4bLcxUAJyQXCkHtK4SlQXtF",
+        "Size": "6.35 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Optimization for Machine Learning",
+        "Link": "https://drive.google.com/uc?export=download&id=1p43uRvVV0AXZPycw1v7Dj3znXhokp4SH",
+        "Size": "2.98 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning  An Algorithmic Perspective (2nd ed.)",
+        "Link": "https://drive.google.com/uc?export=download&id=1gRiY18rAh1D6DrAHJkz0aUCgZ9EuZAHi",
+        "Size": "6.65 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning  A Probabilistic Perspective",
+        "Link": "https://drive.google.com/uc?export=download&id=1a1QednoTVdGysajSx9lc-RFZeVicayta",
+        "Size": "25.69 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning with Spark",
+        "Link": "https://drive.google.com/uc?export=download&id=1oXmOQ57O9-dbc-AYo6BE_ZrZAefMJGik",
+        "Size": "4.59 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning Projects for .NET Developers",
+        "Link": "https://drive.google.com/uc?export=download&id=1vmYrCkB_z8BdawTJRvQf7MwyngKOlR_i",
+        "Size": "6.32 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning in Medicine  A Complete Overview",
+        "Link": "https://drive.google.com/uc?export=download&id=1GHEvsdSTsHkJOiS3fUDIucro6Ozx0I2e",
+        "Size": "16.87 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Machine Learning and Systems Engineering",
+        "Link": "https://drive.google.com/uc?export=download&id=1ZuMcmRmjnVCRBXGqAhfQzaxTo3VxMbeb",
+        "Size": "11.28 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML LNAI 9047  Statistical Learning and Data Sciences",
+        "Link": "https://drive.google.com/uc?export=download&id=19p0FTNorWeJJEygM2c6rkXOFHzXykN50",
+        "Size": "15.45 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Introduction to Pattern Recognition and Machine Learning",
+        "Link": "https://drive.google.com/uc?export=download&id=1EggGLRTHSvivNxsjuVMGumdnCXRuv5X5",
+        "Size": "2.29 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML From Curve Fitting to Machine Learning",
+        "Link": "https://drive.google.com/uc?export=download&id=1g_X6r7hnaebsJbeHKlQf1Ih9r6VrtopX",
+        "Size": "6.51 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Ensembles in Machine Learning Applications",
+        "Link": "https://drive.google.com/uc?export=download&id=1cZUd-xe_X9--PUtQQJZmCVOi8rTc4224",
+        "Size": "4.21 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Copy of ML Combinatorial Machine Learning  A Rough Set Approach",
+        "Link": "https://drive.google.com/uc?export=download&id=1zezjLFmruKcITjOGVE43Fxgn4-1cn3a7",
+        "Size": "1.85 MB",
+        "Categories": "ML"
+    },
+    {
+        "Name": "Programming with Java   A Primer by E Balagurusamy (3rd Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1wXHzmYF-0P3vOvrbmHJ4f6TYI07d0L6x",
+        "Size": "17.89 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Java  The Complete Reference, Eleventh Edition by Herbert Schildt",
+        "Link": "https://drive.google.com/uc?export=download&id=1m62B0iGj6bxUTuGJdBluU4mB14d6zdzz",
+        "Size": "99.23 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Introduction to Java Programming",
+        "Link": "https://drive.google.com/uc?export=download&id=1yFF8l5Q5Ij2dk_2mADmzSC3Nm79RUBs3",
+        "Size": "13.98 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Java The Complete Reference by Herbert Schildt (11th Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1u3ktDX8Vem70b7jdMSkEr5l5EFR7uZMs",
+        "Size": "99.23 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Java A Beginner’s Guide by Herbert Schildt (8th Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1f0d4xa-3vKgSSX2V7V47fGr1PW8-odsW",
+        "Size": "83.0 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Head First Java 2nd edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1cqFtr5PzBNL2b6xUivPxP-YfVDkROad2",
+        "Size": "0.06 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Head First Java   A Brain Friendly Guide (2nd Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=18apiiCg4WCbPT4KlUgXPHxYOS4eNRx88",
+        "Size": "44.48 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of epdf.pub head first java 2nd edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1haqZpCSxHPVw-brvqvGw44_RT2AnUU_c",
+        "Size": "40.57 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of epdf.pub beginning programming with java for dummies",
+        "Link": "https://drive.google.com/uc?export=download&id=1Tkh4k3KPYFLVTA05x2mGGm4IHP4NJtCF",
+        "Size": "16.87 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Core Java Volume I Fundamentals by Cay S. Horstmann (11th Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1kAxZ7LpJOvh9BD2EJhphceaWB9khCPi9",
+        "Size": "45.38 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Beyond Java   Bruce A. Tate.chm",
+        "Link": "https://drive.google.com/uc?export=download&id=1ll0w0u-0WbyrSmRInW4a5zRKKCrAJSY_",
         "Size": "0.56 MB",
-        "Categories": "Aadi Shankaracharya"
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Beginning Programming With Java For Dummies   Barry Burd",
+        "Link": "https://drive.google.com/uc?export=download&id=1l2EAzq2npN_SptAjz5_7-YfVuI1qc9V4",
+        "Size": "5.87 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Beginning Cryptography With Java   David Hook.chm",
+        "Link": "https://drive.google.com/uc?export=download&id=1eWv0IdfyPeo8KV5eQbIubGZk-H8obFUU",
+        "Size": "2.45 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Copy of Agile Java Development With Spring, Hibernate, And Eclipse   Anil Hemrajani.chm",
+        "Link": "https://drive.google.com/uc?export=download&id=1mBpG9dNuD-W4d4Ie_elsD7K_x4e2jAO2",
+        "Size": "12.56 MB",
+        "Categories": "Java"
+    },
+    {
+        "Name": "Cracking the Coding Interview, 6th Edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1bkbui4LVj_vsMPZPVnLXCM0iY-7OwXFR",
+        "Size": "87.92 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of The Hitchhiker s Guide to Programming Contests",
+        "Link": "https://drive.google.com/uc?export=download&id=1njwbf8-SChZ1U96Gc1JbsNEZCQus6TQR",
+        "Size": "0.32 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of The Algorithm Design Manual by Steven S. Skiena",
+        "Link": "https://drive.google.com/uc?export=download&id=15qrx0hsswc-aV7a4w1QNjxH4YZJy_BWR",
+        "Size": "15.04 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Introduction to Algorithms 3rd Edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1yfpk9yJ_e9MMpR7NGy92oUpxImJr008m",
+        "Size": "75.57 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Horowitz Sahni   Data Structure ",
+        "Link": "https://drive.google.com/uc?export=download&id=1ESsI4f8Tq1zSZ29JtQGXZbTbokbECP-E",
+        "Size": "3.79 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Horowitz and Sahani, Fundamentals of Computer Algorithms, 2ND Edition ( PDFDrive.com )",
+        "Link": "https://drive.google.com/uc?export=download&id=1ZT3guWAX1QrvJQx7-7yPVcvLK9huKX8Q",
+        "Size": "28.55 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of epdf.pub introduction to algorithms third edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1Jms63g4_v6Q_9dXugfmCFsfLa-paJLT3",
+        "Size": "5.39 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of data structures algorithms and applications in c by sartraj sahani",
+        "Link": "https://drive.google.com/uc?export=download&id=1l0LgxHLIierc3BsyBhTwBsQi-akE6nGU",
+        "Size": "28.06 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Data Structures and Algorithms Made Easy  Data Structures and Algorithmic Puzzles ( PDFDrive.com )",
+        "Link": "https://drive.google.com/uc?export=download&id=1QkFbxNjf-cBo1s5u1Ul8MP6rW5lRFS6M",
+        "Size": "32.74 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Competitive Programmer’s Handbook",
+        "Link": "https://drive.google.com/uc?export=download&id=1WUF3udXP-oygpNmRd2LbmuN9sNI31xGn",
+        "Size": "1.05 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Competitive Programmers Handbook   Antti Laaksonen",
+        "Link": "https://drive.google.com/uc?export=download&id=1ieQl0oqaRsE6yHXIErwZaS-2wFPAyMty",
+        "Size": "1.02 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of clrs",
+        "Link": "https://drive.google.com/uc?export=download&id=1NlXvApluyq-biS9hXWPsPumaEO8VZhyC",
+        "Size": "12.51 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of An Illustrative Introduction to Algorithms   Dino Cajic.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1UHYVqGfH6m-7orsPb7dEoN2Jb9mAFk7v",
+        "Size": "50.96 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Algorithm Design by Jon Kleinberg, Eva Tardos",
+        "Link": "https://drive.google.com/uc?export=download&id=1WjC4HV0KTFRVhfR6gLhzIRGweHxunjFO",
+        "Size": "4.98 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "Copy of Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne",
+        "Link": "https://drive.google.com/uc?export=download&id=1ExLMsRlcWrxtyMvRYFnPbf5SEPHmmokC",
+        "Size": "12.85 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "2015 Book DataStructuresAndAlgorithmsWithPython",
+        "Link": "https://drive.google.com/uc?export=download&id=1uG3M9GzAuK2BBLKsUVXQWYsdBB1dhBZa",
+        "Size": "12.92 MB",
+        "Categories": "DS_Algorithms"
+    },
+    {
+        "Name": "C++ with Data Structure",
+        "Link": "https://drive.google.com/uc?export=download&id=1v_GADuha97ahAgZko8EPvAUzOoB7RPtA",
+        "Size": "18.13 MB",
+        "Categories": "C++"
+    },
+    {
+        "Name": "C++ Programming  An Object Oriented Approach  Behrouz A. Forouzan, Richard Gilberg  McGraw Hill Education (2019)",
+        "Link": "https://drive.google.com/uc?export=download&id=1LS93a62skxKDm02Doy0R3dIt-i5Z2ttv",
+        "Size": "29.98 MB",
+        "Categories": "C++"
+    },
+    {
+        "Name": "C++ Primer (5th Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=1ABz1UoXVeRydsM3TTvWLIE8tpxBwA0xv",
+        "Size": "50.36 MB",
+        "Categories": "C++"
+    },
+    {
+        "Name": "Thinking in C++ Volume 2 by Eckel Bruce",
+        "Link": "https://drive.google.com/uc?export=download&id=1tBMIlgt_w847aw7RB9Qxji89HFb1OXRT",
+        "Size": "1.99 MB",
+        "Categories": "C++",
+        "SubCategories1": "Thinking in C++ by Eckel Bruce"
+    },
+    {
+        "Name": "Thinking in C++ Volume 1 by Eckel Bruce",
+        "Link": "https://drive.google.com/uc?export=download&id=1GLbc97S4KhB9SIMLZdYAccveYhdcyKut",
+        "Size": "2.89 MB",
+        "Categories": "C++",
+        "SubCategories1": "Thinking in C++ by Eckel Bruce"
+    },
+    {
+        "Name": "Copy of The C Programming Language by Kernighan   Ritchie PDF",
+        "Link": "https://drive.google.com/uc?export=download&id=1RBF9uNWW_Z4dF8vqpw2DAtz-dLqDNTg2",
+        "Size": "1.31 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "Copy of The C Programming Language   2nd edition",
+        "Link": "https://drive.google.com/uc?export=download&id=1iOMcy1jE9hLYgBAM_tvqGznUu7KcWwTe",
+        "Size": "2.77 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "Copy of Programming in C, 2nd Edition",
+        "Link": "https://drive.google.com/uc?export=download&id=191CJKzty02KwH8veUJWi_m_XN2NJ45H6",
+        "Size": "12.58 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "Copy of Head First C by David Griffiths and Dawn Griffiths",
+        "Link": "https://drive.google.com/uc?export=download&id=1koQtXoVkTT86Z7vubKUq4mjWaSneyj1D",
+        "Size": "53.73 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "Copy of C in a Nutshell The Definitive ReferenceBook  ",
+        "Link": "https://drive.google.com/uc?export=download&id=10Q4qec9qH27KGvtTrx_pAe_ki8BeZ5k4",
+        "Size": "7.01 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "Copy of ansi c balaguruswamy c languagepdf",
+        "Link": "https://drive.google.com/uc?export=download&id=1HkU6VL-8wHG9Utn3_MIkaTLMHt_9XC8W",
+        "Size": "19.89 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "Coding Interview Questions  Narasimha Karumanchi.PDF",
+        "Link": "https://drive.google.com/uc?export=download&id=1qKpx2W7VPmJuii125oaDLvuVRgOLlnse",
+        "Size": "40.21 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "c how to program 10th",
+        "Link": "https://drive.google.com/uc?export=download&id=1ESiVzlci3L1j2dmrx4xQZcyfjLNh0vPs",
+        "Size": "67.55 MB",
+        "Categories": "C"
+    },
+    {
+        "Name": "Introduction to Cryptography and Network Security Behrouz A. Forouzan  McGraw Hill Higher Education (2008)",
+        "Link": "https://drive.google.com/uc?export=download&id=1kgZboB2j2E8_yiJuZ2cuJmbj3SFkfEkL",
+        "Size": "8.74 MB",
+        "Categories": "Behrouz A. Forouzan -Collection"
+    },
+    {
+        "Name": "Data Communications and Networking by Behrouz A. Forouzan",
+        "Link": "https://drive.google.com/uc?export=download&id=1T1JyJq6_ol8NU7QiqHiYML_OG2svsIOm",
+        "Size": "10.84 MB",
+        "Categories": "Behrouz A. Forouzan -Collection"
+    },
+    {
+        "Name": "Computer Networks A Top Down Approach by Behrouz Forouzan, Firouz Mosharraf",
+        "Link": "https://drive.google.com/uc?export=download&id=1KAdVmH4xAhEb4PsmN9hUa5CjMRQOUPQU",
+        "Size": "29.35 MB",
+        "Categories": "Behrouz A. Forouzan -Collection"
+    },
+    {
+        "Name": "Copy of The Busy Coder s Guide to Android.epub",
+        "Link": "https://drive.google.com/uc?export=download&id=1ttC_hRT_UsC9LHCxr8uy5n-MGS6H14fH",
+        "Size": "18.63 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of Practical Android",
+        "Link": "https://drive.google.com/uc?export=download&id=13ddl_2mKGv90od-EQaiY4TvuR6j5w_W0",
+        "Size": "4.87 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of Build Android Based Smart Applications",
+        "Link": "https://drive.google.com/uc?export=download&id=1O6IE7lply0-GW-YsDdmrwUiwRkItR4fX",
+        "Size": "2.71 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of Beginning Android Tablet Programming",
+        "Link": "https://drive.google.com/uc?export=download&id=19SnjLA3FEta4VjkVh0ayO_ZIeL2Y3HeE",
+        "Size": "1.97 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of AndroidNotesForProfessionals",
+        "Link": "https://drive.google.com/uc?export=download&id=1GHCjKwRUkCAZ0nVPOyxtJQr7Fpj3s-uM",
+        "Size": "11.9 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of Android Programming Pushing The Limits",
+        "Link": "https://drive.google.com/uc?export=download&id=1eaDzFxW-WQUsu6Dg-X3q12F_pSVQ1-nV",
+        "Size": "32.31 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of Android One Root To Own Them All",
+        "Link": "https://drive.google.com/uc?export=download&id=1SswTitqFWbQrRveKqkPdnZJMI5x0oWK7",
+        "Size": "3.97 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of Android A Programmer s Guide",
+        "Link": "https://drive.google.com/uc?export=download&id=1OdIio7jqk4Pya4G4Xx5BTeC5cvJkIZYM",
+        "Size": "4.06 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Copy of android developer fundamentals course concepts en",
+        "Link": "https://drive.google.com/uc?export=download&id=1yKgRGrJAFGLlpqOuazsU9Bw3uaIEzwyH",
+        "Size": "15.84 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Android Studio 3.0  Development Essentials",
+        "Link": "https://drive.google.com/uc?export=download&id=1PYNNiKJ86rd4J9pN93AQrK0FPDgUWOHS",
+        "Size": "36.73 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "Android Application Development Cookbook",
+        "Link": "https://drive.google.com/uc?export=download&id=1omv-SUx7E8_RIz7byiKyLijXNMuIgfA_",
+        "Size": "6.17 MB",
+        "Categories": "Android"
+    },
+    {
+        "Name": "λ Calculus and Computer Science Theory   Goos and Hartmanis",
+        "Link": "https://drive.google.com/uc?export=download&id=1tgCG053fmiecbk6Ubf32eT3rhpFQ2bje",
+        "Size": "5.78 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Warren s Abstract Machine A Tutorial Reconstruction    Ait Kaci",
+        "Link": "https://drive.google.com/uc?export=download&id=1JTwmuIa667C5JQEZ1vdrO1RdIDUcR50V",
+        "Size": "18.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Verification Theory and Practice Essays Dedicated to Zohar Manna on the Occasion of His 64th Birthday   Dershowitz",
+        "Link": "https://drive.google.com/uc?export=download&id=1nxwY1xKnbyuwu8QB7v0VobHEQI-gSH_R",
+        "Size": "2.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Unconventional Computation   Akl",
+        "Link": "https://drive.google.com/uc?export=download&id=15hyfAJpb_BrBF9g1WTcZr95LgGn9EgP2",
+        "Size": "3.37 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Uncertainty Modeling Dedicated to Professor Boris Kovalerchuk on his Anniversary   Kreinovich",
+        "Link": "https://drive.google.com/uc?export=download&id=1qssCadt4vOg564eAvJbRQ-h4xPn2P6J3",
+        "Size": "6.75 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Types and Programming Languages   Pierce",
+        "Link": "https://drive.google.com/uc?export=download&id=1hVVkMCjVGeSIHAUXNmKC_soIRan7mHO5",
+        "Size": "2.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Typed Lambda Calculi and Applications   Urzyczyn",
+        "Link": "https://drive.google.com/uc?export=download&id=1aep7mjYdT-c4t6MyNO9c9vHj0_-ZwVJB",
+        "Size": "2.81 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Typed Lambda Calculi and Applications   Girard",
+        "Link": "https://drive.google.com/uc?export=download&id=1JtzzcOmGdE0w6CnQ69n6HLWOA6jARNV8",
+        "Size": "8.28 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Type Theory and Functional Programming   Thompson",
+        "Link": "https://drive.google.com/uc?export=download&id=12ijYLQorMeMQLFgZpcIqK93M9CGPTPpI",
+        "Size": "11.22 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Two Dimensional Information Theory and Coding With Applications to Graphics Data and High Density Storage Media   Justesen and Forchhammer",
+        "Link": "https://drive.google.com/uc?export=download&id=1_NbLNqPkoYdMYrTJ63mxtDHCJhiY6HIE",
+        "Size": "1.3 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Twenty Lectures on Algorithmic Game Theory   Roughgarden",
+        "Link": "https://drive.google.com/uc?export=download&id=1k5kb0pblmniHfjsDRk0y5NaNUKPTGw6B",
+        "Size": "4.47 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Turing Machines with Sublogarithmic Space   Szepietowski",
+        "Link": "https://drive.google.com/uc?export=download&id=1czgM-XRU_eXZ8yE8LZImk8OcdAJleBed",
+        "Size": "2.84 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Trusted Cloud Computing   Krcmar, Reussner, and Rumpe",
+        "Link": "https://drive.google.com/uc?export=download&id=1e0Vtx6qyKO2kbXG8AtaL3_ZxuVZHi5h4",
+        "Size": "8.05 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Trends in Mathematics and Computational Intelligence   Cornejo",
+        "Link": "https://drive.google.com/uc?export=download&id=17mif2oviamrDq-ksMbbXJVKmXDO7vVcH",
+        "Size": "4.58 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Trends in Functional Progamming Vol. 5   Loidl",
+        "Link": "https://drive.google.com/uc?export=download&id=1DhwRyQKsKYnnIYlyayEeaG7AwBEd5Ets",
+        "Size": "1.2 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Topological Algorithms for Digital Image Processing   Kong and Rosenfeld",
+        "Link": "https://drive.google.com/uc?export=download&id=1Onc8y6ESk4lWLwDhfvBXSFHR2UzvARxp",
+        "Size": "14.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Topics in Parallel and Distributed Computing Introducing Concurrency in Undergraduate Courses   Prasad",
+        "Link": "https://drive.google.com/uc?export=download&id=1NUENLj5o1-55xe9FCxNqJ2mFE8t9VX2-",
+        "Size": "13.82 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Three Dimensional Model Analysis and Processing   Fu",
+        "Link": "https://drive.google.com/uc?export=download&id=1DNihZXDqBV3iCa7p4zK-Sqo98y0-0Htp",
+        "Size": "10.12 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Think Stats   Downey",
+        "Link": "https://drive.google.com/uc?export=download&id=1oSWfkRMXfSlwpaZEXaTVQx0XxmkHE1z6",
+        "Size": "10.9 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Think Data Structures Algorithms and Information Retrieval in Java   Downey",
+        "Link": "https://drive.google.com/uc?export=download&id=1kDHAb0wma9uaM9hP0DlYRP1NI9GS6nFf",
+        "Size": "3.82 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Think Complexity Complexity Science and Computational Modeling   Downey",
+        "Link": "https://drive.google.com/uc?export=download&id=1OB2cC-KIBxniv4gDyfM0CHRICFO0Qx4z",
+        "Size": "1.21 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Think Bayes   Downey",
+        "Link": "https://drive.google.com/uc?export=download&id=1v8sLYal28CQIum7z_N66dJcWfFnWjxc6",
+        "Size": "11.69 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theory of Computation   Kozen",
+        "Link": "https://drive.google.com/uc?export=download&id=1u_hKsbkz3puBZCtdO8iamtex8xRrQ8Oh",
+        "Size": "3.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theory Is Forever Essays Dedicated to Arto Salomaa on the Occasion of His 70th Birthday   Karhumäki",
+        "Link": "https://drive.google.com/uc?export=download&id=1dG5Ar0e-FZb4Mgh67yVIjcAAk3bXZMyS",
+        "Size": "5.01 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theory and Application of Graph Transformations   Ehrig",
+        "Link": "https://drive.google.com/uc?export=download&id=1_rPWL8UkIXidXsoABIzARBQO9AAmtKGi",
+        "Size": "5.77 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theories of Computational Complexity   Calude",
+        "Link": "https://drive.google.com/uc?export=download&id=18hRCJ0RCslLQB0lNLXCjL2IDfatI99LY",
+        "Size": "19.33 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theoretical Computer Science Introduction to Automata, Computability, Complexity, Algorithmics, Randomization, Communication, and Cryptography   Hromkovic",
+        "Link": "https://drive.google.com/uc?export=download&id=1YtqMWn51WQcss5BpvVextI-LRLau_6bf",
+        "Size": "26.37 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theoretical Computer Science Essays in Memory of Shimon Even    Goldreich, Rosenberg, and Selman",
+        "Link": "https://drive.google.com/uc?export=download&id=1XR9XtkiprnlIR6WATujCPYBeiaoDCiGy",
+        "Size": "4.0 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theoretical Computer Science   Blundo and Laneve",
+        "Link": "https://drive.google.com/uc?export=download&id=1DMh4ou76RnfjFby6N9EuoDJkr6-z9EHc",
+        "Size": "3.72 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theoretical Aspects of Computing   Hung and Wirsing",
+        "Link": "https://drive.google.com/uc?export=download&id=1SrHsozL0ooP-AmQVtE54C_XrbYpYB02I",
+        "Size": "5.67 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theoretical Aspects of Computer Science Advanced Lectures   Khosrovshahi, Shokufandeh, and Shokrollahi (1)",
+        "Link": "https://drive.google.com/uc?export=download&id=1y9iOxMRJQiS_raHIC7geay51dV4tga-0",
+        "Size": "3.04 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Theoretical Aspects of Computer Science Adcanced Lectures   Khosrovshahi, Shokoufandeh, and Shokrollahi",
+        "Link": "https://drive.google.com/uc?export=download&id=1mQdB67ztDe1aVoLlMpmJsbb71Corex52",
+        "Size": "2.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Universal Computer 3e   Davis",
+        "Link": "https://drive.google.com/uc?export=download&id=1B4RXQTCc81ED4B7V7qWd5AzSG7QtJc_f",
+        "Size": "26.21 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Theory of Parsing, Translation, and Compiling Vol II Compiling   Aho and Ullman",
+        "Link": "https://drive.google.com/uc?export=download&id=1J6j5fo9VO7v3XCiNr1hSNgk-qmvuifv0",
+        "Size": "13.63 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Theory of Parsing, Translation, and Compiling Vol I Parsing   Aho and Ullman",
+        "Link": "https://drive.google.com/uc?export=download&id=14C0YebEzDXUACynvE7JgJpzx4mLNVZji",
+        "Size": "19.29 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Theory of Computation   Moret",
+        "Link": "https://drive.google.com/uc?export=download&id=1YR460C50YJ-FsO602oznzbq0RSZO3u-i",
+        "Size": "24.13 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Principles of Object Oriented JavaScript   Zakas",
+        "Link": "https://drive.google.com/uc?export=download&id=1vmbacS1IVGiDGPTtS-7GWMh6SD3mSg51",
+        "Size": "2.06 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Practice of Programming   Kernighan and Pike",
+        "Link": "https://drive.google.com/uc?export=download&id=1y01K6bperGlLdBLRFKSv4lYYypO37ppN",
+        "Size": "4.97 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Power of Algorithms Inspiration and Examples in Everyday Life   Ausiello and Petreschi",
+        "Link": "https://drive.google.com/uc?export=download&id=1ha9d5SRtqNbg6agUEvfwMGrDg5Sl6fyP",
+        "Size": "4.9 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Mythical Man Month Essays on Software Engineering   Frederick P. Brooks Jr..epub",
+        "Link": "https://drive.google.com/uc?export=download&id=10AkV5MUi-vE6R1CkOgR0TFa_aR9il7rG",
+        "Size": "2.14 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Modern Algebra of Information Retrieval   Dominich",
+        "Link": "https://drive.google.com/uc?export=download&id=1ar1YMY48Ipe6OCgiaY7JdNM21KVxMx5F",
+        "Size": "3.36 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Mathematics of Information Coding, Extraction and Distribution   Cybenko, O’Leary, and Rissanen",
+        "Link": "https://drive.google.com/uc?export=download&id=1Ysb0XqWcRMMq8LQDe7brx3oRpX0ki452",
+        "Size": "6.38 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The LLL Algorithm Survey and Applications   Nguyen and Vallee",
+        "Link": "https://drive.google.com/uc?export=download&id=19QDIUSKEn_fwsMbJWYyVEn3Kd9uY0_2s",
+        "Size": "7.48 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Little Schemer 4e   Friendman and Felleisen",
+        "Link": "https://drive.google.com/uc?export=download&id=1cb94bP8Ufv5xlQsm-iXSIyrXcpIlnIDu",
+        "Size": "2.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Hundred Page Machine Learning Book   Burkov",
+        "Link": "https://drive.google.com/uc?export=download&id=1rdHOLxydoAu0YTqaeUMDdOJBDUUBZOp4",
+        "Size": "6.98 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Haskell School of Expression Learning Functional Programming through Multimedia   Hudak",
+        "Link": "https://drive.google.com/uc?export=download&id=1iHPTKQ9eaReryFP-tWz4t6hWK6VpVxSN",
+        "Size": "41.49 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Handbook of Brain Theory and Neural Networks   Arbib",
+        "Link": "https://drive.google.com/uc?export=download&id=1bckLNNRWCQAKYGN4VDfOa_ZInh3Q8lDr",
+        "Size": "33.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Fun of Programming   Gibbons and de Moor",
+        "Link": "https://drive.google.com/uc?export=download&id=1G87LWaokH9E89461c43Rpyu2AEsRacNd",
+        "Size": "66.06 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Evolution of Programs   Dershowitz",
+        "Link": "https://drive.google.com/uc?export=download&id=1ihpyEc8ruQVBlUFXS3D5yR9ELUeP2be_",
+        "Size": "8.81 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Elements of Computing Systems Building a Modern Computer from First Principles   Nisan and Schocken",
+        "Link": "https://drive.google.com/uc?export=download&id=19IQeE_2Y75KScW4yi9AvsAQaOljPRSxg",
+        "Size": "2.8 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Design of Well Structured and Correct Programs   Alagic and Arbib",
+        "Link": "https://drive.google.com/uc?export=download&id=1FA4AhHYeIQDi0hiITGoBY6lpbAzqSsRT",
+        "Size": "22.86 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Design and Analysis of Computer Algorithms   Aho, Hopcroft, and Ullman",
+        "Link": "https://drive.google.com/uc?export=download&id=1fQogG4G3jfGHO9smbkGlJn_mSFJfqV-d",
+        "Size": "32.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Computer as Crucible An Introduction to Experimental Mathematics   Borwein and Devlin",
+        "Link": "https://drive.google.com/uc?export=download&id=1uv2l3FL8_X3upWjMvjyBC8ey1fNI-1tL",
+        "Size": "2.2 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Complexity Theory Companion   Hemaspaandra and Ogihara",
+        "Link": "https://drive.google.com/uc?export=download&id=15KB3u0qTNJN-52y9hYl8CPkfj7vICajx",
+        "Size": "5.98 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The C++ Programming Language 4e   Stroustrup",
+        "Link": "https://drive.google.com/uc?export=download&id=1cGBBhNqu02cHUTGCyxLvUH1nDNj4iE04",
+        "Size": "18.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The C Programming Language 2e   Kernighan and Ritchie",
+        "Link": "https://drive.google.com/uc?export=download&id=1RUZG9TU3eSCTsJVcf01Sd2dsGRTPLfcm",
+        "Size": "20.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Book of C   Dhingra and Bhaskar",
+        "Link": "https://drive.google.com/uc?export=download&id=1cLA1Qa6Dv1Q6UZ9TyKwPZTu2ZcCaK7TW",
+        "Size": "1.82 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Art of Unix Programming   Raymond",
+        "Link": "https://drive.google.com/uc?export=download&id=1WMGX_Pxss8CzYgvryBGTM6DmdKuTfe8H",
+        "Size": "1.86 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Art of Lisp Programming   Jones, Maynard, and Stewart",
+        "Link": "https://drive.google.com/uc?export=download&id=1ksNUKAXygSSTFuC5mDoiPp4Tt-zOkgyJ",
+        "Size": "2.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Art of Fluid Animation   Stam",
+        "Link": "https://drive.google.com/uc?export=download&id=1Y7DCfM0m7gvJKu2btyn49YeFQ21d_ALq",
+        "Size": "141.42 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Art of Computer Programming Vol. 4A Combinatorial Algorithms Part 1   Knuth",
+        "Link": "https://drive.google.com/uc?export=download&id=1a9iiq3ARhg68Cx-gpddz-ziRqCo1HjSO",
+        "Size": "11.28 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Architecture of Supercomputers Titan, A Case Study   Siewiorek and Koopman",
+        "Link": "https://drive.google.com/uc?export=download&id=180vys0nAP0kOPAi_sZRO5HnEl5cwxZVt",
+        "Size": "25.91 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "The Annealing Algorithm   Otten and van Ginneken",
+        "Link": "https://drive.google.com/uc?export=download&id=1Shhxo5Hi93W7KyvA12p-AHWUU-QA7DM3",
+        "Size": "4.39 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Text Compression   Bell, Cleary, and Witten",
+        "Link": "https://drive.google.com/uc?export=download&id=1AEPnHoto88vS11i76kv3pr7D9KEc4ADW",
+        "Size": "13.16 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Temporal Logics in Computer Science Finite State Systems   Demri, Goranko, and Lange",
+        "Link": "https://drive.google.com/uc?export=download&id=19i-Da12Jz383D-d6n7-U1HCuyi6JlC-x",
+        "Size": "5.69 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Syntactic n grams in Computational Linguistics   Sidorov",
+        "Link": "https://drive.google.com/uc?export=download&id=1JHcILsTfr2n5fyWtH0JuUTyyglzspoeg",
+        "Size": "2.18 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Superintelligence Paths, Dancers, Strategies   Bostrom",
+        "Link": "https://drive.google.com/uc?export=download&id=1eTo8JT4zOvAieX4Cc84CI_juvq6G_HLS",
+        "Size": "3.48 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Super Recursive Algorithms   Burgin",
+        "Link": "https://drive.google.com/uc?export=download&id=1qMNNosmp18sYApigi33Bsmj2isVDxbEz",
+        "Size": "2.13 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Structures in Logic and Computer Science A Selection of Essays in Honor of A. Ehrenfeucht   Mycielski, Rozenberg, and Salomaa",
+        "Link": "https://drive.google.com/uc?export=download&id=1RnD_mTwHdlGciWj-wIlRRvyKByHueS8m",
+        "Size": "17.45 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Structure and Interpretation of Computer Programs 2e   Abelson and Sussman",
+        "Link": "https://drive.google.com/uc?export=download&id=1icZD0kAkjt_xACf8LAdm_THE1HdHBpZu",
+        "Size": "4.37 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "String Processing and Information Retrieval   Gagie",
+        "Link": "https://drive.google.com/uc?export=download&id=1lGKlgMyjtEODeOw68d8APO1hf3dSiG8u",
+        "Size": "11.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Stochastic Linear Programming Models, Theory, and Computation   Kall and Mayer",
+        "Link": "https://drive.google.com/uc?export=download&id=1JtGW95CaprqVk7DTvVp5f1OBFjkkMI8W",
+        "Size": "16.66 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Spatially Structured Evolutionary Algorithms Artificial Evolution in Space and Time   Tomassini",
+        "Link": "https://drive.google.com/uc?export=download&id=176vkpBcp6HjKDN7u4_p0co163n4hFHP8",
+        "Size": "1.94 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Source Coding Theory   Longo",
+        "Link": "https://drive.google.com/uc?export=download&id=15TG1-QppbxauXIGjif64PY-uSsqW5Yev",
+        "Size": "4.29 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Solving PDEs in C++ Numerical Methods in a Unified Object Oriented Approach   Shapria",
+        "Link": "https://drive.google.com/uc?export=download&id=1GVRlwmc1ItKa9J10NuiBvQrYsNoJa09K",
+        "Size": "2.71 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Software Reliability   Kopetz",
+        "Link": "https://drive.google.com/uc?export=download&id=1qCIWUgD1JLq2oXDFkQHPx0iWH3UQLmx6",
+        "Size": "10.96 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Software Engineering and Testing An Introduction   Agarwal, Tayal, and Gupta",
+        "Link": "https://drive.google.com/uc?export=download&id=1kc-CEmI94VUYArXMa0d1Jds4SbOiMVWd",
+        "Size": "11.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Software Engineering and Formal Methods   Calinescu and Rumpe",
+        "Link": "https://drive.google.com/uc?export=download&id=11Erg_v91CcPXSmAdzW_tREdnRqWg0Pst",
+        "Size": "16.81 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Software Engineering   Hoda",
+        "Link": "https://drive.google.com/uc?export=download&id=124WnzDA1WSpaBiOM75EOSRGFqFSyuAdc",
+        "Size": "18.67 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Soft Computing Integrating Evolutionary, Neural, and Fuzzy Systems   Tettamanzi and Tomassini",
+        "Link": "https://drive.google.com/uc?export=download&id=1VyLOFSioqzAdUfJbjaytz5w8LTvHhRiY",
+        "Size": "8.94 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Soft Computing Applications   Bonarini, Masulli, and Pasi",
+        "Link": "https://drive.google.com/uc?export=download&id=16vDN6FJ97JePEUmale_NkgHoXRKP5dVO",
+        "Size": "8.33 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Social Network Data Analytics   Aggarwal",
+        "Link": "https://drive.google.com/uc?export=download&id=1xr0U1U3GH8urnAzM8DpRcGTHGZdS9Z6L",
+        "Size": "5.18 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Simulated Evolution and Learning   Deb",
+        "Link": "https://drive.google.com/uc?export=download&id=1du3i4Y1lMwuqL8c-oEWYMPFHPw8ijCD6",
+        "Size": "15.79 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Simplicity is Complex Foundations of Cyber Physical System Design   Kopetz",
+        "Link": "https://drive.google.com/uc?export=download&id=1tiAdi6W5iJoNHJAHBD6_WYd8bCrwqLaa",
+        "Size": "1.98 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Signal Processing Techniques for Knowledge Extraction and Information Fusion   Mandic",
+        "Link": "https://drive.google.com/uc?export=download&id=1N4Kl8IahWogly-pkCanQo4hxloz85TAo",
+        "Size": "14.94 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Shadow Algorithms Data Miner   Woo and Poulin",
+        "Link": "https://drive.google.com/uc?export=download&id=1JT24L92LyRDchQ06JJvCoTURgPDes72B",
+        "Size": "4.55 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Sequential Methods and Their Applications   Mukhopadhyay and Silva",
+        "Link": "https://drive.google.com/uc?export=download&id=1kjIkK6uXC3VsEVdK0z5FUucSHACT8NSr",
+        "Size": "1.75 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Semantics of Type Theory Correctness, Completeness and Independence Results   Streicher",
+        "Link": "https://drive.google.com/uc?export=download&id=1S7z_lxiqF39_OJeSZxY-5LoeA-pctw2B",
+        "Size": "7.9 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Semantics of Programming Languages Structures and Techniques   Gunter",
+        "Link": "https://drive.google.com/uc?export=download&id=1AAZ5vF3cOe_ZPIy0OcBhhjnl-amSX6Te",
+        "Size": "17.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Selected Topics In Information and Coding Theory   Woungang and Misra",
+        "Link": "https://drive.google.com/uc?export=download&id=1eyWiP6349_L-wwN0SFH9Yaw8mP2Om6W1",
+        "Size": "4.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Selected Areas in Cryptography   Stinson and Tavares",
+        "Link": "https://drive.google.com/uc?export=download&id=1L6znv1rfwRbQOwiT81NPhyRRjs7kGQUU",
+        "Size": "2.11 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Scientific Programming C Language, Algorithms and Models in Science   Barone",
+        "Link": "https://drive.google.com/uc?export=download&id=1zEupzL0W5isNy3WgOC1SIVIwRk9ZGWbz",
+        "Size": "5.02 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Scale Space and Variational Methods in Computer Vision   Sgallari, Murli, and Paragios",
+        "Link": "https://drive.google.com/uc?export=download&id=18gs_l44R9alMgUA0TVS2JF-thJnEJzHc",
+        "Size": "26.71 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "S Programmining   Venables",
+        "Link": "https://drive.google.com/uc?export=download&id=1hhW-GEZW2yqKtXgdB5X-66nHa9LAf0P4",
+        "Size": "21.15 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Runtime Verification   Barringer",
+        "Link": "https://drive.google.com/uc?export=download&id=1akQKkLdfh-lkNtnHVZYz1Bi-zzUTevif",
+        "Size": "6.98 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Rule Based Reasoning, Programming and Applications   Bassiliades, Governatori, and Paschke",
+        "Link": "https://drive.google.com/uc?export=download&id=1aJv-R9bDXWlOsmb3wszlpr-jp-tKO428",
+        "Size": "6.05 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Rough Sets   Flores",
+        "Link": "https://drive.google.com/uc?export=download&id=1FmTXl2KFVsSpiO3wuB2EZHJyNg-eTivp",
+        "Size": "28.98 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Robotic Welding, Intelligence and Automation   Tarn, Chen, and Zhou",
+        "Link": "https://drive.google.com/uc?export=download&id=1pNGR-WvlE84XagiH0iuy914A_0qtWNAI",
+        "Size": "9.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Robot Intelligence An Advanced Knowledge Processing Approach   Liu",
+        "Link": "https://drive.google.com/uc?export=download&id=1G4nwTbVJMSONZRbiQtBN4uyTsd4gfyPp",
+        "Size": "19.35 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Rewriting Computation and Proof    Comon Lundh, Kirchner, and Kirchner",
+        "Link": "https://drive.google.com/uc?export=download&id=125FRu3uFmCn9L_1QHfK_I87rqUKeBBkN",
+        "Size": "3.45 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Replication Theory and Practice   Charron Bost, Pedone, and Schiper",
+        "Link": "https://drive.google.com/uc?export=download&id=1IA6AmItExK5q-2ycZerY8UPP7gnxaXFM",
+        "Size": "2.9 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Reliable Data Structures in C   Plum",
+        "Link": "https://drive.google.com/uc?export=download&id=16UP8cxabIrAUUYIwYiSrJEbdCDolh76q",
+        "Size": "1.12 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Reliability in Computing The Role of Interval Methods in Scientific Computing   Moore",
+        "Link": "https://drive.google.com/uc?export=download&id=1O_I_lOrf0n2py_6V9fNjcjwNkM9ECdzX",
+        "Size": "14.84 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Relational Database Theory   Atzeni and De Antonellis",
+        "Link": "https://drive.google.com/uc?export=download&id=1la4iV47-jdRs4QWiyY0AbFRXtCqNHNNr",
+        "Size": "4.05 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Recurrent Neural Networks for Prediction Learning Algorithms, Architectures, and Stability   Mandic and Chambers",
+        "Link": "https://drive.google.com/uc?export=download&id=1cGxhuRbFMZd68LUHGMDXN-KsO5iqKotf",
+        "Size": "9.92 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Recent Trends in Algebraic Development Techniques   Wirsing, Pattinson, and Hennicker",
+        "Link": "https://drive.google.com/uc?export=download&id=1w56ZjYQ4Ar4wGRNzxwkJV1Z_M6Cl49p8",
+        "Size": "4.77 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Recent Advances in Nonlinear Speech Processing   Esposito",
+        "Link": "https://drive.google.com/uc?export=download&id=1a-fl0UOhNuFgz-mF-o8HOaFzPX9LllRU",
+        "Size": "8.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Real World Haskell   O Sullivan, Goerzen, and Stewart",
+        "Link": "https://drive.google.com/uc?export=download&id=11K7ZBzrSPqbrGye_-VxqiOr3h_yXWK57",
+        "Size": "5.3 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Randomized Algortihms   Motwani and Raghavan",
+        "Link": "https://drive.google.com/uc?export=download&id=1sD3a6jGoKr6RNrAB6uBP7nHVQ_tGL8pX",
+        "Size": "8.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Randomized Algorithms   Motwani and Raghavan",
+        "Link": "https://drive.google.com/uc?export=download&id=16xSJ708c321051Q9FM3mec7IFkblKjQ9",
+        "Size": "8.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Quantum Cryptography and Secret Key Distillation   van Assche",
+        "Link": "https://drive.google.com/uc?export=download&id=1lReByOMN2Ttm7vTcTO3f9WxnvblHfS8P",
+        "Size": "1.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Quantum Computing for Computer Scientists   Yanofsky and Mannucci",
+        "Link": "https://drive.google.com/uc?export=download&id=17_68W3Kc4LkI6fXyEFpOmKtkMxEdCZfO",
+        "Size": "2.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Quantum Computing and Quantum Communications   Williams",
+        "Link": "https://drive.google.com/uc?export=download&id=1R1VJUoOYiqkPwWXEMDAg7aaWjWUhOgSD",
+        "Size": "5.24 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Quantum Computing An Environment for Intelligent Large Scale Real Application   Hassanien, Elhoseny, and Kacprzyk",
+        "Link": "https://drive.google.com/uc?export=download&id=1BoZK5dBsvMA1PwXsJ_HEl7TZC5xuppOP",
+        "Size": "15.69 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Quantum Attacks on Public Key Cryptosystems   Yan",
+        "Link": "https://drive.google.com/uc?export=download&id=15EG_-eHTg9LXRxzNgjuUxFJfZdEmitzV",
+        "Size": "3.34 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Python for Software Design How to Think Like a Computer Scientist   Downey",
+        "Link": "https://drive.google.com/uc?export=download&id=1vVOnch_IaymS8cC5YrRIoEHmW1Ua832q",
+        "Size": "1.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Python for Data Analysis   McKinney",
+        "Link": "https://drive.google.com/uc?export=download&id=1HM9cboQx5X41UpH0VR2Lhr6DHdsVahfk",
+        "Size": "8.34 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Python Crash Course   Matthes",
+        "Link": "https://drive.google.com/uc?export=download&id=10Lw1TgCb2p4aVHyY0pBCgLWa4e31eBDF",
+        "Size": "5.38 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Pyramidal Systems for Computer Vision   Cantoni and Levialdi",
+        "Link": "https://drive.google.com/uc?export=download&id=1IxlHyxFy_Df8nvwxce9GJ06QAyf8_cXd",
+        "Size": "10.68 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Pyramid Algorithms A Dynamic Programming Approach to Curves and Surfaces for Geometric Modeling   Goldman",
+        "Link": "https://drive.google.com/uc?export=download&id=1BtDOTRCZCHfKA9FYt59_Oc6Etyz0k1EK",
+        "Size": "22.12 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Public Key Cryptography   Salomaa",
+        "Link": "https://drive.google.com/uc?export=download&id=1fvy7kzZpK5WR_JRb95mb-R-DoU6Zg9Uz",
+        "Size": "12.39 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Provable Security   Boyen and Chen",
+        "Link": "https://drive.google.com/uc?export=download&id=1ZjNAYoTVDEqmgeOqiyxkH6r91YzCrSPc",
+        "Size": "4.2 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Proofs and Algorithms An Introduction to Logic and Computability   Dowek",
+        "Link": "https://drive.google.com/uc?export=download&id=1J93p-YbmB0dkxZ07KsucpkqkH1wfJ197",
+        "Size": "0.93 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Proof Theory in Computer Science   Kahle, Schroeder Heister, and Stark",
+        "Link": "https://drive.google.com/uc?export=download&id=1LTGpilvBq9bmu5p2ucSElOCjlqeKDXNJ",
+        "Size": "2.52 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Proof Theory for Fuzzy Logics   Metcalfe, Olivetty, and Gabbay",
+        "Link": "https://drive.google.com/uc?export=download&id=1c_jLS1GeSLHIk8Ocf4tgKJvvnX6EaF-M",
+        "Size": "3.15 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programs, Recursion and Unbounded Choice   Hesselink",
+        "Link": "https://drive.google.com/uc?export=download&id=1e7INn92FktXvdhghzI5hR6vPg3ohUgsJ",
+        "Size": "3.97 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programs, Proofs, Processes   Ferreira",
+        "Link": "https://drive.google.com/uc?export=download&id=1UgxiNSStwDOeWLYa0ru5n133RlgVx679",
+        "Size": "5.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming Python 4e   Lutz",
+        "Link": "https://drive.google.com/uc?export=download&id=1tKp8nME15Yp4cIYcVS04PVmVY3srbeUo",
+        "Size": "34.22 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming Languages Implementations, Logics, and Programs   Glaser, Hartel, and Kuchen",
+        "Link": "https://drive.google.com/uc?export=download&id=18GgwhBJLABSVEkMsKpm-IHcNcUuyS2Qj",
+        "Size": "6.8 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming Languages and Systems   Swierstra",
+        "Link": "https://drive.google.com/uc?export=download&id=1KXPtO93R1P1sQAXlIOD4qmWW3Qkvsy_T",
+        "Size": "3.88 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming Languages and Systems   Gordon",
+        "Link": "https://drive.google.com/uc?export=download&id=1t_yCOzoGPbQ__MgDxPaLf0izZPaI6Kt_",
+        "Size": "6.99 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming Language Explorations   Toal",
+        "Link": "https://drive.google.com/uc?export=download&id=1SPEF9ZCtfWKx2BzhNfeqOGOE4KVo5dZq",
+        "Size": "1.26 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming in Haskell   Hutton",
+        "Link": "https://drive.google.com/uc?export=download&id=1aB0jrQV-F6vUyegIXK5aluS8XhQFgmkx",
+        "Size": "0.65 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming C# 2e   Liberty",
+        "Link": "https://drive.google.com/uc?export=download&id=1OVgijLTahdzCxc2vpJS2jdhiV8kv31t8",
+        "Size": "7.15 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming Arduino Getting Started with Sketches 2e   Monk",
+        "Link": "https://drive.google.com/uc?export=download&id=1WiPN-ywJPaW3Qxfk4D4L8oxLob1_Lj47",
+        "Size": "9.11 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Programming Android   Mednieks",
+        "Link": "https://drive.google.com/uc?export=download&id=1HMs4R22pqfcpB_b4VDtHgm0u-KmmzrIG",
+        "Size": "10.49 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Progamming Languages Pragamatics 4e   Scott",
+        "Link": "https://drive.google.com/uc?export=download&id=1JPmPPlLhoQb5RlchNCWGoDAebXeaPbyY",
+        "Size": "6.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Problem Solving, Abstraction, and Design using C++ 6e   Friedman and Koffman",
+        "Link": "https://drive.google.com/uc?export=download&id=1OOPFpKUsJV2PIRaNCC4jZSMPBRxzkf8k",
+        "Size": "6.77 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Problem Solving and Program Design in C 8e   Hanly and Koffman",
+        "Link": "https://drive.google.com/uc?export=download&id=1Yc3jFGZDWml4xurgxq1HimROqpbcAp_9",
+        "Size": "32.65 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Probabilistic Proof Systems A Primer   Goldreich",
+        "Link": "https://drive.google.com/uc?export=download&id=176-aWKJuxZLgBoMB6afYV3kLjqjTaEE5",
+        "Size": "0.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Probabilistic and Statistical Methods in Cryptology   Neuenschwander",
+        "Link": "https://drive.google.com/uc?export=download&id=1vQVrwLcLx7mLu5d2rE2SN6AVxZlIvw0L",
+        "Size": "0.94 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Privacy and Big Data   Craig and Ludloff",
+        "Link": "https://drive.google.com/uc?export=download&id=1an1dfFOYXDo1NNP2oCa3d43BtURb_fCk",
+        "Size": "6.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Principles of Modern Digital Design   Lala",
+        "Link": "https://drive.google.com/uc?export=download&id=1Zt9SmpuTIv1uWyKzQEk5zeSongNBsamR",
+        "Size": "4.74 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Principles of Data Mining   Bramer",
+        "Link": "https://drive.google.com/uc?export=download&id=1BnforBHmoNLqwqN1j-ypto73bt1ZF_mZ",
+        "Size": "2.81 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Practical Probabilistic Programming   Pfeffer",
+        "Link": "https://drive.google.com/uc?export=download&id=1SBas6QtyRZhfy36x_rUdvEEpwdEo3jaH",
+        "Size": "6.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Practical Cryptography   Ferguson and Schneier",
+        "Link": "https://drive.google.com/uc?export=download&id=1FIDf7C0e7qBgLG8J84Ckl0gHpTsQOnLi",
+        "Size": "63.57 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Practical Aspects of Declarative Languages 2008   Hudak and Warren",
+        "Link": "https://drive.google.com/uc?export=download&id=1lEMBiWsv-BC_MoOfZoaLeUR_URThxTrA",
+        "Size": "6.65 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Practical Aspects of Declarative Languages 2004   Jayaraman",
+        "Link": "https://drive.google.com/uc?export=download&id=175MV1ZtyefyrpTSQhQzC_MUcqh_X0RQs",
+        "Size": "2.22 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Post Quantum Crytopgraphy   Buchmann and Ding",
+        "Link": "https://drive.google.com/uc?export=download&id=1sGzfbLkdVs-zj5LGuErxJvld6Ic5hP7L",
+        "Size": "2.28 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Post Quantum Cryptography   Bernstein, Buchmann, and Dahmen",
+        "Link": "https://drive.google.com/uc?export=download&id=1JODa2ZzJPl8KGwqRaFZQjtzNATyf-Ph_",
+        "Size": "1.96 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Picture Languages Formal Models for Picture Recognition   Rosenfeld",
+        "Link": "https://drive.google.com/uc?export=download&id=1eAeaqaRFb491b4LQklTiQV1CC8MzQucf",
+        "Size": "10.75 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Perceptrons An Introduction to Computational Geometry",
+        "Link": "https://drive.google.com/uc?export=download&id=1zLdjFFzEJPYpNGj6y4qvowPuM5CfzV-v",
+        "Size": "13.34 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Perceptrons An Introduction to Computational Geometry   Minsky and Papert",
+        "Link": "https://drive.google.com/uc?export=download&id=1R95HSh7QFpsHLrtWcYiC6XCfJxj8hsGt",
+        "Size": "11.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Pattern Recognition and Machine Learning   Bishop",
+        "Link": "https://drive.google.com/uc?export=download&id=1yAAYdOJuRbuatuNDjqsWszevP6VMvOOv",
+        "Size": "17.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Pattern Recognition 2e   Theodoridis and Koutroumbas",
+        "Link": "https://drive.google.com/uc?export=download&id=15sRLL5BlkagKSq1OlpEfOdou2l30fMf_",
+        "Size": "17.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Pattern Classification   Duda, Hart, and Stork",
+        "Link": "https://drive.google.com/uc?export=download&id=1XlwazvqzrCq3XXuNDFiOIoXaFrpZ3Xuo",
+        "Size": "11.28 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Parsing Techniques A Practical Guide 2e   Grune and Jacobs",
+        "Link": "https://drive.google.com/uc?export=download&id=1qmwf3bNwYGeoaOiONhH_5oPoDqm2KNfx",
+        "Size": "2.9 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Parameterized Complexity Theory   Flum and Grohe",
+        "Link": "https://drive.google.com/uc?export=download&id=1js2NFobSjGXClIGnWjgSn_MirBPFqYRm",
+        "Size": "3.68 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Parallel Sorting Algorithms   Akl",
+        "Link": "https://drive.google.com/uc?export=download&id=116gw9kyVm8gWScFMpBNFvwblLuRoXX4u",
+        "Size": "11.03 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Parallel and Concurrent Programming in Haskell Techniques for Multicore and Multithreaded Programming   Marlow",
+        "Link": "https://drive.google.com/uc?export=download&id=1IxPutpds5NCtCw8qHSTXGoB25DN_vZhr",
+        "Size": "18.06 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "P, NP, and NP Completeness The Basics of Computational Complexity   Goldreich",
+        "Link": "https://drive.google.com/uc?export=download&id=1-n7vUgxq8HMlTZsjLhJzhcSQgr78HYEg",
+        "Size": "1.11 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Origins and Foundations of Computing   Bauer",
+        "Link": "https://drive.google.com/uc?export=download&id=1fFxZtTGEURDZrwL_rEYVAaVh_0TERJFO",
+        "Size": "3.73 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Operating Systems Concepts Essentials   Silberschatz",
+        "Link": "https://drive.google.com/uc?export=download&id=1e2NLf6U5z_ItX7FEv_RAvDw9sMI-5Ukq",
+        "Size": "5.71 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Operating Systems   Tsichritzis and Bernstein",
+        "Link": "https://drive.google.com/uc?export=download&id=1X1gpajSAfdKwksjyvjmn_zKv_m9HjVdJ",
+        "Size": "17.29 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Objects, Abstraction, Data Structures and Design Using C++   Koffman and Wolfgang",
+        "Link": "https://drive.google.com/uc?export=download&id=1kPnP3oRzS46DZQ21vSytZQLPYgbdRJLL",
+        "Size": "13.43 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Numerical Recipes The Art of Scientific Computing   Press",
+        "Link": "https://drive.google.com/uc?export=download&id=1RglsYODQWGnXu-3H-YMTPcLpKCRtoHfi",
+        "Size": "7.02 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Numerical Methods of Mathematical Optimization With ALGOL and FORTRAN Programs    Kunzi, Tzschach, and Zehnder",
+        "Link": "https://drive.google.com/uc?export=download&id=1wAZTig5PHOGQISL7FEnHKdBzKipWKopY",
+        "Size": "8.67 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Numerical Linear Algebra on High Performance Computers   Duff, Sorensen, and van der Vorst",
+        "Link": "https://drive.google.com/uc?export=download&id=1IF5ws0NEDKuNYb89AexWzqiZ_iF4U8pq",
+        "Size": "32.6 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Numerical Computation Using C   Glassey",
+        "Link": "https://drive.google.com/uc?export=download&id=1KXJ1e3mugQuLRoNDD-xDjdMFfjYD8uAk",
+        "Size": "8.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Next Generation of Data Mining   Kargupta",
+        "Link": "https://drive.google.com/uc?export=download&id=1pytoiYIuPB-jesU1ZRw-U9N7pXJiQ9fh",
+        "Size": "21.53 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "New Computational Paradigms Changing Conceptions of What is Computable   Cooper, Löwe, and Sorbi",
+        "Link": "https://drive.google.com/uc?export=download&id=1sFNLk5QbKPB-_mlyhRYydgRfFsHlbZnz",
+        "Size": "4.91 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "New Computational Paradigms   Cooper, Löwe, and Torenvliet",
+        "Link": "https://drive.google.com/uc?export=download&id=1-M-Mpr16EbVh1uomNn6pih2H6s3ZmwSd",
+        "Size": "6.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Neuro Fuzzy Pattern Recognition   Bunke and Kandel",
+        "Link": "https://drive.google.com/uc?export=download&id=1S4QPVeBTR_O13aSwdp1UDfgl37KU2bAU",
+        "Size": "26.99 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Neural Symbolic Learning Systems Foundations and Applications   d’Avila Garcez,  Broda, and Gabbay",
+        "Link": "https://drive.google.com/uc?export=download&id=15UULh6RlIuOfwb3af7qz0lDew09VHJAA",
+        "Size": "10.2 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Neural Advances in Processing Nonlinear Dynamic Signals   Esposito",
+        "Link": "https://drive.google.com/uc?export=download&id=17tPJx6igyHOTbMAk4iAwHSQKo21PJWVt",
+        "Size": "9.34 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Network Warrior 2e   Donahue",
+        "Link": "https://drive.google.com/uc?export=download&id=1WbFEdSWOu4xRLsVJb3L9edgQ4A70Tm9L",
+        "Size": "26.7 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Network Security Private Communication in a Public World   Kaufman, Perlman, and Speciner",
+        "Link": "https://drive.google.com/uc?export=download&id=10nJIHXnU9Fq2J3xNP9LUe4-pTnmJU08T",
+        "Size": "29.93 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Nature Inspired Optimization Algorithms   Yang",
+        "Link": "https://drive.google.com/uc?export=download&id=1xpFnRMvBaaqvY7zduKpADaKDCwXjZG2n",
+        "Size": "12.33 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Natural Language Annotation for Machine Learning   Pustejovsky and Stubbs",
+        "Link": "https://drive.google.com/uc?export=download&id=1jspZczrojtXcMELBcuChbqOcscOWTIZ5",
+        "Size": "10.42 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Multimodal Sentiment Analysis   Poria, Hussain, and Cambria",
+        "Link": "https://drive.google.com/uc?export=download&id=100XaXhhpRJId9DHqGdeV_yPRDc-JcLiF",
+        "Size": "4.97 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Multi indicator Systems and Modelling in Partial Order   Brüggemann, Carlsen, and Wittmann",
+        "Link": "https://drive.google.com/uc?export=download&id=1ONMgJsHy_l7YWeHM5OLJasPmfEPlOgYT",
+        "Size": "8.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Modern Geometric Computing for Visualization   Kunii and Shinagawa",
+        "Link": "https://drive.google.com/uc?export=download&id=1YO-Q0Igwa1x7CNa-Np9anDPQT9shTdKi",
+        "Size": "7.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Modern Fortran in Practice   Markus",
+        "Link": "https://drive.google.com/uc?export=download&id=1QSgs3cVmID_-H5lUK4q0bq4R_BPccqBX",
+        "Size": "1.13 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Modern Cryptography, Probabilistic Proofs and Pseudorandomness   Goldreich",
+        "Link": "https://drive.google.com/uc?export=download&id=1t_UDZBcaRhB5i1vZK4rSpKA_WdlvRuHH",
+        "Size": "5.03 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Modern Coding Theory   Richardson and Urbanke",
+        "Link": "https://drive.google.com/uc?export=download&id=1QFnupseGJZgWOfxzDLEO4JpM_uFMS_wh",
+        "Size": "4.38 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mobile Networks and Management   Hu",
+        "Link": "https://drive.google.com/uc?export=download&id=17AhcutPcdzLw9lqwrfHCBb4sVadWQMX-",
+        "Size": "25.72 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mining Text Data   Aggarwal and Zhai",
+        "Link": "https://drive.google.com/uc?export=download&id=1HPJ4VA-S1Tv7FWVX0WaMxML0XbGQTK4m",
+        "Size": "11.13 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Microchip Mathematics Number Theory for Computer Users   Keith J. Devlin",
+        "Link": "https://drive.google.com/uc?export=download&id=18FuOstnwRRzPnDvg6y1ELaiSAIY1P_uQ",
+        "Size": "2.94 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mercuiral The Definitive Guide   O Sullivan",
+        "Link": "https://drive.google.com/uc?export=download&id=1eGEwhblB6dELTCgTbtmA0DkCvsMV_tjZ",
+        "Size": "1.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mcintyre solutions.7z",
+        "Link": "https://drive.google.com/uc?export=download&id=14xA-u789AuDhayBaAorGyVO0G_lAoYZ_",
+        "Size": "40.24 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "MATLAB Demystified   McMahon",
+        "Link": "https://drive.google.com/uc?export=download&id=1xUbz1_t3_MHwzvxBe_qAjQ03b4kiBHhM",
+        "Size": "4.65 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematics of Program Construction   Audebaud and Paulin Mohring",
+        "Link": "https://drive.google.com/uc?export=download&id=1OWDpaxyQ5mJCjRy4XFwlTEZPUsmAJfjt",
+        "Size": "4.43 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematics for Computer Graphics Applications 2e   Mortenson",
+        "Link": "https://drive.google.com/uc?export=download&id=1HnivMuI7lBTtUdM504QB1ihl1CzMhY_o",
+        "Size": "4.3 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematics for Computer Graphics 3e   Vince",
+        "Link": "https://drive.google.com/uc?export=download&id=1YymptcvZZvYc4qCrwp_73Ud334VUvKDk",
+        "Size": "1.67 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematics for 3D Game Programming and Computer Graphics 3e   Lengyel",
+        "Link": "https://drive.google.com/uc?export=download&id=1g4CJ-DBJnvBvRhJlQ8G0LKQCY-pkpYid",
+        "Size": "4.55 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematical Software   Fukuda",
+        "Link": "https://drive.google.com/uc?export=download&id=1JIZOIi7zXapE236IqLuMcqdfm92i4mJx",
+        "Size": "5.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematical Optimization in Computer Graphics and Vision   Velho",
+        "Link": "https://drive.google.com/uc?export=download&id=1O-eNs380RQUmFchgaoPg1GXmN9ya-gSY",
+        "Size": "2.18 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematical Objects in C++ Computational Tools in A Unified Object   Shapira",
+        "Link": "https://drive.google.com/uc?export=download&id=14JFlCkN4HKpF0CXBkeZDL_oR6q4VmR5H",
+        "Size": "7.57 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematical Logic for Computer Science 3e   Ben Ari",
+        "Link": "https://drive.google.com/uc?export=download&id=13hErMI3zcvJW4NZKihs_iSdYW6J-rgBc",
+        "Size": "1.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematical Knowledge Management   Borwein and Farmer",
+        "Link": "https://drive.google.com/uc?export=download&id=1xNhtoqGzFykd2K1A9kvep9dTG0XNjws6",
+        "Size": "4.17 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mathematical Algorithms for Linear Regression   Späth",
+        "Link": "https://drive.google.com/uc?export=download&id=1afBIiFMDISXusZpZddCU0nvld2aaTn5k",
+        "Size": "14.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Mastering Bitcoin Programming The Open Blockchain   Antonopoulos",
+        "Link": "https://drive.google.com/uc?export=download&id=1Tv1Z8r0LqTGYTZ1jK9xYvyEpvLAUBG-m",
+        "Size": "12.53 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Managing Gigabytes Compressing and Indexing Documents and Images   Witten, Moffat, and Bell",
+        "Link": "https://drive.google.com/uc?export=download&id=1m5piFXv_qqTCv3pq1N1UWlroNX6POP25",
+        "Size": "37.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Managing and Mining Graph Data   Aggarwal and Wang",
+        "Link": "https://drive.google.com/uc?export=download&id=1y0h7GwYFDtwoZKA-v_iAGr3IUQYKqk4B",
+        "Size": "7.8 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Making Embedded Systems  Design Patterns for Great Software   White",
+        "Link": "https://drive.google.com/uc?export=download&id=11OCRS5MeLJ3ZA8KLKOd27i9R9ku6uxIR",
+        "Size": "12.81 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Make Your Own Neural Network   Tariq Rashid",
+        "Link": "https://drive.google.com/uc?export=download&id=1pzkU3br4EifkVqSy1E1jZ1REc1bhjE4v",
+        "Size": "15.29 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Make Sensors Projects and Experiments to Measure the World with Arduino and Raspberry Pi  Kariven   Valtokari",
+        "Link": "https://drive.google.com/uc?export=download&id=1jSRELf9Svus3FNQIYkFFMkpqd4Le52B6",
+        "Size": "21.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Machine Learning A Constraint based Approach   Gori",
+        "Link": "https://drive.google.com/uc?export=download&id=180dAMJrPRUD9VR2q9Wr0YIeD2R7yQITX",
+        "Size": "4.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logics of Programs and Their Applications   Salwicki.djvu",
+        "Link": "https://drive.google.com/uc?export=download&id=1u1AuFQp5QMezBGnpy2x9phDSTJ1aLyhW",
+        "Size": "4.21 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logical Frameworks   Huet and Plotkin",
+        "Link": "https://drive.google.com/uc?export=download&id=1B2RY64lkzRQu6c9nR167PIalW7c1Livc",
+        "Size": "4.28 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logical Foundations of Proof Complexity   Cook and Nguyen",
+        "Link": "https://drive.google.com/uc?export=download&id=1_CGTq3EdRR9wqU8zvhsFcErSbpZquinf",
+        "Size": "2.58 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logical Foundations of Functional Programming   Huet",
+        "Link": "https://drive.google.com/uc?export=download&id=1t7URmmio-yi4Me9HORhU1zYnA33UtLH8",
+        "Size": "41.21 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logical Aspects of Computational Linguistics   Lecomte, Lamarche, and Perri",
+        "Link": "https://drive.google.com/uc?export=download&id=1KDVxvEY70O-LepnrLn2CEWXtgJzKTXWe",
+        "Size": "2.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logic Programming   Demoen and Lifschitz",
+        "Link": "https://drive.google.com/uc?export=download&id=1_e59kVs3ml4e2vsnucknISd2n3wFHnhu",
+        "Size": "8.59 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logic Functions and Equations Examples and Exercises   Steinbach and Posthoff",
+        "Link": "https://drive.google.com/uc?export=download&id=1YCqE2aglw33DMV-rrCx5XegOBLU5gVFr",
+        "Size": "2.84 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logic From Computer Science   Moschovakis",
+        "Link": "https://drive.google.com/uc?export=download&id=1m35Ci327CHxaAjuvknPo74cY5br-pwkk",
+        "Size": "14.72 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logic for Applications   Nerode and Shore",
+        "Link": "https://drive.google.com/uc?export=download&id=1IlcBSREQnBnIwaqmVNi9aPG2nOl9EeGe",
+        "Size": "10.27 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Logic and Algebra of Specification   Bauer, Brauer, and Schwichtenberg",
+        "Link": "https://drive.google.com/uc?export=download&id=19tcgBNBzwmyW1ybRhwDQL8D_dGtB2vCt",
+        "Size": "15.9 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Lists, Decisions and Graphs With an Introduction to Probability   Bender and Williamson",
+        "Link": "https://drive.google.com/uc?export=download&id=1jjhzfHAzFwJWdsKEXitDiB0YG6T78ZWw",
+        "Size": "3.28 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Linear Programming and its Applications   Eiselt and Sandblom",
+        "Link": "https://drive.google.com/uc?export=download&id=1CIiOiQSIxluAw5TJFHQiD06gcClgkhdS",
+        "Size": "3.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Linear Programming and Generalizations   Denardo",
+        "Link": "https://drive.google.com/uc?export=download&id=18xrFmjloK6nU0-KVyhR4XzJ3d-Htd3_8",
+        "Size": "9.06 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Linear Dependence Theory and Computation   Afriat",
+        "Link": "https://drive.google.com/uc?export=download&id=1984Bvyw33dcy96kQswwIS9L1iTJHWsHD",
+        "Size": "5.11 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Lindenmayer Systems Impacts on Theoretical Computer Science, Computer Graphics and Developmental Biology   Rozenberg and Salomaa",
+        "Link": "https://drive.google.com/uc?export=download&id=1pGD3qSOP5GFW_aYpVZzxQ5QctcfTmRDs",
+        "Size": "12.73 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Limits of Computation From a Programming Perspective   Reus",
+        "Link": "https://drive.google.com/uc?export=download&id=1MucGXcXWylNSTldJTQTO5tbbtID2vWi0",
+        "Size": "7.52 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Lectures on the Logic of Computer Programming   Manna.djvu",
+        "Link": "https://drive.google.com/uc?export=download&id=1uRZsEWrylP4Y-bd6AvJNkseiYlSXGZKa",
+        "Size": "0.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Learning Theory   Bshouty and Gentile",
+        "Link": "https://drive.google.com/uc?export=download&id=10rHm64lYaJXi47QlEqts7pPXkpzOwH7s",
+        "Size": "6.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Learning R   Cotton",
+        "Link": "https://drive.google.com/uc?export=download&id=1TrobTtNooVsRX-3g69coBeMSk58pkAfe",
+        "Size": "13.55 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Learning Language in Logic   Cussens and Džeroski",
+        "Link": "https://drive.google.com/uc?export=download&id=1F0UkWrmJqOHzMYTfZaYwEWxLZmeQwxCC",
+        "Size": "2.0 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Learn You a Haskell for Great Good! A Beginner s Guide   Lipovaca",
+        "Link": "https://drive.google.com/uc?export=download&id=1Q5iiNaSwfRAGjMLggywwlbAyb_nhirn8",
+        "Size": "9.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Languages and Compilers for Parallel Computing   Midkiff",
+        "Link": "https://drive.google.com/uc?export=download&id=1ZZ8QhipodioHsH1zxPMQYZTjdOdUHSNQ",
+        "Size": "5.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Language Hierarchies and Interfaces   Goos and Hartmanis",
+        "Link": "https://drive.google.com/uc?export=download&id=1dHdqixRhQ4ornSBuTJECmKm2i3B1_igh",
+        "Size": "9.08 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Kernelization Theory of Parameterized Preprocessing   Fomin",
+        "Link": "https://drive.google.com/uc?export=download&id=1HXmz1JqW1R5IkyKpxjy4kaEhbENwPPec",
+        "Size": "2.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "JavaScript The Good Parts   Crockford",
+        "Link": "https://drive.google.com/uc?export=download&id=1xx7YL7kP8F8yZJza6kN1CUwncJZxu8nZ",
+        "Size": "4.54 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "JavaScript The Definitive Guide   Flanagan",
+        "Link": "https://drive.google.com/uc?export=download&id=1f_JA9WZ2TuKZ3xysKCt8PAmXQ5Btyzxx",
+        "Size": "6.46 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "JavaScript Patterns   Stepanov",
+        "Link": "https://drive.google.com/uc?export=download&id=1vDTKEFjYSSDyPfn61AL9bEyizZOKYJdH",
+        "Size": "3.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Java How to Program 9e   Deitel",
+        "Link": "https://drive.google.com/uc?export=download&id=1dhmo74KbEUBWe35UkTPG_3b57-S0IAmQ",
+        "Size": "24.09 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Invitation to Computer Science 8e   Schneider",
+        "Link": "https://drive.google.com/uc?export=download&id=1icQpoHB3A4aVHZ8SbrGsgnPhrd__6m8m",
+        "Size": "23.17 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to the Theory of Computation 2e   Sipser",
+        "Link": "https://drive.google.com/uc?export=download&id=1GAZuK8dkstGQKodDATsNFAXf6wHKl3-G",
+        "Size": "57.16 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Software Engineering 2e   Leach",
+        "Link": "https://drive.google.com/uc?export=download&id=1MGWiKKk6u_HTQHfySaGJcJFc9UeL7p4j",
+        "Size": "27.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Programming in Java An Interdisciplinary Approach 2e   Sedgewick and Wayne",
+        "Link": "https://drive.google.com/uc?export=download&id=11d6HZ-1jmpRCxXQ2lAG6v_LqSFWim5cV",
+        "Size": "12.52 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Languages and The Theory of Computation 4e   Martin",
+        "Link": "https://drive.google.com/uc?export=download&id=1E-3H86e8G1BFXl5MGm4gSziYJuF0TH8R",
+        "Size": "3.29 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Information Retrieval   Hanning, Raghavan, and Schutze",
+        "Link": "https://drive.google.com/uc?export=download&id=1AjlgARJ6MebUcg53yz0ZoAXZwE48qhkI",
+        "Size": "4.78 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Deep Learning   Charniak",
+        "Link": "https://drive.google.com/uc?export=download&id=1WtbVGNVQR8Bo4LyXIQcGbJlS18n8ZtoE",
+        "Size": "16.33 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Cryptography with Maple   Pardo",
+        "Link": "https://drive.google.com/uc?export=download&id=1ADrrZGITr3ffW2vSFq3uCWUgBVHVqleL",
+        "Size": "5.81 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Computer Theory   Cohen",
+        "Link": "https://drive.google.com/uc?export=download&id=1YCezLz-R0GWcVz4o3YbNzEkQDOEFlyEq",
+        "Size": "24.82 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Complexity Theory   Goldreich",
+        "Link": "https://drive.google.com/uc?export=download&id=1MYrxXLtL3ZMPKMRzWH7IVy_arw6OmL_I",
+        "Size": "18.34 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Compiler Design   Mogensen",
+        "Link": "https://drive.google.com/uc?export=download&id=1I_2VEwS99yQa0UpVJWd1YgNNXZngYzHd",
+        "Size": "1.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to C++ Programming and Graphics   Pozrikidis",
+        "Link": "https://drive.google.com/uc?export=download&id=1e1NxzW4X38F2bdGB3oG1qg4uuh2FX3Ke",
+        "Size": "2.34 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Artificial Intelligence   Charniak and McDermott",
+        "Link": "https://drive.google.com/uc?export=download&id=1kl48L0Dea6YjgwhzTfhlnO639f332Wu3",
+        "Size": "29.58 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Introduction to Algorithms 2e   MIT press",
+        "Link": "https://drive.google.com/uc?export=download&id=1K_8XSog2lBj2HAJ5R7A_rwqoWA4LvV6K",
+        "Size": "12.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Interconnections Bridges, Routers, Switches, and Internetworking Protocols   Perlman",
+        "Link": "https://drive.google.com/uc?export=download&id=1hRI0yt9E6qD-_VZmtH9F6uueBDKJ2dYy",
+        "Size": "3.05 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Intelligent Data Mining Techniques and Applications   Ruan",
+        "Link": "https://drive.google.com/uc?export=download&id=1bwhV69_W1otv_kP2ijOViQhV8MOXp2Zu",
+        "Size": "9.99 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Intelligent Automation and Computer Engineering   Ao, Castillo, and Huang",
+        "Link": "https://drive.google.com/uc?export=download&id=14aUaXwEOwLq9Bn90YYiH7I5qP6JyVA2y",
+        "Size": "31.16 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Integrated Formal Methods   Davies and Gibbons",
+        "Link": "https://drive.google.com/uc?export=download&id=131UbZQf5EBPKcc3__QUHuJIMs7Zj3uNz",
+        "Size": "6.13 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Inside the machine  an illustrated introduction to microprocessors and computer architecture   Stokes",
+        "Link": "https://drive.google.com/uc?export=download&id=1VQGqeI2-9T6agOROjuVtHvZ3tQg1F4xN",
+        "Size": "9.79 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Innovative Internet Computing Systems    Unger, Böhme, and Mikler",
+        "Link": "https://drive.google.com/uc?export=download&id=17ZUuJ62U5B2rIn1tqvmEvUxkZV2PH5q8",
+        "Size": "4.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Information, Physics, and Computation   Mezard and Montanari",
+        "Link": "https://drive.google.com/uc?export=download&id=1bhCObP98Iqa61ia6uc9WXlPJZSc2INkX",
+        "Size": "8.16 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Information Theoretic Security and Privacy of Information Systems   Schaefer",
+        "Link": "https://drive.google.com/uc?export=download&id=1eRdwUaXtIk5mhfFJpRREAJjyx3mOx_Eh",
+        "Size": "4.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Information Technology and Computational Physics   Kulczycki",
+        "Link": "https://drive.google.com/uc?export=download&id=1o2lavTWMryqtf4f1TAG7O78o1vwNij_h",
+        "Size": "7.52 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Information Hiding   Filler",
+        "Link": "https://drive.google.com/uc?export=download&id=17pTaK_rrFAzk2L5yPk46QCkthClwW6Wy",
+        "Size": "5.93 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Information and Randomness An Algorithmic Perspective 2e   Calude",
+        "Link": "https://drive.google.com/uc?export=download&id=1Z3NxSDVyxa-KeTcwgPO1nFhLmgMcebJE",
+        "Size": "32.47 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Inconsistency Tolerance   Bertossi, Hunter, and Schaub",
+        "Link": "https://drive.google.com/uc?export=download&id=1iTurDlkiVcT5jtfvl21BEE3nt2yFXDx3",
+        "Size": "4.42 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Implementation of Functional Languages   Trinder, Michaelson, and Peña",
+        "Link": "https://drive.google.com/uc?export=download&id=1G4IKckbV_A2GUUhURGehnK3VxODaEs9y",
+        "Size": "1.8 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Hybrid Optimization The Ten Years of CPAIOR   Milano and Hentenryck",
+        "Link": "https://drive.google.com/uc?export=download&id=18bixdZA4Tz8TWWfHwkNYDNMcJ7BAZ675",
+        "Size": "6.0 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "How to Think Like a Computer Scientist Learning with Python   Downey, Elkner, and Meyers",
+        "Link": "https://drive.google.com/uc?export=download&id=1OoDKhSiEwMKigtm-XINZlZyldWpJ3DZr",
+        "Size": "0.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "How to Solve It Modern Heuristics 2e   Michalewicz and Fogel",
+        "Link": "https://drive.google.com/uc?export=download&id=1AQzBgGVktlt718KJCgloS_XPpDGLM8RD",
+        "Size": "26.75 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "How to Design Programs An Introduction to Progamming and Computing 2e   Felleisen, Findler, Flatt, and Krishnamurthi",
+        "Link": "https://drive.google.com/uc?export=download&id=1xz_8VzvjJsbDi_Kt63VsKoTm6tonj_Vx",
+        "Size": "63.83 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "How To Design Programs   Felleisen",
+        "Link": "https://drive.google.com/uc?export=download&id=1RL_hFzYd770ydWwNuBnaWGWq-txLFwXd",
+        "Size": "25.77 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "How to Build a Digital Library   Witten and Bainbridge",
+        "Link": "https://drive.google.com/uc?export=download&id=1n-Nje8eu_-C9P9M_0MwKDvynEUQbONua",
+        "Size": "15.93 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "How Linux Work What Every Superuser Should Know 2e   Ward",
+        "Link": "https://drive.google.com/uc?export=download&id=1tdpow8XXYr4jCbVPHI4SvX0hFekiGgfv",
+        "Size": "4.95 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "High Performance Algorithms and Software for Nonlinear Optimization   Di Pillo and Murli",
+        "Link": "https://drive.google.com/uc?export=download&id=1R5hU8llqlVhqa4aK4FOALUZvVrHSzWXx",
+        "Size": "33.39 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "High Density Data Storage Principles, Technology, and Materials   Song and Zhu",
+        "Link": "https://drive.google.com/uc?export=download&id=1xWQ1vsc4t6pK4QtZvbxsgX-OB4cO-IBQ",
+        "Size": "20.08 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Haskell The Craft of Functional Programming   Thompson",
+        "Link": "https://drive.google.com/uc?export=download&id=1Jr8SrU7RYDVEUbRphUk7_7ITtxKgbetx",
+        "Size": "13.26 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "HandsOn Machine Learning with ScikitLearn and TensorFlow   Geron",
+        "Link": "https://drive.google.com/uc?export=download&id=1BB1POujA07-WGX5nBF_qsI3swQygOhTf",
+        "Size": "39.66 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Handbook of Real Time Fast Fourier Transforms Algorithms to Product Testing   Smith",
+        "Link": "https://drive.google.com/uc?export=download&id=1Vj5gAvlqyeoSaFK-4AVUr5N7tNbWDARo",
+        "Size": "51.89 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Handbook of Dynamic System Modeling   Fishwick",
+        "Link": "https://drive.google.com/uc?export=download&id=1pYqWn0PrkoBWHOGDdBVxVRxESzHcomt1",
+        "Size": "7.17 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Handbook of Automatic Computation Vol. II Linear Algebra   Wilkinson and Reinsch",
+        "Link": "https://drive.google.com/uc?export=download&id=1uGIgQ6vzOTbM2r7WSkEUcxPdfiwkJV--",
+        "Size": "13.77 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Handbook of Algorithms and Data Structures In Pascal and C 2e   Connet and Yates",
+        "Link": "https://drive.google.com/uc?export=download&id=12tQ-MGV4-24fxXe1k9xyJnmpj21d-Fli",
+        "Size": "17.64 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Handbook for Automatic Computation Vol. I Part b Translation of Algol 60   Grau, Hill, and Langmaack",
+        "Link": "https://drive.google.com/uc?export=download&id=1x-cwBJBI9UIOBiGB4RF5WMTp1i7fik0H",
+        "Size": "7.12 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Hacking The Art of Exploitation 2e   Erickson",
+        "Link": "https://drive.google.com/uc?export=download&id=19sJEqpR2cHPgEj3b-yXWW-_nM3vwTDgQ",
+        "Size": "4.35 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Group based Cryptography   Myasnikov, Shpilrain, and Ushakov",
+        "Link": "https://drive.google.com/uc?export=download&id=1C1M61tmvlrxwstc1WwlIuYz2PN9cWte-",
+        "Size": "2.21 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Grey Systems Theory and Applications   Liu and Lin",
+        "Link": "https://drive.google.com/uc?export=download&id=1BnqeMU3pqJ74RQs7zVT2pGTOaQb7usnZ",
+        "Size": "4.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Graph Transformation   Corradini",
+        "Link": "https://drive.google.com/uc?export=download&id=1GxCOpTx7vBQ0Lp_P1jj35Gnm1zIy9IcS",
+        "Size": "6.4 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Graph Separators, with Applications   Rosenberg and Heath",
+        "Link": "https://drive.google.com/uc?export=download&id=1Ixywql-8TexpgTWbV4CoCwFmI2r4UC84",
+        "Size": "5.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Globalizing Domain Specific Languages   Cheng",
+        "Link": "https://drive.google.com/uc?export=download&id=157BxAqwSyr2Cve2ZFwlVN5cGh9w01VfD",
+        "Size": "6.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Gift",
+        "Link": "https://drive.google.com/uc?export=download&id=1WD9hgUKCdmzvTOjGrmstxWiYv7Vwguin",
+        "Size": "3.02 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Geospatial Semantics and the Semantic Web Foundations, Algorithms, and Applications    Ashish and Sheth",
+        "Link": "https://drive.google.com/uc?export=download&id=1Lq7O3MLqJeAe5q8jV3rVzdAdEnLsYeF0",
+        "Size": "2.71 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Generic Programming Advanced Lectures   Backhouse and Gibbons",
+        "Link": "https://drive.google.com/uc?export=download&id=1mVEWu_vJTrX7GrBkcmQlwA0_TO1E506N",
+        "Size": "3.01 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Generic Programming   Gibbons and Jeuring",
+        "Link": "https://drive.google.com/uc?export=download&id=1ZFZrc7yiP4Ipvz7PHxK0WlzFoO1aZI-J",
+        "Size": "7.32 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Generative Programming Principles and Techinques of Software Engineering Based on Automated Configuration and Fragment Based Componenet Models   Czarnecki and Eisenecker",
+        "Link": "https://drive.google.com/uc?export=download&id=1emIGfvPRz--zWdaXWBHrE02Zu0shO-Ig",
+        "Size": "1.73 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Generative Deep Learning Teaching Machines to Paint, Write, Compose, and Play   Foster",
+        "Link": "https://drive.google.com/uc?export=download&id=1FOKmhwWwC6yFn1kDGpdiIfhb7Z-vJivV",
+        "Size": "29.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Generative Adversarial Networks Projects Build Next Generation Generative Models Using TensorFlow and Keras   Ahirwar",
+        "Link": "https://drive.google.com/uc?export=download&id=158tjif5IomWyws3Epoz8FtEnd0WfgsLz",
+        "Size": "16.07 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Generative Adversarial Networks Cookbook Over 100 recipes to build generative models using Python, TensorFlow, and Keras   Kalin",
+        "Link": "https://drive.google.com/uc?export=download&id=1Ihv_Hl3a-TENatb4jQU6HWdWflG8AYmg",
+        "Size": "8.77 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Game Engine Gems 3   Lengyel",
+        "Link": "https://drive.google.com/uc?export=download&id=1scyRTNd_5MVF7F0_r9EfWmbNYuJRv2Ta",
+        "Size": "10.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Game Engine Gems 2   Lengyel",
+        "Link": "https://drive.google.com/uc?export=download&id=1Np4Xehg4twvPRq1UPzfA5VGLBLdRL4lT",
+        "Size": "11.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Game Engine Gems 1   Lengyel",
+        "Link": "https://drive.google.com/uc?export=download&id=11yg_fkFuzJKx8BsuxfXCvogznTY1stBb",
+        "Size": "4.54 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fuzzy Systems in Computer Science   Kruse, Gebhardt, and Palm",
+        "Link": "https://drive.google.com/uc?export=download&id=1tmFQGeGmHfDRSleAXt0OGYda1pimUJxZ",
+        "Size": "12.46 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fuzzy Probability and Statistics   Buckley",
+        "Link": "https://drive.google.com/uc?export=download&id=16BLkLqeztmu30ul9wS3ATWJIq2PNqNk3",
+        "Size": "2.6 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fuzzy Optimization Recent Advances and Applications   Lodwick and Kacprzyk",
+        "Link": "https://drive.google.com/uc?export=download&id=1wGGgynP9peS0w86N_elo6zvKT0FlNlmY",
+        "Size": "4.78 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fuzzy Logic Augmentation of Neural and Optimization Algorithms Theoretical Aspects and Real Applications   Castillo, Melin, and Kacprzyk",
+        "Link": "https://drive.google.com/uc?export=download&id=1kgHiC5QJAtZXNsXRo7k5abg6saa8vvdA",
+        "Size": "15.45 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fundamentals of Numerical Computing   Shampine, Aleen, and Pruess",
+        "Link": "https://drive.google.com/uc?export=download&id=1bz8SbyhmB_OUgZLOwbsUzAnqzvoLFMhC",
+        "Size": "3.99 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fundamentals of Computer Science Using Java   Hughes",
+        "Link": "https://drive.google.com/uc?export=download&id=1Hy-NnKVXOZsYS4Shgd-gepgXj-WlEH1t",
+        "Size": "3.79 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fundamentals of Algorithmics   Brassard and Bratley",
+        "Link": "https://drive.google.com/uc?export=download&id=1RHeP1Pqk8aCuRY0uLMYJQs38rY28ZFNd",
+        "Size": "27.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fundamental of Error Correcting Codes   Huffman and Pless",
+        "Link": "https://drive.google.com/uc?export=download&id=1IG4j8PVZepLH_Cvv8lXWoeqmo3SggDjS",
+        "Size": "11.75 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fundamental Approaches to Software Engineering   Wermelinger and Margaria Steffen",
+        "Link": "https://drive.google.com/uc?export=download&id=1uF0yNbPSHN5Hxe2KgNf2E0je_eRluX70",
+        "Size": "7.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Functional Programming Languages, Tools and Architectures   Eisenbach",
+        "Link": "https://drive.google.com/uc?export=download&id=1cufS7PVzJ9p_Lj8Yxn-f9nklInnUYsUd",
+        "Size": "14.22 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Functional Programming Languages and Computer Architecture   Hughes",
+        "Link": "https://drive.google.com/uc?export=download&id=1JsdLiuNbW2RhS4c89WbslEXPbkdKKvAt",
+        "Size": "32.28 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Functional Programming for Java Developers   Wampler",
+        "Link": "https://drive.google.com/uc?export=download&id=13EfosqRXeorAIqD12P72p7cUNAakQvL2",
+        "Size": "4.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Functional C   Hartel and Muller",
+        "Link": "https://drive.google.com/uc?export=download&id=1K4Cv59CYP3Mq9MVGGQFq8AQXHWQ0deHE",
+        "Size": "1.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Frontiers of Pattern Recognition   Watanabe",
+        "Link": "https://drive.google.com/uc?export=download&id=126heEwxrI4VlnP31HoQIUmHfgBHZwR5o",
+        "Size": "29.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Frontiers in Algorithmics   Deng, Hopcroft, and Xue",
+        "Link": "https://drive.google.com/uc?export=download&id=17MbFWL8wiVk2r2Vmi8-LLy-6WMbJnXsh",
+        "Size": "6.41 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Frontiers in Algorithmics   Deng, Hopcraft, and Xue",
+        "Link": "https://drive.google.com/uc?export=download&id=1G5P4LIwNgM-kT73_xE001SHQ3Q7DNB_f",
+        "Size": "7.88 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations of Software Technology and Theoretical Computer Science   Rangan, Raman, and Ramanujam",
+        "Link": "https://drive.google.com/uc?export=download&id=1vxdoxDiJRYoCVvrHf-rbeO7MwkMKQcNV",
+        "Size": "5.36 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations of Object Oriented Languages   de Bakker, de Roever, and Rozenberg",
+        "Link": "https://drive.google.com/uc?export=download&id=1SMBPxLGaxUDnnmQH9cISXh94Og1AGfnM",
+        "Size": "9.93 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations of Geometric Algebra Computing   Hildenbrand",
+        "Link": "https://drive.google.com/uc?export=download&id=1vRTUToW19tFpMD5EwZZ6ml4vtkrkKEkV",
+        "Size": "7.67 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations of Embedded Systems   Barkalov,Titarenko, and Mazurkiewicz",
+        "Link": "https://drive.google.com/uc?export=download&id=1vXBjzZ-KBksosW5GZ_D72HP1RpIjYuMj",
+        "Size": "5.3 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations of Cryptography A Primer   Goldreich",
+        "Link": "https://drive.google.com/uc?export=download&id=1qRBIjwy1IT_mWJI8Sl7WXD5EvBD_ArZR",
+        "Size": "2.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations of Computing   Gruska",
+        "Link": "https://drive.google.com/uc?export=download&id=1Gg0r175CozgJ7h1tCVo7zj1HAgkbjPUq",
+        "Size": "38.86 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations and Novel Approaches in Data Mining   Ohsuga and Hu",
+        "Link": "https://drive.google.com/uc?export=download&id=1NZ2Cj8YqDMGf5TRGJNBQt09KQseOX20Z",
+        "Size": "23.2 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundations and Advances in Data Mining   Chu and Lin",
+        "Link": "https://drive.google.com/uc?export=download&id=1DFh_LpbxFsRtq2wpLpXkyL9Mag5udJtn",
+        "Size": "8.06 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Foundation Discrete Mathematics for Computing   Booth",
+        "Link": "https://drive.google.com/uc?export=download&id=1wBlZzpMD7JYbe5DYaqwJZKc5rfzPlMO9",
+        "Size": "6.32 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Formal Methods   Butler and Schulte",
+        "Link": "https://drive.google.com/uc?export=download&id=1_MBKCe1QRFHHyG6Cm-oWtCwgNDT7qmbW",
+        "Size": "4.95 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Formal Languages and Their Relation to Automata   Hopcroft and Ullman",
+        "Link": "https://drive.google.com/uc?export=download&id=1y9MkFNlCn5wMx2LL9B6bqrFANmPmuYaS",
+        "Size": "10.91 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "First Order Dynamic Logic   Harel",
+        "Link": "https://drive.google.com/uc?export=download&id=1Up519YBHLK6cqpu8fYaqiONwplJr7Lgy",
+        "Size": "3.21 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Fields of Logic and Computation II Essays Dedicated to Yuri Gurevich and on the Occasion of His 75th Birthday   Beklemishev",
+        "Link": "https://drive.google.com/uc?export=download&id=1aq3k2em_wIRpAkWM1_n1J59gEl4qTVIv",
+        "Size": "5.13 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Exploring Randomness   Chaitin",
+        "Link": "https://drive.google.com/uc?export=download&id=1_snKjuGjyW0iSAcNxIH96bJCcf5G7KNL",
+        "Size": "10.99 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Exploring Arduino Tools and Techniques For Engineering Wizardry   Blum",
+        "Link": "https://drive.google.com/uc?export=download&id=1pB0FbZuVv5mxhIYR3rl3B3xjzcNfZgiy",
+        "Size": "16.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Expert C Programming Deep C Secrets   Linden",
+        "Link": "https://drive.google.com/uc?export=download&id=1ci8QEN8hYBty1r_CTFIU-3sVC7i_lpiu",
+        "Size": "2.16 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Evolutionary Computation 2 Advanced Algorithms and Operators   Baeck, Fogel, and Michalewicz",
+        "Link": "https://drive.google.com/uc?export=download&id=1I71-HdAVY51-nLt7SwDVqtlK_GSeeV_F",
+        "Size": "16.82 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Evolutionary Computation 1 Basic Algorithms and Operators   Back, Fogel, and Michalewicz",
+        "Link": "https://drive.google.com/uc?export=download&id=1PYpx4VMOHnt4yYkeUQuVGPAA7o6KoukR",
+        "Size": "14.18 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Essentials of Software Engineering   Tsui, Karam and Bernal",
+        "Link": "https://drive.google.com/uc?export=download&id=1-1oEOIG4U6KFZbxtxPgNUtRr2i2vqSN7",
+        "Size": "33.84 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Essential C++ for Engineers and Scientists 2e   Hanly",
+        "Link": "https://drive.google.com/uc?export=download&id=1dd07dXARsntv8hDu8RInOuC7jEMnA103",
+        "Size": "62.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Engines of Logic Mathematicians and the Origin of the Computer   Davis.PDF",
+        "Link": "https://drive.google.com/uc?export=download&id=1fEOAII4yMDnIyhsXsb0boRgFzGsKMP4c",
+        "Size": "55.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Engineering in Dependability of Computer Systems and Networks   Zamojski",
+        "Link": "https://drive.google.com/uc?export=download&id=1uiWWXRUlRl4rwtXZVCR88z2yinUpf69C",
+        "Size": "41.44 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Energy Minimization Methods in Computer Vision and Pattern Recognition   Hancock and Pelillo",
+        "Link": "https://drive.google.com/uc?export=download&id=1Fg4zwk84IMXEc2ZpAIjIhw00UrL0Gcg9",
+        "Size": "5.91 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Encyclopedia of Algorithms   Kao",
+        "Link": "https://drive.google.com/uc?export=download&id=1R1hK2GdjZlpcPDR0Xpvg7ACmxjBb0Td9",
+        "Size": "89.72 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Emerging Direction in Embedded and Ubiquitous Computing   Denko",
+        "Link": "https://drive.google.com/uc?export=download&id=1XvZcEiez98RowkXmZvY60tXxUfmh7Nx3",
+        "Size": "20.83 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Elements of Computation Theory   Singh",
+        "Link": "https://drive.google.com/uc?export=download&id=1sgce6h-NoFxN8KpD75VyO7dZZsViGH2e",
+        "Size": "3.12 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "ECOOP’ 87 European Conference on Object Oriented Programming   Bézivin",
+        "Link": "https://drive.google.com/uc?export=download&id=1526p3Ob3166YfvR3UoRn8g1-59OD8Fwi",
+        "Size": "8.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Dynamics Programming A Computational Tool   Lew and Mauch",
+        "Link": "https://drive.google.com/uc?export=download&id=15A5xw7aXFB4JsJN7uEFjBxXo8efZCOiv",
+        "Size": "4.18 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Dynamic Programming and Optimal Control Vol. I 3e   Bertsekas",
+        "Link": "https://drive.google.com/uc?export=download&id=1vK6YSvWmVhj-RJaU-nLLuo4u9ZB_6h7R",
+        "Size": "24.12 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Dynamic Programming A Computational Tool   Lew and Mauch",
+        "Link": "https://drive.google.com/uc?export=download&id=17vOF173VHR5f6MTv5NXHyvBOfH4ULv7G",
+        "Size": "4.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Domain Theoretic Foundations of Functional Programming   Streicher",
+        "Link": "https://drive.google.com/uc?export=download&id=1msvus1VL9ZlY2UR49ROYAcelI8Pv6aDa",
+        "Size": "1.46 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Doing Bayesian Data Analysis A Tutorial with R and BUGS   Kruschke",
+        "Link": "https://drive.google.com/uc?export=download&id=1QJBkjfCr4WnFTR9oxsXMPeEs7LmWqFwc",
+        "Size": "10.34 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "DNA Computing New Computing Paradigms   Păun, Rozenberg, and Salomaa",
+        "Link": "https://drive.google.com/uc?export=download&id=1_RghvwWkOEEienFheljgC3QrDvMnnQrc",
+        "Size": "10.37 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Distributed Order Dynamic Systems Stability, Simulation, Applications and Perspectives   Jiao, Chen, and Podlubny",
+        "Link": "https://drive.google.com/uc?export=download&id=1qVSR9WutIigKitf2v6IzrTLXJ0WJ-5-l",
+        "Size": "2.43 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Distributed Computing Through Combinatorial Topology   Herlihy, Kozlov, and Rajsbaum",
+        "Link": "https://drive.google.com/uc?export=download&id=1kVg3ggMeCgC4eXwcR1ZhRpVsMGv7rHEE",
+        "Size": "11.83 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Digital Human Modeling Trends in Human Algorithms   Cai",
+        "Link": "https://drive.google.com/uc?export=download&id=1x3XyzZwi_7kb9DcACGY4pF94s2ERqxNH",
+        "Size": "12.71 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Designing Computer Based Learning Materials   Weinstock and Bork",
+        "Link": "https://drive.google.com/uc?export=download&id=1edsgeU0FmeI0_0ay3FspRQHUmJesQvmV",
+        "Size": "14.41 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Deep Learning with R   Chollet and Allaire",
+        "Link": "https://drive.google.com/uc?export=download&id=1GjW-OYIJ99RmdNJJWHmkOlwL141NJJx4",
+        "Size": "7.44 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Deep Learning with Python   Chollet",
+        "Link": "https://drive.google.com/uc?export=download&id=1XAZF9KICoLhaJnqkSuS3AvIPDrpiwnT7",
+        "Size": "10.91 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Deep Learning   Goodfellow",
+        "Link": "https://drive.google.com/uc?export=download&id=1YHtb7jIPTyQF7MtlZPspJZB4rs83ggln",
+        "Size": "22.58 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Dealing with Complexity A Neural Networks Approach    Kárný, Warwick, and Kůrková",
+        "Link": "https://drive.google.com/uc?export=download&id=17dMB1nzix4vR0DalPEDhMVFStFwQBzVO",
+        "Size": "10.24 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Database Systems The Complete Book 2e   Garcia Molina, Ullman, and Widom",
+        "Link": "https://drive.google.com/uc?export=download&id=1dgpqIYeOYGS4E02y3YwFx9t1CN3rNtjD",
+        "Size": "4.54 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Structures. Theory and Practice   Berztiss",
+        "Link": "https://drive.google.com/uc?export=download&id=1V2BSu34wSrqqpZjf63H9kMTZw0FV_T5r",
+        "Size": "17.53 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Structures Using Pascal   Tenebaum and Augenstein",
+        "Link": "https://drive.google.com/uc?export=download&id=1Yg4IEgmWmuuRk9QWkQOpp_uEJKUvL2DZ",
+        "Size": "27.66 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Structures for Game Programmers   Penton and LaMothe",
+        "Link": "https://drive.google.com/uc?export=download&id=1hpv5MeYcrZaMrh2ybPBzkIytufnjI0tK",
+        "Size": "14.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Structures and Their Algorithms   Lewis and Denenberg",
+        "Link": "https://drive.google.com/uc?export=download&id=12k6saT7w_sJk9oUOSzoccNM0i78AaLIt",
+        "Size": "24.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Structures and Algoritmhs in Java 5e   Goodrich and Tamassia",
+        "Link": "https://drive.google.com/uc?export=download&id=11Gi_z8JQph3-eG26A-dtUE-_Apau_0Rg",
+        "Size": "41.01 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Structures and Algorithms in C++ 2e   Drozdek",
+        "Link": "https://drive.google.com/uc?export=download&id=1zddP3B48HDYJP7hABqUHUcvwaYtA1Jo8",
+        "Size": "27.02 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Structures Abstraction and Design using Java 3e   Koffman and Wolfgang",
+        "Link": "https://drive.google.com/uc?export=download&id=14oLAbHxeJPQpZJoAXXKCadv44Gf-sekY",
+        "Size": "10.46 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Mining, Rough Sets and Granular Computing   Lin, Yao, and Zadeh",
+        "Link": "https://drive.google.com/uc?export=download&id=13esiAclLizQczXyI7f-NC23reqBCljjj",
+        "Size": "12.76 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Mining Theory, Methodology, Techniques, and Applications   Williams and Simoff",
+        "Link": "https://drive.google.com/uc?export=download&id=1tDQsUeqwRcTL4zyMDy3kBh03eIBejMDk",
+        "Size": "3.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Mining The Textbook   Aggarwal",
+        "Link": "https://drive.google.com/uc?export=download&id=1iTw5JrCh1xFNcueI2EDhxRIjNSaYvCUg",
+        "Size": "8.89 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Mining Practical Machine Learning Tools and Techniques 4e   Witten",
+        "Link": "https://drive.google.com/uc?export=download&id=11-twI4lW5flzQgCttxEQMZxGxuY5AnSX",
+        "Size": "6.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Mining Concepts and Techniques 3e   Han, Kamber, and Pei",
+        "Link": "https://drive.google.com/uc?export=download&id=17mSv7PMs_rPufJGM7gdgt4WTYZhhNf-v",
+        "Size": "12.53 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Mining and Analysis Fundemental Concepts and Algorithms   Zaki",
+        "Link": "https://drive.google.com/uc?export=download&id=1g8UWrlJPJ3QbSfvqLXzp6FpmUbwSwVU6",
+        "Size": "9.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Mining and Analysis Fundamental Concepts and Algorithms   Zaki",
+        "Link": "https://drive.google.com/uc?export=download&id=1eHrdW-6MgG8OfAAVIaPjlVVTHzKW81Yz",
+        "Size": "9.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Data Hiding Fundamentals and Applications   Sencar, Ramkumar, and Akansu",
+        "Link": "https://drive.google.com/uc?export=download&id=1v1kVtlbShKRc2PrHpDe9NgLhxSI8m6WZ",
+        "Size": "1.69 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Current Trends in Theoretical Computer Science Entering the 21st Century   Păun, Rozenberg, and Salomaa",
+        "Link": "https://drive.google.com/uc?export=download&id=1sXXLZYJgwyrqP3lvSTWgPFWqD4uSVZh_",
+        "Size": "39.39 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Current Trends in Concurrency Overviews and Tutorials   de Bakker, de Roever, and Rozenberg",
+        "Link": "https://drive.google.com/uc?export=download&id=1tFDAK01z_zLIONbj4PdztI1qPIfpMmTL",
+        "Size": "26.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Cryptology Classical and Modern 2e   Klima and Sigmon",
+        "Link": "https://drive.google.com/uc?export=download&id=1IYrPV89JbWmMdhFJGuCPmWCRc_KAw9Oe",
+        "Size": "6.0 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Cryptography Theory and Practice 3e   Stinson",
+        "Link": "https://drive.google.com/uc?export=download&id=1bqcM7NrTLd21vk8KL7Dz1pD53gDOXzDx",
+        "Size": "22.75 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Cryptography Made Simple   Smart",
+        "Link": "https://drive.google.com/uc?export=download&id=1WoOYQ3HF0o9EMJJN2vtnfSGPKV-zZ02l",
+        "Size": "4.08 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Cryptography and Lattices   Silverman",
+        "Link": "https://drive.google.com/uc?export=download&id=1koW5ZMuAHkUfXX7zEnoP1pyzlCUyECfY",
+        "Size": "1.75 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Cryptography An Introduction 3e   Smart",
+        "Link": "https://drive.google.com/uc?export=download&id=1RAC_FwPTqygQoy4JpmIcurUGEnKQLWIB",
+        "Size": "2.05 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Cornerstones of Undecidability   Rozenberg and Salomaa",
+        "Link": "https://drive.google.com/uc?export=download&id=12aZ47X6L70j_oih3rnDfJRRMB8ssDWrm",
+        "Size": "8.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Core Python Applications Programming 3e   Chun",
+        "Link": "https://drive.google.com/uc?export=download&id=1nYK4EIf4meFivaSnBd0gczDCFfpfywy_",
+        "Size": "9.35 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Contemporary Cryptology   Catalano",
+        "Link": "https://drive.google.com/uc?export=download&id=17xzUg8LYQp1tJbqPrrDLeU2zDN9plH83",
+        "Size": "2.24 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Constraint Programming and Decision Making   Ceberio and Kreinovich",
+        "Link": "https://drive.google.com/uc?export=download&id=1UD_e48PHGGoSIcpTHq0Z1PPQL1sdtvdl",
+        "Size": "5.79 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Conceptual Structures Logical, Linguistic, and Computional Issues   Ganter and Mineau",
+        "Link": "https://drive.google.com/uc?export=download&id=1xooAuQdv7homizHTua15HrVB9QEaDUhi",
+        "Size": "5.41 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Conceptual Modeling – ER 2004   Atzeni",
+        "Link": "https://drive.google.com/uc?export=download&id=15Y3gEnMMNBTdsAHjpeTmg-h-Te0f4aOo",
+        "Size": "33.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Concepts of Programming Languages 11e   Sebesta",
+        "Link": "https://drive.google.com/uc?export=download&id=1CGE6QIXx-jC9-LlX6d52URtD4JERQ2eS",
+        "Size": "6.48 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computing With Logic Logic Programming With Prolog   Maier and Warren",
+        "Link": "https://drive.google.com/uc?export=download&id=1iXm-J3bdTdFtJDBoWFJSQJyefsUpOp5d",
+        "Size": "44.91 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computing with Instinct Rediscovering Artificial Intelligence   Cai",
+        "Link": "https://drive.google.com/uc?export=download&id=1nGUCkXPOUK-JF0SSio_aqeSaZHY3s79f",
+        "Size": "5.13 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computing with Cells and Atoms An introduction to quantum, DNA and membrane computing   Calude and Paun",
+        "Link": "https://drive.google.com/uc?export=download&id=1I4VlYCuZwcsmYW-qFX4s3rJjE7k6Jowp",
+        "Size": "14.08 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computing Statistics under Interval and Fuzzy Uncertainty Applications to Computer Science and Engineering   Nguyen",
+        "Link": "https://drive.google.com/uc?export=download&id=1__KiHIC3QrGSiHS2ubwnlEgg-q6P0idE",
+        "Size": "7.8 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computers in Number Theory   Spencer",
+        "Link": "https://drive.google.com/uc?export=download&id=1EmfJKHXy0YOuWWXvqBzJOYNVKxOmXt2L",
+        "Size": "15.27 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computers in Nonassociative Rings and Algebras   Beck and Kolman",
+        "Link": "https://drive.google.com/uc?export=download&id=1DUGs_YFAOz6R8NWEkPrjVxcI7gs2HOPX",
+        "Size": "13.88 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computers In Chess Solving Inexact Search Problems   Botvinnik",
+        "Link": "https://drive.google.com/uc?export=download&id=1yFpQdeQuUAL8fSUikDEjoLrVsEkL_sov",
+        "Size": "35.68 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computers and Intractability A Guide to the Theory of NP Completeness   Garey and Johnson",
+        "Link": "https://drive.google.com/uc?export=download&id=1whMaOKNZrjPW9jzkk7aBfCi5sxGrpcRJ",
+        "Size": "13.06 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Science – Theory and Applications   Fomin and Podolskii",
+        "Link": "https://drive.google.com/uc?export=download&id=14LaroyLlW5b0FI079U-xKD9ZTti0ZKWE",
+        "Size": "8.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Science The Hardware, Software and Heart of IT   Blum and Aho",
+        "Link": "https://drive.google.com/uc?export=download&id=10W9S7rEr5euRLY5hNJ5HxVhCx35gzR9V",
+        "Size": "3.57 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Safety, Reliability, and Security   Flammini, Bologna, and Vittorini",
+        "Link": "https://drive.google.com/uc?export=download&id=1yHK9VTtdh1Hr-2Gu8UoFDsBlUb_0majc",
+        "Size": "10.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Programming and Computer Systems   Hassitt",
+        "Link": "https://drive.google.com/uc?export=download&id=1QvesDk5NrDXhMT2RZRX3KjNxL1j61I6-",
+        "Size": "18.84 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Organization and Assembly Language Programming   Peterson",
+        "Link": "https://drive.google.com/uc?export=download&id=1B4Mp4fBZ4CMkOfceNL78A45YMOF4qeBS",
+        "Size": "24.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Networks 5e   Tanenbaum and Wetherall",
+        "Link": "https://drive.google.com/uc?export=download&id=1_-n-hqn_VVSBLf7jxxkoI5heX6ojSbYD",
+        "Size": "8.06 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Mathematics   Gao and Wang",
+        "Link": "https://drive.google.com/uc?export=download&id=17p2eOOonboOIjTo0sijeT2McBJzmRsNd",
+        "Size": "14.3 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Graphics   Principles and Practice in C (2nd Edition)",
+        "Link": "https://drive.google.com/uc?export=download&id=151Fnb6xIsUU1zKPczigTc1cnMBAPDMtS",
+        "Size": "21.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Engineering and Technology   Xu",
+        "Link": "https://drive.google.com/uc?export=download&id=1EeS-IK9T_cFznvJpnkXOcTbRcerHER-U",
+        "Size": "7.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer and Information Security Handbook   Vacca",
+        "Link": "https://drive.google.com/uc?export=download&id=1p6VzCalZ4FOqniv8vV5HCgF5tDh9Rh6-",
+        "Size": "15.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computer Algebra with LISP and REDUCE An Introduction to Computer aided Pure Mathematics   Brackx and Constales",
+        "Link": "https://drive.google.com/uc?export=download&id=1l6KUrS2Uve6TwT27Ctw1Uhpf5fMMNWt4",
+        "Size": "18.15 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Optimization, Methods and Algorithms   Koziel and Yang",
+        "Link": "https://drive.google.com/uc?export=download&id=1jAmWU9dc-ryV4XNesxPWg0FA7JWVyEtJ",
+        "Size": "3.4 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Logic   Berger and Schwichtenberg",
+        "Link": "https://drive.google.com/uc?export=download&id=1DxFWRd8mwbfQ5GiGQMCEFoneZ4EE_wkb",
+        "Size": "13.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Intelligence The Experts Speak   Fogel and Robinson",
+        "Link": "https://drive.google.com/uc?export=download&id=1XUUrGyEtxa8D9_q_qwmc76cL6W9pURVi",
+        "Size": "30.48 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Intelligence in Engineering   Rudas, Fodor, and Kacprzyk",
+        "Link": "https://drive.google.com/uc?export=download&id=1cJChFa07mWFqwYWrJURuxow6xopciKn-",
+        "Size": "9.41 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Intelligence in Automotive Applications   Prokhorov",
+        "Link": "https://drive.google.com/uc?export=download&id=16PNBHD1thAtNEC1qHa0jSINIoI0QZLMx",
+        "Size": "6.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Geometry and Computer Graphics in C++   Laszlo",
+        "Link": "https://drive.google.com/uc?export=download&id=1PfFvPsk9Qu1BBankOea0vqX0XjJCnKZU",
+        "Size": "11.42 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Geometry An Introduction   Preparata and Shamos",
+        "Link": "https://drive.google.com/uc?export=download&id=13LQvKJD8wJ1fFr9vonRBfY8tbbxKk9kf",
+        "Size": "17.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Geometry Algorithms and Applications 3e   Berg",
+        "Link": "https://drive.google.com/uc?export=download&id=1xhhesE-QUQbGJ8vsduoV7X3_-QTx6bT4",
+        "Size": "3.33 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Complexity and Feasibility of Data Processing and Interval Computations   Kreinovich",
+        "Link": "https://drive.google.com/uc?export=download&id=13U0SmA1ZmWRKU_z1-Hpi_eXZVNaDEqdu",
+        "Size": "35.2 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Complexity A Modern Approach   Arora and Barak",
+        "Link": "https://drive.google.com/uc?export=download&id=1plc4PhnOMsxY4iOicKHJJf9YGDk-hxzf",
+        "Size": "4.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Complexity A Conceptual Perspective   Goldreich",
+        "Link": "https://drive.google.com/uc?export=download&id=1-ooE0J8J1YCQRCS59LMgfsE9hTwuw7Qv",
+        "Size": "3.3 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computational Aspects of VLSI Very Large Scale Integration   Ullman",
+        "Link": "https://drive.google.com/uc?export=download&id=1jOHfmrEjxgmBcFekqefwqmPgVZbZl66O",
+        "Size": "24.31 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computation, Physics and Beyond   Dinneen, Khoussainov, and Nies",
+        "Link": "https://drive.google.com/uc?export=download&id=1muV3sZTVnU_IvhJ8FQzRw-9rS4DUDK_u",
+        "Size": "4.94 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computation, Logic, Games, and Quantum Foundations   Coecke, Ong, and Panagaden",
+        "Link": "https://drive.google.com/uc?export=download&id=1qv3Ug8j0oj-pLjH5J43Gzlo3ZwqntFx8",
+        "Size": "13.86 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computation Engineering Applied Automata Theory and Logic   Gopalakrishnan",
+        "Link": "https://drive.google.com/uc?export=download&id=1IR147tFgxlUB0175obZPOsakGLKc73Ph",
+        "Size": "3.66 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computable Models   Turner",
+        "Link": "https://drive.google.com/uc?export=download&id=1Kh70Nlb7t-huIBNDmUwPt6fmYcFFuwkC",
+        "Size": "1.02 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computability, Complexity, and Languages Fundamentals of Theoretical Computer Science 2e   David, Sigal, and Weyuker",
+        "Link": "https://drive.google.com/uc?export=download&id=1j4hytpPDLszrRDjR_BXl5T6BHYeDbG8w",
+        "Size": "9.89 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computability, Complexity, and Languages Fundamentals of Theoretical Computer Science   Davis and Weyuker",
+        "Link": "https://drive.google.com/uc?export=download&id=1AEBoYN5g5zd3SMZbE13INVYu14t2QQ_2",
+        "Size": "16.25 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computability Theory An Introduction to Recursion Theory   Enderton",
+        "Link": "https://drive.google.com/uc?export=download&id=1Itd5v-ZH5iJqhXRIQup_h8vjXRj-sHT7",
+        "Size": "1.89 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computability and Unsolvability   Davis",
+        "Link": "https://drive.google.com/uc?export=download&id=1zs2_hPbbJ-ig_6547M4BGYAfHonEoRuw",
+        "Size": "13.43 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computability and Logic 5e   Boolos, Burgess, and Jeffrey",
+        "Link": "https://drive.google.com/uc?export=download&id=1d0hWhA-AqU3qjZpvS_kMLAzWSvBxrk7d",
+        "Size": "2.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Computability and Complexity From a Programming Perspective   Jones",
+        "Link": "https://drive.google.com/uc?export=download&id=1Z2ENRGUvFJkLdZ47risD8XuOQ74_rVzw",
+        "Size": "1.67 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Compositionality, Concurrency and Partial Correctness Proof Theories for Networks of Processes, and Their Relationship   Zwiers",
+        "Link": "https://drive.google.com/uc?export=download&id=1uP0WNnqWrHdBTmwmQRBRLYv3scdWtsQC",
+        "Size": "5.18 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Complex Systems and Dependability   Zamojski",
+        "Link": "https://drive.google.com/uc?export=download&id=1em3ZehHA_J7_yFTWRFm-NG0qEiIfLUhc",
+        "Size": "15.91 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Complete Guide For Python Programming   Long",
+        "Link": "https://drive.google.com/uc?export=download&id=1DP06mrV3tipOZ7XLq79tHBFrq3vJs0tw",
+        "Size": "0.79 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Compiler Construction Using Java, JavaCC, and Yacc   Reis",
+        "Link": "https://drive.google.com/uc?export=download&id=1XUqXTtzCgwzk6nGw-Ys-F2WEAZtfgcHS",
+        "Size": "43.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Compiler Construction An Advanced Course   Bauer and Eickel",
+        "Link": "https://drive.google.com/uc?export=download&id=1EaW3zbycuoIOWvG9COWEgeBFa28c6kem",
+        "Size": "9.11 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Combinatorial Optimization and Theoretical Computer Science Interfaces and Perspectives   Paschos",
+        "Link": "https://drive.google.com/uc?export=download&id=1N041aNY6U1AN8ZyISqXMjYlg0NfvMW3y",
+        "Size": "3.56 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Combinatorial Algorithms For Computers and Calculators 2e   Nijenhuis and Wilf",
+        "Link": "https://drive.google.com/uc?export=download&id=1wJV_UOjWMc-B48BLzVW1jsC6wBaSIugW",
+        "Size": "11.29 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "COLOG 88   Martin Löf and Mints",
+        "Link": "https://drive.google.com/uc?export=download&id=17F6OTagYyzzYnCnXrUoVnA6MdKxp8QUK",
+        "Size": "12.58 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Coding, Cryptography and Combinatorics   Fend, Niederreiter, and Xing",
+        "Link": "https://drive.google.com/uc?export=download&id=1YjBBO5UW51y1dR6KEqPvQuHtFaZKAeau",
+        "Size": "7.8 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Coding Theory and Cryptology   Niederreiter",
+        "Link": "https://drive.google.com/uc?export=download&id=1eVYvCT2ceRy9RQJv5uOwm_dC8iwKiLG2",
+        "Size": "2.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Coding and Complexity   Longo",
+        "Link": "https://drive.google.com/uc?export=download&id=1lHuketOQXWfLPmoJEHmzYPAJbhi5-I2z",
+        "Size": "24.35 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Classical and New Paradigms of Computation and their Complexity Hierarchies Papers of the conference “Foundations of the Formal Sciences III    Löwe, Piwinger, and Räsch",
+        "Link": "https://drive.google.com/uc?export=download&id=1GH15UsmNodYa0P7WwlTufmuH2UkcdYoy",
+        "Size": "1.54 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Chaos based Cryptography Theory, Algorithms and Applications   Kocarev and Lian",
+        "Link": "https://drive.google.com/uc?export=download&id=1CGZxM2BPgNJ0CWlj2TlNsRjAiJD1W19e",
+        "Size": "6.55 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Certified Programs and Proofs   Gonthier and Norrish",
+        "Link": "https://drive.google.com/uc?export=download&id=1tJoeApvom-CzOFKwbu0U36P55wWAMFYw",
+        "Size": "3.54 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Cellular Automata A Discrete View of the World   Schiff",
+        "Link": "https://drive.google.com/uc?export=download&id=1Drox3F002VIsEX25tpWk22a7T9tm0hcT",
+        "Size": "18.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Categories and Computer Science   Walters",
+        "Link": "https://drive.google.com/uc?export=download&id=1ZXjYgFJs3tOd3tV_tA5DhZYGWyiGQ5i2",
+        "Size": "1.2 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Categorical Combinators, Sequential Algorithms, and Functional Programming   Curien",
+        "Link": "https://drive.google.com/uc?export=download&id=1mrKJvpvgurF-hnXBJvnUMDImwFbdX3r4",
+        "Size": "33.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "C++ Plus Data Structures 3e   Dale",
+        "Link": "https://drive.google.com/uc?export=download&id=1Z-oNIbUNHGCj9cg5cZt9xyHox-K2W-6r",
+        "Size": "10.07 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "C# Bible   Ferguson, Patterson, and Boutquin",
+        "Link": "https://drive.google.com/uc?export=download&id=1VNbmCIuBdBKQDMrHC-l4Fsd6sjNkB-P1",
+        "Size": "4.09 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "C Primer Plus 6e   Prata",
+        "Link": "https://drive.google.com/uc?export=download&id=1mPkUuo0OUOAtxgm6CtSEfq3OMIl1tbjS",
+        "Size": "6.87 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "C and Data Structures By Practice   Vasappanavara",
+        "Link": "https://drive.google.com/uc?export=download&id=1rGDt_UjrC_izX1Icn9jl-IXjj4GoDq81",
+        "Size": "4.7 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Boolean Function Complexity   Paterson",
+        "Link": "https://drive.google.com/uc?export=download&id=1T6aZv7y7YnhyDp8wLThWtY8UDb39L5m0",
+        "Size": "8.82 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Big Data Integration Theory Theory and Methods of Database Mappings, Programming Languages, and Semantic   Majkic",
+        "Link": "https://drive.google.com/uc?export=download&id=1yIeZzPBIp-ZHWpABbZYilM-q5D4KVwnJ",
+        "Size": "6.24 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Bidirectional Transformations   Gibbons and Stevens",
+        "Link": "https://drive.google.com/uc?export=download&id=1kbjVw5kzTFCdXCAW6Nav4EKBSr4ogSka",
+        "Size": "9.52 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Belief Functions Theory and Applications   Denoeux and Masson",
+        "Link": "https://drive.google.com/uc?export=download&id=1nZfh8AGgwDmI3i91Ckx6zchz8A7dLdni",
+        "Size": "13.05 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Beginning Shell Scripting   Foster Johnson, Welch, and Anderson",
+        "Link": "https://drive.google.com/uc?export=download&id=1_fCiXKmxVm-ROTNCztD5FXgiXQ9YxHcY",
+        "Size": "8.79 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Beginning Python   Norton",
+        "Link": "https://drive.google.com/uc?export=download&id=1AtLTDZZ09OfT7tlScbO8u6oSA3KMxsVN",
+        "Size": "3.5 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Basics of MATLAB and Beyond   Knight",
+        "Link": "https://drive.google.com/uc?export=download&id=11PfGiGkXYIFnyZpQq2CSZp_vsrEmY8lk",
+        "Size": "4.11 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Basic Concepts in Information Theory and Coding The Adventures of Secret Agent 00111   Golomb, Peile, and Scholtz",
+        "Link": "https://drive.google.com/uc?export=download&id=16Oc7vrkASgMrdyfNzRS1CBX_K8gTAaa8",
+        "Size": "7.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Autonomic Computing and Networking   Denko, Yang, and Zhang",
+        "Link": "https://drive.google.com/uc?export=download&id=1bjxQI39wt66qK5xUNO38qCwNms3h2DJ9",
+        "Size": "11.55 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Automata, Languages and Programming   Even and Kariv",
+        "Link": "https://drive.google.com/uc?export=download&id=1G9UvOM50c-4PEz2JqYGqYypYYx7yXgsH",
+        "Size": "14.69 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Automata, Languages and Programming   Baeten",
+        "Link": "https://drive.google.com/uc?export=download&id=1OK-VYml_8RI1sWZjKOJIdPra3bO6zWXU",
+        "Size": "8.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "AutoCAD For Dummies 18e   Fane",
+        "Link": "https://drive.google.com/uc?export=download&id=1p40SAnGAO4Jci9kHbLKbLZNNW9LmbDTE",
+        "Size": "12.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Aspects of Molecular Computing Essays Dedicated to Tom Head on the Occasion of His 70th Brithday   Jonoska, Păun, and Rozenberg",
+        "Link": "https://drive.google.com/uc?export=download&id=1R87ozTBe230DW8frJ-OTZWdModHtkxYy",
+        "Size": "5.4 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Artificial Neural Networks — ICANN 2007   Sá",
+        "Link": "https://drive.google.com/uc?export=download&id=1Pa9vygFzNo-7Tht1_aAYygE7EqmSqrVP",
+        "Size": "18.23 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Artificial life VII   Bedau",
+        "Link": "https://drive.google.com/uc?export=download&id=1tk7_t-UQEv1em8Pvdmk6ETJYus5iRZgc",
+        "Size": "199.35 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Artificial Life II   Langton",
+        "Link": "https://drive.google.com/uc?export=download&id=1lf6OIF9AmZ6EGZaXjlDOcM-sMC5doo9J",
+        "Size": "39.8 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Artificial Intelligence The Basics   Warwick",
+        "Link": "https://drive.google.com/uc?export=download&id=19JADAyooHAJOQYIli0x2vnzFV6qXyand",
+        "Size": "1.15 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Artificial Intelligence A Modern Approach 3e   Russell and Norvig",
+        "Link": "https://drive.google.com/uc?export=download&id=1ANIhk62BmrFCh5HPrFCVTVdyUMmyNrN3",
+        "Size": "13.43 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Arduino A Technical Reference A Handbook For Technicians, Engineers, and Makers   Hughes",
+        "Link": "https://drive.google.com/uc?export=download&id=1UpMs2ujI0y1YKoHSHkk3qVfdihX1lIDq",
+        "Size": "53.63 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Approximation, Randomization and Combinatorial Optimization Algorithms and Techniques   Goel",
+        "Link": "https://drive.google.com/uc?export=download&id=1021WK-Iqdq-wjcBqFq5FoUZ6BRqPDQq3",
+        "Size": "5.64 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Applied Quantum Cryptography   Kollmitzer and Pivk",
+        "Link": "https://drive.google.com/uc?export=download&id=1b0Ae1823huGZEfNecnYZOkOdzzrFT6t_",
+        "Size": "4.92 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Applied Cryptography 2e   Schneier",
+        "Link": "https://drive.google.com/uc?export=download&id=1oVWrkjkBlP77GBU65mZowXtyS5UrfR8O",
+        "Size": "4.7 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Applications of Soft Computing From Theory to Praxis   Mehnen",
+        "Link": "https://drive.google.com/uc?export=download&id=1yNw6L7cXbeBmfvtdNpwtmuVJMOMUUhia",
+        "Size": "8.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Applications of Soft Computing  Updating the State of the Art   Avineri",
+        "Link": "https://drive.google.com/uc?export=download&id=1ib6PQinv75G6pg62WkQAj4OuI3QyXCic",
+        "Size": "10.16 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Applications of Process Algebra   Baeten",
+        "Link": "https://drive.google.com/uc?export=download&id=1wHH-W7Jk53xgT4hW1NUXbypvm-lxuQpb",
+        "Size": "9.46 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Applications of Interval Computations   Kearfott and Kreinovich",
+        "Link": "https://drive.google.com/uc?export=download&id=1FghhtCOPkxwRSQSymYpSDkyLaQC7aP4g",
+        "Size": "14.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Applications of Evolutionary Computation   Esparcia Alcazar",
+        "Link": "https://drive.google.com/uc?export=download&id=1EjjJmiPYrCh0nd0HVKGF1G09BNOAwo4N",
+        "Size": "18.61 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Android Programming for Beginners   Horton",
+        "Link": "https://drive.google.com/uc?export=download&id=1kma4YQpntDIU-KzpXBRGyI63hXgv_s1b",
+        "Size": "10.1 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "An Introduction to the PL CV2 Programming Logic   Constable, Johnson, and Eichenlaub.djvu",
+        "Link": "https://drive.google.com/uc?export=download&id=17NxPX8XYH0n1agziV01JSmCqcB1OaRdX",
+        "Size": "2.51 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "An introduction to the Analysis of Algorithms 2e   Sedgewick and Flajolet",
+        "Link": "https://drive.google.com/uc?export=download&id=1i9pm3tesyeWCjRttY-XHHWSYuLKFDV0o",
+        "Size": "3.01 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "An Introduction to Kolmogorov Complexity and Its Applications 3e   Li and Vitanyi",
+        "Link": "https://drive.google.com/uc?export=download&id=1PSW_eG2LfFkqA8wZli01Qd5fatgnCxlP",
+        "Size": "6.65 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "An Introduction to Kolmogorov Complexity and Its Applications 2e    Li and Vitanyi",
+        "Link": "https://drive.google.com/uc?export=download&id=1jWS8u_NjiHh8ki8qlTFQ3MlBQbqZdS3Y",
+        "Size": "33.73 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Ambient Intelligence   Weber, Rabaey, and Aarts",
+        "Link": "https://drive.google.com/uc?export=download&id=1uiCOtDfVRvgFe2U3HXo_PW9RLIUWSpBr",
+        "Size": "3.92 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algoritmhs and Data Structures With Applications to Graphics and Geometry   Nievergelt and Hinrichs",
+        "Link": "https://drive.google.com/uc?export=download&id=1UTLxYJx_Jhjq8wBU_HvMojWVCpEt1GV0",
+        "Size": "3.86 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithms Part II 4e   Sedgewick and Wayne",
+        "Link": "https://drive.google.com/uc?export=download&id=1dTKbxDdNYo3bhat7zsMEgpX4atzssNhL",
+        "Size": "13.07 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithms Illuminated Part 2 Graph Algorithms and Data Structures   Roughgarden",
+        "Link": "https://drive.google.com/uc?export=download&id=1r58kv344TTuwfck0JTDI82ml9t9ya-54",
+        "Size": "7.93 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithms and Theory of Computation Handbook General Conceopts and Techniques 2e   Atallah and Blanton",
+        "Link": "https://drive.google.com/uc?export=download&id=1Fs5YhYCCMLwGFthNCdAFyWYU9_jcPCxy",
+        "Size": "9.14 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithms and Data Structures The Basic Toolbox   Mehlhorn and Sanders",
+        "Link": "https://drive.google.com/uc?export=download&id=1zcFtRekRWP9MgEyrgxs7jXMfNfveZYAr",
+        "Size": "2.03 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithms and Data Structures   Dehne, Sack, and Santoro",
+        "Link": "https://drive.google.com/uc?export=download&id=1ewDQqC-7b98XBuCxvYk6u7w4VuTldm09",
+        "Size": "27.43 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithms and Computation   Asano",
+        "Link": "https://drive.google.com/uc?export=download&id=12PtegrNbPEwcjobzhltFqC3Deu3d53Ea",
+        "Size": "6.71 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithmics Theory and Practice   Brassard and Bratley",
+        "Link": "https://drive.google.com/uc?export=download&id=1UNQrzFkJM5s-i3T-sWfQifdRxOCkCSpC",
+        "Size": "3.85 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithmics The Spirit of Computing 3e   Harel",
+        "Link": "https://drive.google.com/uc?export=download&id=1h5v6-qYlUNQClxHScDFNWrf31MaktqEn",
+        "Size": "9.29 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithmic Randomness and Complexity   Downey and Hirschfeldt",
+        "Link": "https://drive.google.com/uc?export=download&id=1w5oRZ91uPGV-1a3BRmKQzxK9Ph-dCu7H",
+        "Size": "5.32 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithmic Learning Theory   Jantke",
+        "Link": "https://drive.google.com/uc?export=download&id=1MEWFGTTIWm7hiNWDH5tNp74ZZt6z66_v",
+        "Size": "18.59 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithmic information theory   Chaitin",
+        "Link": "https://drive.google.com/uc?export=download&id=1lZaBJ8QBFVhY-HD1z0PIOwj9Xu6BbXbO",
+        "Size": "10.9 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithm Design   Kleinberg and Tardos",
+        "Link": "https://drive.google.com/uc?export=download&id=1CKXMeHlNVmAnl3OTu9gsQHLXTT6HHJ6n",
+        "Size": "4.98 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algorithm and Complexity 2e   Wilf",
+        "Link": "https://drive.google.com/uc?export=download&id=1nJnNCa2LyqV3QtrXd8WxtWRdesEaEoCf",
+        "Size": "2.0 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algebraic Cryptanalysis   Bard",
+        "Link": "https://drive.google.com/uc?export=download&id=1sQZgFUzjxSMV8Gc4ynTsGPhD-r6ZG1Sy",
+        "Size": "2.04 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algebraic Approaches to Program Semantics   Manes and Arbib",
+        "Link": "https://drive.google.com/uc?export=download&id=1TGdDcG_bUxacw4nvuTgKm_G0iiuR-Iab",
+        "Size": "20.58 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Algebraic and Coalgebraic Methods in the Mathematics of Program Construction   Backhouse, Crole, and Gibbons",
+        "Link": "https://drive.google.com/uc?export=download&id=12BmMcmIkwhFC-Pduq1bQlmVE2BwWjsSB",
+        "Size": "2.94 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Affective Computing   Picard",
+        "Link": "https://drive.google.com/uc?export=download&id=1pe5o8_2_ZBtQ7Ltf9mdgbCLCvQLIoQn9",
+        "Size": "1.81 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Advances in Proof Theory   Kahle, Strahm, and Studer",
+        "Link": "https://drive.google.com/uc?export=download&id=1MvHKVXjm-4wvdGsuwDPXiG_07oYvvQJs",
+        "Size": "11.27 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Advances in Neural Networks Computational and Theoretical Issues   Bassis, Esposito, and Morabito",
+        "Link": "https://drive.google.com/uc?export=download&id=16FknDJr7eydEqGdb5vTCnzu-icmEQXAd",
+        "Size": "29.0 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Advances in Cryptology — CRYPTO ’88   Goldwasser",
+        "Link": "https://drive.google.com/uc?export=download&id=1aXrNRDFN1HRtqyQ4ueSa9tQPl8xYU10J",
+        "Size": "11.18 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Advances in Computational Intelligence   Yu and Sanchez",
+        "Link": "https://drive.google.com/uc?export=download&id=1_u5e5Du4SvgNLDpY_uDgfGAd_Gxt7ydR",
+        "Size": "7.15 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Advanced Topics in Types and Programming Languages   Pierce",
+        "Link": "https://drive.google.com/uc?export=download&id=1ny9OYmsRoQIau1QsX5iUYdVsCn6EvLU-",
+        "Size": "3.14 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Advanced Metaprogramming in Classic C++   Gennaro",
+        "Link": "https://drive.google.com/uc?export=download&id=1iCkA8zyON-IF9NLn4sFKStVKvs81gfNg",
+        "Size": "2.82 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Advanced Functional Programming   Jeuring and Jones",
+        "Link": "https://drive.google.com/uc?export=download&id=1315YoL6NxOolwKEJBOBIOSCyYdFZ3Ozo",
+        "Size": "1.62 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Adpating Proofs As Programs The Curry Howard Protocol   Poernomo, Crossley, and Wirsing",
+        "Link": "https://drive.google.com/uc?export=download&id=1APxEuHw_lnkTHVLCLy3-F0sMmtEfYY8N",
+        "Size": "1.53 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "Accurate Scientific Computations   Miranker and Toupin",
+        "Link": "https://drive.google.com/uc?export=download&id=1EQBvhgl8bNyC650jvI01tE9AqHb6P47b",
+        "Size": "3.43 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A Smarter Way to Learn JavaScript   Meyers",
+        "Link": "https://drive.google.com/uc?export=download&id=1p0jcbw0-FgjAwshmamtWSOuC8ysYa0yI",
+        "Size": "1.74 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A Practical Guide to Sentiment Analysis   Cambria",
+        "Link": "https://drive.google.com/uc?export=download&id=1ZGdIXEO_TciJ5wObNIrSAE2J1mRr6HNm",
+        "Size": "2.49 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A Practical Guide to Boundary Element Methods with the Software Library BEMLIB   Pozrikidis",
+        "Link": "https://drive.google.com/uc?export=download&id=1Lu5QNsA05OkRbY5VisZFbWZCLjnsU8mr",
+        "Size": "4.57 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A List of Successes That Can Change the World Essays Dedicated to Philip Wadler on the Occasion of His 60th Birthday   Lindley",
+        "Link": "https://drive.google.com/uc?export=download&id=1u5akD1dyXOvMpUzIGokXVI1H7o2bClQ5",
+        "Size": "20.7 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A Half Century of Automata Theory Celebration and Inspiration   Salomaa, Wood, and Yu",
+        "Link": "https://drive.google.com/uc?export=download&id=14A8vGnjqR2Cjg0hr_ZMRKyOGHHtDrI1o",
+        "Size": "6.14 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A Distributed Pi Calculus   Hennessy",
+        "Link": "https://drive.google.com/uc?export=download&id=1JYrsHZBT5zQGYkBj9S51hP6HwFzdrwNy",
+        "Size": "2.83 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A Collection of Test Problems for Constrained Global Optimization Algorithms   Floudas and Pardalos",
+        "Link": "https://drive.google.com/uc?export=download&id=1d3_ph5JdCKGOYfGhWnHlSF_6koFjax3M",
+        "Size": "4.19 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
+    },
+    {
+        "Name": "A Basis for Theoretical Computer Science   Kfoury, Moll, and Arbib",
+        "Link": "https://drive.google.com/uc?export=download&id=1vYLGGuLgNCShjWO1XrEeU9IbbT3tyEkq",
+        "Size": "15.71 MB",
+        "Categories": "[800+ Computer Science Ebooks]"
     }
 ]
