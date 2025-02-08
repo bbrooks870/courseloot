@@ -4,7 +4,6 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { Metadata } from "next"
 import Script from "next/script"
-import { AnalyticsWrapper } from "@/components/analytics-wrapper"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -136,7 +135,7 @@ export default function RootLayout({
         />
         {/* Google Analytics */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-3WB4BSNECN"
+          src="https://www.googletagmanager.com/gtag/js?id=G-8E2E3V1KGP"
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -144,7 +143,7 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-3WB4BSNECN');
+            gtag('config', 'G-8E2E3V1KGP');
           `}
         </Script>
       </head>
@@ -156,7 +155,6 @@ export default function RootLayout({
           </main>
           <Footer />
         </div>
-        <AnalyticsWrapper />
       </body>
     </html>
   )
