@@ -1,12 +1,13 @@
 "use client"
 
+import { Suspense } from "react"
 import { useSearchParams } from "next/navigation"
 import { SearchResults } from "@/components/search-results"
 import Link from "next/link"
 import { ChevronRight, Home } from "lucide-react"
 import { SEO } from "@/components/seo"
 
-export default function SearchPage() {
+function SearchPageContent() {
   const searchParams = useSearchParams()
   const query = searchParams.get("q") || ""
 
@@ -48,6 +49,14 @@ export default function SearchPage() {
         <SearchResults query={query} />
       </div>
     </>
+  )
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div className="container mx-auto px-4 py-8">Loading search results...</div>}>
+      <SearchPageContent />
+    </Suspense>
   )
 }
 

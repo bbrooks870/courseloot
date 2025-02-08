@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState, useEffect, Suspense } from "react"
 import { useParams, useSearchParams } from "next/navigation"
 import { videos } from "@/server/videos"
 import { PDFCard } from "@/components/pdf-card"
@@ -9,6 +9,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import React from "react"
 import { ChevronRight, Home } from "lucide-react"
+import { SEO } from "@/components/seo"
 
 interface SubCategory {
   name: string
@@ -17,7 +18,7 @@ interface SubCategory {
 
 const ITEMS_PER_PAGE = 12
 
-export default function CategoryPage() {
+function CategoryPageContent() {
   const params = useParams()
   const searchParams = useSearchParams()
   const category = decodeURIComponent(params.category as string)
@@ -98,6 +99,24 @@ export default function CategoryPage() {
 
   return (
     <>
+      <SEO 
+        title={`${category} - Hindu Scriptures | Vedic Pustak`}
+        description={`Read and download Hindu scriptures and sacred texts from the ${category} category. Access authentic Vedic literature at VedicPustak.com.`}
+        ogDescription={`Explore Hindu scriptures from ${category}. Access authentic texts at VedicPustak.com.`}
+        twitterDescription={`Browse Hindu scriptures in ${category}. Read and download sacred texts at VedicPustak.com.`}
+        canonicalUrl={`https://vedicpustak.com/category/${encodeURIComponent(category)}`}
+        keywords={[
+          category,
+          "Hindu Scriptures",
+          "Sacred Texts",
+          "Vedic Literature",
+          "Religious Texts",
+          "Spiritual Books",
+          "Sanskrit Texts",
+          "Ancient Wisdom",
+          "Hindu Philosophy"
+        ]}
+      />
       <div className="container mx-auto px-4 py-8">
         {breadcrumbs}
         <h1 className="text-3xl font-bold mb-6">{category}</h1>
@@ -192,6 +211,14 @@ export default function CategoryPage() {
         )}
       </div>
     </>
+  )
+}
+
+export default function CategoryPage() {
+  return (
+    <Suspense fallback={<div className="container mx-auto px-4 py-8">Loading category...</div>}>
+      <CategoryPageContent />
+    </Suspense>
   )
 }
 
