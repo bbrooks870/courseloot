@@ -1,5 +1,11 @@
 import Link from "next/link"
 import { ChevronRight, Home } from "lucide-react"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Privacy Policy | Programming PDFs & eBooks - FreeCodingPDF",
+  description: "Our privacy policy explains how we collect, use, and protect your personal information when you use FreeCodingPDF. Learn about our data practices and your privacy rights.",
+}
 
 export default function PrivacyPolicy() {
   return (

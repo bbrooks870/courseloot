@@ -1,6 +1,12 @@
 import Link from "next/link"
 import { ChevronRight, Home, Mail, Github, Twitter, Linkedin } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Contact Us | Programming PDFs & eBooks - FreeCodingPDF",
+  description: "Get in touch with us for any questions, feedback, or support regarding FreeCodingPDF. We're here to help you with your programming learning journey.",
+}
 
 export default function Contact() {
   return (

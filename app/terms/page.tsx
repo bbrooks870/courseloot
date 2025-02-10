@@ -1,5 +1,11 @@
 import Link from "next/link"
 import { ChevronRight, Home } from "lucide-react"
+import { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Terms of Use | Programming PDFs & eBooks - FreeCodingPDF",
+  description: "Read our terms of use to understand the rules and guidelines for using FreeCodingPDF. Learn about our service terms, user responsibilities, and legal information.",
+}
 
 export default function TermsOfUse() {
   return (

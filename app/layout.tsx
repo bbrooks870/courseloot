@@ -9,9 +9,9 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
-  description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
   keywords: [
-    "free coding pdfs",
+    "FreeCodingPDFs",
     "programming ebooks",
     "download programming books",
     "learn coding online",
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     type: "website",
     url: "https://freecodingpdf.live",
     title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
-    description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+    description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
     siteName: "FreeCodingPDF",
     images: [
       {
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
-    description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+    description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
     creator: "@freecodingpdf",
     images: [
       {
@@ -101,7 +101,7 @@ const jsonLd = {
   "@type": "WebSite",
   name: "FreeCodingPDF",
   url: "https://freecodingpdf.live",
-  description: "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
   image: "https://freecodingpdf.live/preview-image.jpg",
   publisher: {
     "@type": "Organization",

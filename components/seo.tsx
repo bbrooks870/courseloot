@@ -15,12 +15,12 @@ interface SEOProps {
 
 export function SEO({ 
   title = "FreeCodingPDF – Download Free Programming PDFs & eBooks",
-  description = "Get free coding PDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  description = "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
   ogDescription = "Access thousands of free programming PDFs and coding eBooks. Master programming with comprehensive developer guides and tutorials.",
   twitterDescription = "Download free programming PDFs and coding eBooks. Learn Python, JavaScript, Java, C++, and more at FreeCodingPDF.com",
   canonicalUrl = "https://freecodingpdf.live",
   keywords = [
-    "free coding pdfs",
+    "FreeCodingPDFs",
     "programming ebooks",
     "download programming books",
     "learn coding online",

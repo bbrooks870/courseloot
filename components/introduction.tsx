@@ -6,7 +6,7 @@ export function Introduction() {
           FreeCodingPDF – Download Free Programming PDFs & eBooks
         </h1>
         <p className="text-xl mb-8 text-center max-w-3xl mx-auto">
-          Explore a vast collection of free coding PDFs, programming books, and developer guides. Learn Python, JavaScript, Java, C++, and more at FreeCodingPDF.com.
+          Explore a vast collection of FreeCodingPDFs, programming books, and developer guides. Learn Python, JavaScript, Java, C++, and more at FreeCodingPDF.com.
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
           <ul className="space-y-4 text-lg">
