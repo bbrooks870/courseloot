@@ -1,0 +1,156 @@
+# FreeCodingPDF Website Configuration Guide
+
+## Core Files to Modify for New PDF Website
+
+1. Data Source
+   - Location: `server/videos.ts`
+   - What to change:
+     - Update PDF entries with new content
+     - Modify Categories field for your theme
+     - Update PDF titles and descriptions
+     - Change file IDs and links
+
+2. SEO & Metadata
+   - Files to update:
+     a. app/layout.tsx (Main layout)
+        - Update site title
+        - Change site description
+        - Modify OpenGraph metadata
+        - Update keywords for your PDF theme
+
+     b. app/page/[page]/layout.tsx (Pagination pages)
+        - Modify title format: `${yourTheme} PDFs and eBooks - Page ${pageNumber} | ${yourSiteName}`
+        - Update description template
+
+     c. app/categories/layout.tsx
+        - Update title: "Browse Categories | ${yourTheme} PDFs & eBooks - ${yourSiteName}"
+        - Modify category description
+
+     d. app/privacy/page.tsx
+        - Update title: "Privacy Policy | ${yourTheme} PDFs & eBooks - ${yourSiteName}"
+        - Customize privacy policy content
+
+     e. app/terms/page.tsx
+        - Update title: "Terms of Use | ${yourTheme} PDFs & eBooks - ${yourSiteName}"
+        - Customize terms content
+
+     f. app/contact/page.tsx
+        - Update title: "Contact Us | ${yourTheme} PDFs & eBooks - ${yourSiteName}"
+        - Change contact information
+
+3. Branding Elements
+   - Update site name in all titles (currently "FreeCodingPDF")
+   - Change email: contact@yourdomain.com
+   - Update social media links in contact page
+   - Modify logo and favicon
+
+4. Content Structure
+   - Categories are dynamically generated from videos.ts
+   - Pagination shows 12 PDFs per page
+   - Grid layout: 2 columns mobile, 3 columns tablet, 4 columns desktop
+
+## Key Features Implemented
+
+1. SEO Optimization
+   - Dynamic metadata for all pages
+   - OpenGraph tags for social sharing
+   - Proper title hierarchy
+   - Breadcrumb navigation
+
+2. User Experience
+   - Loading states
+   - Responsive design
+   - Pagination controls
+   - Category browsing
+
+3. Performance
+   - Next.js app router
+   - Client-side pagination
+   - Dynamic imports
+   - Optimized images
+
+4. Pages Structure
+   - Home (/)
+   - Categories (/categories)
+   - Individual Category (/category/[name])
+   - Paginated PDFs (/page/[number])
+   - Static Pages:
+     - Privacy Policy (/privacy)
+     - Terms of Use (/terms)
+     - Contact (/contact)
+
+## Theme Customization
+
+1. Colors
+   - Primary: blue-600
+   - Text: gray-600, gray-900
+   - Background: white
+   - Hover states: blue-600
+
+2. Typography
+   - Headings: 4xl, 3xl, 2xl
+   - Body: base
+   - Navigation: sm
+
+## Important Notes
+
+1. PDF Management
+   - Add new PDFs to videos.ts
+   - Ensure unique IDs for each PDF
+   - Maintain consistent category naming
+
+2. SEO Best Practices
+   - Keep titles under 60 characters
+   - Descriptions between 150-160 characters
+   - Use relevant keywords naturally
+
+3. Deployment
+   - Update environment variables
+   - Configure domain settings
+   - Set up analytics
+
+4. Maintenance
+   - Regular content updates
+   - Check for broken links
+   - Monitor performance
+   - Update dependencies
+
+## Image & Favicon Configuration
+
+1. Favicon
+   - Location: `app/favicon.ico`
+   - Requirements:
+     - Replace with your site's favicon
+     - Recommended size: 32x32 pixels
+     - Format: .ico file
+
+2. Logo & Images
+   - Location: `public/images/`
+   - What to update:
+     - logo.png (Site logo)
+     - og-image.png (OpenGraph share image)
+     - Default PDF thumbnail images
+   - Image Requirements:
+     - Logo: Recommended size 200x50 pixels
+     - OG Image: 1200x630 pixels (Facebook/Twitter card size)
+     - Thumbnails: 400x300 pixels
+     - Use .png or .webp for better quality
+     - Optimize images for web
+
+3. Image Usage in Code
+   - Update logo import in `app/layout.tsx`
+   - Modify OpenGraph image in metadata
+   - Update default PDF thumbnail in `components/pdf-card.tsx`
+
+## Quick Start for New Site
+
+1. Clone repository
+2. Update videos.ts with new content
+3. Find/replace "FreeCodingPDF" with your site name
+4. Update metadata in all layout files
+5. Replace favicon and images
+6. Customize contact information
+7. Update terms and privacy policy
+8. Deploy
+
+Remember to maintain the same structure but customize content and branding for your specific PDF theme. 
