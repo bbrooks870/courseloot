@@ -3,8 +3,8 @@ import { ChevronRight, Home } from "lucide-react"
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Terms of Use | Programming PDFs & eBooks - FreeCodingPDF",
-  description: "Read our terms of use to understand the rules and guidelines for using FreeCodingPDF. Learn about our service terms, user responsibilities, and legal information.",
+  title: "Terms of Use | Courses At Cheap prices - CourseLoot",
+  description: "Read our terms of use to understand the rules and guidelines for using CourseLoot. Learn about our service terms, user responsibilities, and legal information.",
 }
 
 export default function TermsOfUse() {
@@ -28,14 +28,14 @@ export default function TermsOfUse() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">1. Acceptance of Terms</h2>
             <p className="mb-4">
-              By accessing and using FreeCodingPDF.live, you accept and agree to be bound by these Terms of Use. 
+              By accessing and using CourseLoot, you accept and agree to be bound by these Terms of Use. 
               If you do not agree to these terms, please do not use our website.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">2. Use License</h2>
-            <p className="mb-4">Permission is granted to temporarily download one copy of the materials (PDFs) from FreeCodingPDF for personal, non-commercial use only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
+            <p className="mb-4">Permission is granted to temporarily download one copy of the materials (PDFs) from CourseLoot for personal, non-commercial use only. This is the grant of a license, not a transfer of title, and under this license you may not:</p>
             <ul className="list-disc pl-6 mb-4 space-y-2">
               <li>Modify or copy the materials</li>
               <li>Use the materials for any commercial purpose</li>
@@ -48,7 +48,7 @@ export default function TermsOfUse() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">3. Disclaimer</h2>
             <p className="mb-4">
-              The materials on FreeCodingPDF are provided on an 'as is' basis. FreeCodingPDF makes no warranties, 
+              The materials on CourseLoot are provided on an 'as is' basis. CourseLoot makes no warranties, 
               expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, 
               implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement 
               of intellectual property or other violation of rights.
@@ -58,16 +58,16 @@ export default function TermsOfUse() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">4. Limitations</h2>
             <p className="mb-4">
-              In no event shall FreeCodingPDF or its suppliers be liable for any damages (including, without limitation, 
+              In no event shall CourseLoot or its suppliers be liable for any damages (including, without limitation, 
               damages for loss of data or profit, or due to business interruption) arising out of the use or inability 
-              to use the materials on FreeCodingPDF's website.
+              to use the materials on CourseLoot's website.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">5. Copyright and Intellectual Property</h2>
             <p className="mb-4">
-              The PDFs and materials available on FreeCodingPDF are either owned by us, licensed to us, or are being 
+              The PDFs and materials available on CourseLoot are either owned by us, licensed to us, or are being 
               used under fair use doctrine for educational purposes. All materials are protected by applicable copyright 
               and trademark laws.
             </p>
@@ -88,8 +88,8 @@ export default function TermsOfUse() {
             <h2 className="text-2xl font-semibold mb-4">7. Contact Information</h2>
             <p className="mb-4">
               If you have any questions about these Terms of Use, please contact us at:{" "}
-              <Link href="mailto:contact@freecodingpdf.live" className="text-blue-600 hover:underline">
-                contact@freecodingpdf.live
+              <Link href="mailto:contact@CourseLoot.live" className="text-blue-600 hover:underline">
+                contact@CourseLoot.live
               </Link>
             </p>
           </section>

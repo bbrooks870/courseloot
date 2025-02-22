@@ -4,8 +4,8 @@ export async function generateMetadata({ params }: { params: { category: string 
   const category = decodeURIComponent(params.category)
   
   return {
-    title: `${category} Programming PDFs & eBooks | FreeCodingPDF`,
-    description: `Download free ${category} programming PDFs and eBooks. Access comprehensive guides, tutorials, and resources for ${category} development and coding.`,
+    title: `${category} Courses At Cheap prices | CourseLoot`,
+    description: `Download free ${category} Courses At Cheap prices. Access comprehensive guides, tutorials, and resources for ${category} development and coding.`,
     keywords: [
       category,
       "programming pdfs",
@@ -19,13 +19,13 @@ export async function generateMetadata({ params }: { params: { category: string 
       "technical documentation"
     ],
     openGraph: {
-      title: `${category} Programming PDFs & eBooks | FreeCodingPDF`,
-      description: `Access free ${category} programming PDFs and coding eBooks. Learn ${category} with comprehensive guides at FreeCodingPDF.com.`,
-      url: `https://freecodingpdf.live/category/${params.category}`,
+      title: `${category} Courses At Cheap prices | CourseLoot`,
+      description: `Access free ${category} programming PDFs and coding eBooks. Learn ${category} with comprehensive guides at CourseLoot.com.`,
+      url: `https://CourseLoot.live/category/${params.category}`,
       type: "website",
       images: [
         {
-          url: "https://freecodingpdf.live/preview-image.jpg",
+          url: "https://CourseLoot.live/preview-image.jpg",
           width: 1200,
           height: 630,
           alt: `${category} Programming PDFs`
@@ -34,11 +34,11 @@ export async function generateMetadata({ params }: { params: { category: string 
     },
     twitter: {
       card: "summary_large_image",
-      title: `${category} Programming PDFs & eBooks | FreeCodingPDF`,
-      description: `Download free ${category} programming PDFs and eBooks. Master ${category} with our comprehensive resources.`,
+      title: `${category} Courses At Cheap prices | CourseLoot`,
+      description: `Download free ${category} Courses At Cheap prices. Master ${category} with our comprehensive resources.`,
       images: [
         {
-          url: "https://freecodingpdf.live/preview-image.jpg",
+          url: "https://CourseLoot.live/preview-image.jpg",
           width: 1200,
           height: 675,
           alt: `${category} Programming PDFs`
@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: { params: { category: string 
       ]
     },
     alternates: {
-      canonical: `https://freecodingpdf.live/category/${params.category}`
+      canonical: `https://CourseLoot.live/category/${params.category}`
     }
   }
 } 

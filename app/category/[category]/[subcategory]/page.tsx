@@ -29,17 +29,17 @@ function SubCategoryPageContent() {
   return (
     <>
       <SEO 
-        title={`${subcategory} - ${category} | Programming PDFs | FreeCodingPDF`}
-        description={`Read and download programming PDFs from ${subcategory} in ${category}. Access comprehensive coding resources at FreeCodingPDF.live.`}
-        ogDescription={`Explore programming PDFs from ${subcategory} in ${category}. Access free resources at FreeCodingPDF.live.`}
-        twitterDescription={`Browse programming PDFs in ${subcategory} from ${category}. Read and download coding resources at FreeCodingPDF.live.`}
-        canonicalUrl={`https://freecodingpdf.live/category/${encodeURIComponent(category)}/${encodeURIComponent(subcategory)}`}
+        title={`${subcategory} - ${category} | Programming PDFs | CourseLoot`}
+        description={`Read and download programming PDFs from ${subcategory} in ${category}. Access comprehensive coding resources at CourseLoot.live.`}
+        ogDescription={`Explore programming PDFs from ${subcategory} in ${category}. Access free resources at CourseLoot.live.`}
+        twitterDescription={`Browse programming PDFs in ${subcategory} from ${category}. Read and download coding resources at CourseLoot.live.`}
+        canonicalUrl={`https://CourseLoot.live/category/${encodeURIComponent(category)}/${encodeURIComponent(subcategory)}`}
         keywords={[
           category,
           subcategory,
           "Programming PDFs",
           "Coding Resources",
-          "FreeCodingPDF",
+          "CourseLoot",
           "Development Guides",
           "Technical Books",
           "Learning Resources",

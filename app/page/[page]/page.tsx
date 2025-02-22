@@ -92,7 +92,7 @@ export default function AllPDFsPage({ params }: { params: { page: string } }) {
   return (
     <div className="container mx-auto px-4 py-8">
       {breadcrumbs}
-      <h1 className="text-4xl font-bold mb-8 text-center">Programming PDFs and eBooks - Page {currentPage}</h1>
+      <h1 className="text-4xl font-bold mb-8 text-center">Courses At Cheap prices - Page {currentPage}</h1>
       <h2 className="text-2xl font-semibold mb-8 text-center text-gray-600">
         Showing Page {currentPage} of {totalPages}
       </h2>

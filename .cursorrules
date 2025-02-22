@@ -1,4 +1,4 @@
-# FreeCodingPDF Website Configuration Guide
+# CourseLoot Website Configuration Guide
 
 ## Core Files to Modify for New PDF Website
 
@@ -39,7 +39,7 @@
         - Change contact information
 
 3. Branding Elements
-   - Update site name in all titles (currently "FreeCodingPDF")
+   - Update site name in all titles (currently "CourseLoot")
    - Change email: contact@yourdomain.com
    - Update social media links in contact page
    - Modify logo and favicon
@@ -146,7 +146,7 @@
 
 1. Clone repository
 2. Update videos.ts with new content
-3. Find/replace "FreeCodingPDF" with your site name
+3. Find/replace "CourseLoot" with your site name
 4. Update metadata in all layout files
 5. Replace favicon and images
 6. Customize contact information

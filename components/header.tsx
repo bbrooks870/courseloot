@@ -22,7 +22,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-4">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between space-y-4 md:space-y-0">
           <Link href="/" className="text-2xl font-bold text-blue-600 text-center md:text-left">
-            FreeCodingPDF
+            CourseLoot
           </Link>
           <div className="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-4">
             <form onSubmit={handleSearch} className="relative w-full md:w-auto">

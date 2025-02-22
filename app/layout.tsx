@@ -8,10 +8,10 @@ import Script from "next/script"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
-  description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  title: "CourseLoot: Courses At Cheap prices",
+  description: "Find courses at cheap prices on CourseLoot.",
   keywords: [
-    "FreeCodingPDFs",
+    "CourseLoot",
     "programming ebooks",
     "download programming books",
     "learn coding online",
@@ -27,9 +27,9 @@ export const metadata: Metadata = {
     "Mobile Development",
     "Cloud Computing"
   ],
-  authors: [{ name: "FreeCodingPDF.live" }],
-  creator: "FreeCodingPDF.live",
-  publisher: "FreeCodingPDF.live",
+  authors: [{ name: "CourseLoot" }],
+  creator: "CourseLoot",
+  publisher: "CourseLoot",
   formatDetection: {
     email: false,
     address: false,
@@ -43,30 +43,30 @@ export const metadata: Metadata = {
   manifest: "/site.webmanifest",
   openGraph: {
     type: "website",
-    url: "https://freecodingpdf.live",
-    title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
-    description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
-    siteName: "FreeCodingPDF",
+    url: "https://courseloot.com",
+    title: "CourseLoot: Courses At Cheap prices",
+    description: "Find courses at cheap prices on CourseLoot.",
+    siteName: "CourseLoot",
     images: [
       {
-        url: "https://freecodingpdf.live/preview-image.jpg",
+        url: "https://courseloot.com/preview-image.jpg",
         width: 1200,
         height: 630,
-        alt: "FreeCodingPDF - Programming eBooks Library"
+        alt: "CourseLoot - Programming eBooks Library"
       }
     ]
   },
   twitter: {
     card: "summary_large_image",
-    title: "FreeCodingPDF – Download Free Programming PDFs & eBooks",
-    description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
-    creator: "@freecodingpdf",
+    title: "CourseLoot: Courses At Cheap prices",
+    description: "Find courses at cheap prices on CourseLoot.",
+    creator: "@CourseLoot",
     images: [
       {
-        url: "https://freecodingpdf.live/preview-image.jpg",
+        url: "https://courseloot.com/preview-image.jpg",
         width: 1200,
         height: 675,
-        alt: "FreeCodingPDF - Programming eBooks Library"
+        alt: "CourseLoot - Programming eBooks Library"
       }
     ]
   },
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://freecodingpdf.live"
+    canonical: "https://courseloot.com"
   },
   verification: {
     google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
@@ -99,23 +99,23 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  name: "FreeCodingPDF",
-  url: "https://freecodingpdf.live",
-  description: "Get FreeCodingPDFs and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
-  image: "https://freecodingpdf.live/preview-image.jpg",
+  name: "CourseLoot",
+  url: "https://CourseLoot.live",
+  description: "Get CourseLoots and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
+  image: "https://CourseLoot.live/preview-image.jpg",
   publisher: {
     "@type": "Organization",
-    name: "FreeCodingPDF",
+    name: "CourseLoot",
     logo: {
       "@type": "ImageObject",
-      url: "https://freecodingpdf.live/logo.png"
+      url: "https://CourseLoot.live/logo.png"
     }
   },
   potentialAction: {
     "@type": "SearchAction",
     target: {
       "@type": "EntryPoint",
-      urlTemplate: "https://freecodingpdf.live/search?q={search_term_string}"
+      urlTemplate: "https://CourseLoot.live/search?q={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   }

@@ -4,8 +4,8 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Contact Us | Programming PDFs & eBooks - FreeCodingPDF",
-  description: "Get in touch with us for any questions, feedback, or support regarding FreeCodingPDF. We're here to help you with your programming learning journey.",
+  title: "Contact Us | Courses At Cheap prices - CourseLoot",
+  description: "Get in touch with us for any questions, feedback, or support regarding CourseLoot. We're here to help you with your programming learning journey.",
 }
 
 export default function Contact() {
@@ -38,10 +38,10 @@ export default function Contact() {
                   <div>
                     <h3 className="font-medium">Email</h3>
                     <Link 
-                      href="mailto:contact@freecodingpdf.live"
+                      href="mailto:contact@CourseLoot.live"
                       className="text-blue-600 hover:underline"
                     >
-                      contact@freecodingpdf.live
+                      contact@CourseLoot.live
                     </Link>
                   </div>
                 </div>
@@ -111,7 +111,7 @@ export default function Contact() {
             <CardContent className="p-6">
               <h2 className="text-2xl font-semibold mb-4">About Our PDFs</h2>
               <p className="text-gray-600">
-                FreeCodingPDF provides free access to programming and development resources. 
+                CourseLoot provides free access to programming and development resources. 
                 All our PDFs are carefully curated to help you learn and improve your coding skills.
               </p>
             </CardContent>

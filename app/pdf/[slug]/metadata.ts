@@ -8,7 +8,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   
   if (!pdf) {
     return {
-      title: "PDF Not Found | FreeCodingPDF",
+      title: "PDF Not Found | CourseLoot",
       description: "The requested programming PDF could not be found."
     }
   }
@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const title = pdf.Name.replace('.pdf', '')
   
   return {
-    title: `${title} PDF Free Download | FreeCodingPDF`,
+    title: `${title} PDF Free Download | CourseLoot`,
     description: `Download ${title} PDF or read online for free. Access this comprehensive programming guide from the ${pdf.Categories} category. Perfect for learning and reference.`,
     keywords: [
       title,
@@ -31,13 +31,13 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       "Learn to Code"
     ],
     openGraph: {
-      title: `${title} PDF Free Download | FreeCodingPDF`,
-      description: `Read ${title} online or download PDF for free. Master programming with this comprehensive guide from the ${pdf.Categories} category at FreeCodingPDF.com.`,
-      url: `https://freecodingpdf.live/pdf/${params.slug}`,
+      title: `${title} PDF Free Download | CourseLoot`,
+      description: `Read ${title} online or download PDF for free. Master programming with this comprehensive guide from the ${pdf.Categories} category at CourseLoot.com.`,
+      url: `https://CourseLoot.live/pdf/${params.slug}`,
       type: "article",
       images: [
         {
-          url: "https://freecodingpdf.live/preview-image.jpg",
+          url: "https://CourseLoot.live/preview-image.jpg",
           width: 1200,
           height: 630,
           alt: `${title} - Programming Guide`
@@ -46,11 +46,11 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} PDF Free Download | FreeCodingPDF`,
-      description: `Access ${title} PDF for free. Learn programming with this comprehensive guide at FreeCodingPDF.com.`,
+      title: `${title} PDF Free Download | CourseLoot`,
+      description: `Access ${title} PDF for free. Learn programming with this comprehensive guide at CourseLoot.com.`,
       images: [
         {
-          url: "https://freecodingpdf.live/preview-image.jpg",
+          url: "https://CourseLoot.live/preview-image.jpg",
           width: 1200,
           height: 675,
           alt: `${title} - Programming Guide`
@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       ]
     },
     alternates: {
-      canonical: `https://freecodingpdf.live/pdf/${params.slug}`
+      canonical: `https://CourseLoot.live/pdf/${params.slug}`
     }
   }
 } 

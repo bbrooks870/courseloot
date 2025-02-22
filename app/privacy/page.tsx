@@ -3,8 +3,8 @@ import { ChevronRight, Home } from "lucide-react"
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Programming PDFs & eBooks - FreeCodingPDF",
-  description: "Our privacy policy explains how we collect, use, and protect your personal information when you use FreeCodingPDF. Learn about our data practices and your privacy rights.",
+  title: "Privacy Policy | Courses At Cheap prices - CourseLoot",
+  description: "Our privacy policy explains how we collect, use, and protect your personal information when you use CourseLoot. Learn about our data practices and your privacy rights.",
 }
 
 export default function PrivacyPolicy() {
@@ -27,7 +27,7 @@ export default function PrivacyPolicy() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold mb-4">1. Information We Collect</h2>
-            <p className="mb-4">At FreeCodingPDF, we collect and process the following types of information:</p>
+            <p className="mb-4">At CourseLoot, we collect and process the following types of information:</p>
             <ul className="list-disc pl-6 mb-4 space-y-2">
               <li>Usage Data (pages visited, time spent, etc.)</li>
               <li>Device Information (browser type, operating system)</li>
@@ -83,8 +83,8 @@ export default function PrivacyPolicy() {
             <h2 className="text-2xl font-semibold mb-4">6. Contact Us</h2>
             <p className="mb-4">
               If you have any questions about this Privacy Policy, please contact us at:{" "}
-              <Link href="mailto:contact@freecodingpdf.live" className="text-blue-600 hover:underline">
-                contact@freecodingpdf.live
+              <Link href="mailto:contact@CourseLoot.live" className="text-blue-600 hover:underline">
+                contact@CourseLoot.live
               </Link>
             </p>
           </section>

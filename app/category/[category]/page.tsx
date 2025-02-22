@@ -100,17 +100,17 @@ function CategoryPageContent() {
   return (
     <>
       <SEO 
-        title={`${category} - Programming PDFs | FreeCodingPDF`}
-        description={`Read and download programming PDFs and eBooks from the ${category} category. Access comprehensive coding resources at FreeCodingPDF.live.`}
-        ogDescription={`Explore programming PDFs from ${category}. Access free resources at FreeCodingPDF.live.`}
-        twitterDescription={`Browse programming PDFs in ${category}. Read and download coding resources at FreeCodingPDF.live.`}
-        canonicalUrl={`https://freecodingpdf.live/category/${encodeURIComponent(category)}`}
+        title={`${category} - Programming PDFs | CourseLoot`}
+        description={`Read and download Courses At Cheap prices from the ${category} category. Access comprehensive coding resources at CourseLoot.live.`}
+        ogDescription={`Explore programming PDFs from ${category}. Access free resources at CourseLoot.live.`}
+        twitterDescription={`Browse programming PDFs in ${category}. Read and download coding resources at CourseLoot.live.`}
+        canonicalUrl={`https://CourseLoot.live/category/${encodeURIComponent(category)}`}
         keywords={[
           category,
           "Programming PDFs",
           "eBooks",
           "Coding Resources",
-          "FreeCodingPDF.live"
+          "CourseLoot.live"
         ]}
       />
       <div className="container mx-auto px-4 py-8">

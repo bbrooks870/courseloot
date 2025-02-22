@@ -8,11 +8,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const pageNumber = params.page
   
   return {
-    title: `Programming PDFs and eBooks - Page ${pageNumber} | FreeCodingPDF`,
-    description: `Browse through our collection of free programming PDFs and eBooks. Page ${pageNumber} of our comprehensive library of coding resources, tutorials, and documentation.`,
+    title: `Courses At Cheap prices - Page ${pageNumber} | CourseLoot`,
+    description: `Page ${pageNumber} of courses at cheap prices on CourseLoot.`,
     openGraph: {
-      title: `Programming PDFs and eBooks - Page ${pageNumber} | FreeCodingPDF`,
-      description: `Browse through our collection of free programming PDFs and eBooks. Page ${pageNumber} of our comprehensive library of coding resources, tutorials, and documentation.`,
+      title: `Courses At Cheap prices - Page ${pageNumber} | CourseLoot`,
+      description: `Page ${pageNumber} of courses at cheap prices on CourseLoot.`,
     },
   }
 }

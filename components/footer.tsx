@@ -8,7 +8,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* About Section */}
           <div className="space-y-4">
-            <h3 className="text-lg font-semibold text-gray-900">About FreeCodingPDF</h3>
+            <h3 className="text-lg font-semibold text-gray-900">About CourseLoot</h3>
             <p className="text-gray-600 text-sm">
               Your go-to resource for free programming and development ebooks. Learn, grow, and master coding with our extensive collection.
             </p>
@@ -76,7 +76,7 @@ export function Footer() {
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="mailto:contact@freecodingpdf.com" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <a href="mailto:contact@CourseLoot.com" className="text-gray-600 hover:text-blue-600 transition-colors">
                 <Mail className="w-5 h-5" />
               </a>
             </div>

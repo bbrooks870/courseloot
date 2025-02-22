@@ -14,17 +14,17 @@ function SearchPageContent() {
   return (
     <>
       <SEO 
-        title={`Search Results for "${query}" | Programming PDFs | FreeCodingPDF`}
-        description={`Search results for "${query}" in our collection of programming PDFs and eBooks. Find and read coding resources at FreeCodingPDF.live.`}
-        ogDescription={`Browse search results for "${query}" in our vast collection of programming PDFs. Access free resources at FreeCodingPDF.live.`}
-        twitterDescription={`Discover programming PDFs matching "${query}". Read and download coding resources at FreeCodingPDF.live.`}
-        canonicalUrl={`https://freecodingpdf.live/search?q=${encodeURIComponent(query)}`}
+        title={`Search Results for "${query}" | Programming PDFs | CourseLoot`}
+        description={`Search results for "${query}" in our collection of Courses At Cheap prices. Find and read coding resources at CourseLoot.live.`}
+        ogDescription={`Browse search results for "${query}" in our vast collection of programming PDFs. Access free resources at CourseLoot.live.`}
+        twitterDescription={`Discover programming PDFs matching "${query}". Read and download coding resources at CourseLoot.live.`}
+        canonicalUrl={`https://CourseLoot.live/search?q=${encodeURIComponent(query)}`}
         keywords={[
           query,
           "Programming PDFs",
           "eBooks",
           "Coding Resources",
-          "FreeCodingPDF",
+          "CourseLoot",
           "Search"
         ]}
       />

@@ -1,8 +1,8 @@
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Browse Categories | Programming PDFs & eBooks - FreeCodingPDF",
-  description: "Explore our comprehensive collection of programming PDFs and eBooks by category. Find free resources for web development, mobile development, data science, and more.",
+  title: "Browse Categories | Courses At Cheap prices - CourseLoot",
+  description: "Browse various categories of courses at cheap prices on CourseLoot.",
 }
 
 export default function CategoriesLayout({
