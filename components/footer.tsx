@@ -10,7 +10,7 @@ export function Footer() {
           <div className="space-y-4">
             <h3 className="text-lg font-semibold text-gray-900">About CourseLoot</h3>
             <p className="text-gray-600 text-sm">
-              Your go-to resource for free programming and development ebooks. Learn, grow, and master coding with our extensive collection.
+              CourseLoot is a platform that offers a wide range of courses at affordable prices. We aim to provide the best learning experience for our users.
             </p>
           </div>
 
@@ -41,23 +41,23 @@ export function Footer() {
             <h3 className="text-lg font-semibold text-gray-900">Popular Categories</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/category/Web%20Development" className="text-gray-600 hover:text-blue-600 transition-colors">
-                  Web Development
+                <Link href="/category/Marketing" className="text-gray-600 hover:text-blue-600 transition-colors">
+                Marketing
                 </Link>
               </li>
               <li>
-                <Link href="/category/Python" className="text-gray-600 hover:text-blue-600 transition-colors">
-                  Python
+                <Link href="/category/YouTube" className="text-gray-600 hover:text-blue-600 transition-colors">
+                YouTube
                 </Link>
               </li>
               <li>
-                <Link href="/category/800%2B%20Computer%20Science%20Ebooks" className="text-gray-600 hover:text-blue-600 transition-colors">
-                800+ Computer Science Ebooks
+                <Link href="/category/Trading" className="text-gray-600 hover:text-blue-600 transition-colors">
+                Trading
                 </Link>
               </li>
               <li>
-                <Link href="/category/ML" className="text-gray-600 hover:text-blue-600 transition-colors">
-                  Machine Learning
+                <Link href="/category/Funnel" className="text-gray-600 hover:text-blue-600 transition-colors">
+                Funnel
                 </Link>
               </li>
             </ul>
