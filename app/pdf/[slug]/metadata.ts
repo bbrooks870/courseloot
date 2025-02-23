@@ -16,8 +16,8 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   const title = pdf.Name.replace('.pdf', '')
   
   return {
-    title: `${title} PDF Free Download | CourseLoot`,
-    description: `Download ${title} PDF or read online for free. Access this comprehensive programming guide from the ${pdf.Categories} category. Perfect for learning and reference.`,
+    title: `${title} Course Free Download | CourseLoot`,
+    description: `Download ${title} PDF or Course At Cheap Price. Access this comprehensive programming guide from the ${pdf.Categories} category. Perfect for learning and reference.`,
     keywords: [
       title,
       pdf.Categories,
@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       "Learn to Code"
     ],
     openGraph: {
-      title: `${title} PDF Free Download | CourseLoot`,
+      title: `${title} Course Free Download | CourseLoot`,
       description: `Read ${title} online or download PDF for free. Master programming with this comprehensive guide from the ${pdf.Categories} category at CourseLoot.com.`,
       url: `https://CourseLoot.live/pdf/${params.slug}`,
       type: "article",
@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     },
     twitter: {
       card: "summary_large_image",
-      title: `${title} PDF Free Download | CourseLoot`,
+      title: `${title} Course Free Download | CourseLoot`,
       description: `Access ${title} PDF for free. Learn programming with this comprehensive guide at CourseLoot.com.`,
       images: [
         {

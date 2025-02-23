@@ -39,7 +39,7 @@ export function Header() {
               <ul className="flex justify-center md:justify-start space-x-6">
                 <li>
                   <Link href="/page/1" className="text-gray-600 hover:text-blue-600">
-                    All PDFs
+                    All Courses
                   </Link>
                 </li>
                 <li>

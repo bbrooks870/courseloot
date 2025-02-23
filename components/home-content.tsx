@@ -17,9 +17,9 @@ export function HomeContent() {
             <Card className="border-none shadow-lg hover:shadow-xl transition-all duration-300 bg-white/50 backdrop-blur-sm">
               <CardContent className="p-6">
                 <Terminal className="w-12 h-12 text-blue-600 mb-4" />
-                <h3 className="text-xl font-semibold mb-2">Comprehensive Library</h3>
+                <h3 className="text-xl font-semibold mb-2">Affordable Pricing</h3>
                 <p className="text-gray-600">
-                  Access thousands of programming books, from beginner tutorials to advanced guides.
+                  Find courses that fit your budget without compromising on quality.
                 </p>
               </CardContent>
             </Card>
@@ -27,9 +27,9 @@ export function HomeContent() {
             <Card className="border-none shadow-lg hover:shadow-xl transition-all duration-300 bg-white/50 backdrop-blur-sm">
               <CardContent className="p-6">
                 <Brain className="w-12 h-12 text-purple-600 mb-4" />
-                <h3 className="text-xl font-semibold mb-2">Learn Any Language</h3>
+                <h3 className="text-xl font-semibold mb-2">Diverse Course Selection</h3>
                 <p className="text-gray-600">
-                  Python, JavaScript, Java, C++, and more - all the popular programming languages covered.
+                  Explore a wide range of topics, from programming to business skills.
                 </p>
               </CardContent>
             </Card>
@@ -37,9 +37,9 @@ export function HomeContent() {
             <Card className="border-none shadow-lg hover:shadow-xl transition-all duration-300 bg-white/50 backdrop-blur-sm">
               <CardContent className="p-6">
                 <Rocket className="w-12 h-12 text-green-600 mb-4" />
-                <h3 className="text-xl font-semibold mb-2">Latest Technologies</h3>
+                <h3 className="text-xl font-semibold mb-2">Expert Instructors</h3>
                 <p className="text-gray-600">
-                  Stay updated with books on AI, Machine Learning, Web Dev, Mobile Apps, and Cloud Computing.
+                  Learn from experienced professionals and industry experts.
                 </p>
               </CardContent>
             </Card>
@@ -47,9 +47,9 @@ export function HomeContent() {
             <Card className="border-none shadow-lg hover:shadow-xl transition-all duration-300 bg-white/50 backdrop-blur-sm">
               <CardContent className="p-6">
                 <Zap className="w-12 h-12 text-yellow-500 mb-4" />
-                <h3 className="text-xl font-semibold mb-2">Free Forever</h3>
+                <h3 className="text-xl font-semibold mb-2">Flexible Learning</h3>
                 <p className="text-gray-600">
-                  All programming PDFs are completely free to download and read. No subscriptions needed.
+                  Learn at your own pace, anytime, anywhere.
                 </p>
               </CardContent>
             </Card>
@@ -58,7 +58,7 @@ export function HomeContent() {
           <div className="text-center mt-12">
             <Link href="/page/1" passHref>
               <Button size="lg" className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white shadow-lg hover:shadow-xl transition-all duration-300">
-                Explore All Programming PDFs
+                All Courses 
               </Button>
             </Link>
           </div>

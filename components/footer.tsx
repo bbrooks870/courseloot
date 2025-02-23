@@ -20,7 +20,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <Link href="/page/1" className="text-gray-600 hover:text-blue-600 transition-colors">
-                  All PDFs
+                  All Courses
                 </Link>
               </li>
               <li>

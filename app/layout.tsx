@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     siteName: "CourseLoot",
     images: [
       {
-        url: "https://courseloot.com/preview-image.jpg",
+        url: "https://courseheistshop.info/preview-image.jpg",
         width: 1200,
         height: 630,
         alt: "CourseLoot - Programming eBooks Library"
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
     creator: "@CourseLoot",
     images: [
       {
-        url: "https://courseloot.com/preview-image.jpg",
+        url: "https://courseheistshop.info/preview-image.jpg",
         width: 1200,
         height: 675,
         alt: "CourseLoot - Programming eBooks Library"

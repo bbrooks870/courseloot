@@ -74,7 +74,7 @@ export default function AllPDFsPage({ params }: { params: { page: string } }) {
         Home
       </Link>
       <ChevronRight className="h-4 w-4" />
-      <span className="text-gray-900">All PDFs</span>
+      <span className="text-gray-900">All Courses</span>
     </div>
   )
 
