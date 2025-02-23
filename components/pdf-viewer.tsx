@@ -126,13 +126,13 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
                 <div className="md:w-2/3">
                   <h2 className="text-2xl font-semibold mb-4 text-blue-600">📌 About {title} PDF</h2>
                   <p className="mb-4 text-gray-700">
-                    {title} is a must-read for programmers, covering essential concepts in {category}. Perfect for beginners and professionals alike.
+                    {title} is a best course ever, covering essential concepts in {category}. Perfect for beginners and professionals alike.
                   </p>
                   <ul className="list-disc pl-6 mb-6 text-gray-700">
                     <li>✔️ PDF Size: {size}</li>
                     <li>✔️ Categories: {category}</li>
-                    <li>✔️ Free PDF format for easy reading</li>
-                    <li>✔️ Covers real-world coding applications</li>
+                    <li>✔️ DM on <a href="https://gdls.me/wp" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Whatsapp</a></li>
+                    <li>✔️ DM on <a href="https://gdls.me/dm" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Telegram</a></li>
                     <li>✔️ Ideal for self-learners and developers</li>
                   </ul>
                   <div className="flex flex-col sm:flex-row gap-4">
@@ -181,11 +181,11 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">🛠️</span>
-                  <span><strong>Hands-on Examples</strong> – Practical exercises to improve coding skills.</span>
+                  <span><strong>Hands-on Examples</strong> – Practical exercises to improve  skills.</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">📜</span>
-                  <span><strong>Best Practices</strong> – Industry standards and clean coding techniques.</span>
+                  <span><strong>Best Practices</strong> – Industry standards and clean  techniques.</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">🔍</span>
@@ -213,7 +213,7 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">⚡</span>
-                  <span>Boost your <strong>coding skills and career</strong></span>
+                  <span>Boost your <strong> skills and career</strong></span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">📖</span>
@@ -283,7 +283,7 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
                 </AccordionItem>
                 <AccordionItem value="item-8">
                   <AccordionTrigger>🛠️ What tools do I need to follow along?</AccordionTrigger>
-                  <AccordionContent>Basic coding tools like VS Code, Python, and a browser are enough.</AccordionContent>
+                  <AccordionContent>Basic  tools like VS Code, Python, and a browser are enough.</AccordionContent>
                 </AccordionItem>
                 <AccordionItem value="item-9">
                   <AccordionTrigger>🔓 Is {title} free to download?</AccordionTrigger>
@@ -301,7 +301,7 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
         <div>
           <Card>
             <CardContent className="p-6">
-              <h2 className="text-2xl font-semibold mb-4 text-blue-600">📚 Related Books</h2>
+              <h2 className="text-2xl font-semibold mb-4 text-blue-600">📚 Related Courses</h2>
               {error ? (
                 <Alert variant="destructive">
                   <AlertTriangle className="h-4 w-4" />
