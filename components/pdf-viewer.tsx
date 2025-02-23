@@ -133,7 +133,7 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
                 <div className="md:w-2/3">
                   <h2 className="text-2xl font-semibold mb-4 text-blue-600">📌 About {title} PDF</h2>
                   <p className="mb-4 text-gray-700">
-                    {title} is a best course ever, covering essential concepts in {category}. Perfect for beginners and professionals alike.
+                    {title} is a best course ever, covering essential concepts in {category}. You can Contact me on Whatsapp or Telegram to get the course.
                   </p>
                   <ul className="list-disc pl-6 mb-6 text-gray-700">
                     <li>✔️ PDF Size: {size}</li>
