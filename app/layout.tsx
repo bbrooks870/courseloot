@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   manifest: "/site.webmanifest",
   openGraph: {
     type: "website",
-    url: "https://courseloot.com",
+    url: "https://courseheistshop.info",
     title: "CourseLoot: Courses At Cheap prices",
     description: "Find courses at cheap prices on CourseLoot.",
     siteName: "CourseLoot",
@@ -82,7 +82,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://courseloot.com"
+    canonical: "https://courseheistshop.info"
   },
   verification: {
     google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
@@ -135,7 +135,7 @@ export default function RootLayout({
         />
         {/* Google Analytics */}
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-8E2E3V1KGP"
+          src="https://www.googletagmanager.com/gtag/js?id=G-E5YJDKF38M"
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -144,7 +144,7 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-8E2E3V1KGP');
+            gtag('config', 'G-E5YJDKF38M');
           `}
         </Script>
       </head>
