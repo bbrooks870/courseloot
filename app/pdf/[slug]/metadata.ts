@@ -33,11 +33,11 @@ export async function generateMetadata({ params }: { params: { slug: string } })
     openGraph: {
       title: `${title} Course Free Download | CourseLoot`,
       description: `Read ${title} online or download PDF for free. Master programming with this comprehensive guide from the ${pdf.Categories} category at CourseLoot.com.`,
-      url: `https://CourseLoot.live/pdf/${params.slug}`,
+      url: `https://courseheistshop.info/pdf/${params.slug}`,
       type: "article",
       images: [
         {
-          url: "https://CourseLoot.live/preview-image.jpg",
+          url: "https://courseheistshop.info/preview-image.jpg",
           width: 1200,
           height: 630,
           alt: `${title} - Programming Guide`
@@ -50,7 +50,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       description: `Access ${title} PDF for free. Learn programming with this comprehensive guide at CourseLoot.com.`,
       images: [
         {
-          url: "https://CourseLoot.live/preview-image.jpg",
+          url: "https://courseheistshop.info/preview-image.jpg",
           width: 1200,
           height: 675,
           alt: `${title} - Programming Guide`
@@ -58,7 +58,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       ]
     },
     alternates: {
-      canonical: `https://CourseLoot.live/pdf/${params.slug}`
+      canonical: `https://courseheistshop.info/pdf/${params.slug}`
     }
   }
 } 

@@ -100,22 +100,22 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "CourseLoot",
-  url: "https://CourseLoot.live",
+  url: "https://courseheistshop.info",
   description: "Get CourseLoots and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
-  image: "https://CourseLoot.live/preview-image.jpg",
+  image: "https://courseheistshop.info/preview-image.jpg",
   publisher: {
     "@type": "Organization",
     name: "CourseLoot",
     logo: {
       "@type": "ImageObject",
-      url: "https://CourseLoot.live/logo.png"
+      url: "https://courseheistshop.info/logo.png"
     }
   },
   potentialAction: {
     "@type": "SearchAction",
     target: {
       "@type": "EntryPoint",
-      urlTemplate: "https://CourseLoot.live/search?q={search_term_string}"
+      urlTemplate: "https://courseheistshop.info/search?q={search_term_string}"
     },
     "query-input": "required name=search_term_string"
   }

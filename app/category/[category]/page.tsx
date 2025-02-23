@@ -104,7 +104,7 @@ function CategoryPageContent() {
         description={`Read and download Courses At Cheap prices from the ${category} category. Access comprehensive coding resources at CourseLoot.live.`}
         ogDescription={`Explore programming PDFs from ${category}. Access free resources at CourseLoot.live.`}
         twitterDescription={`Browse programming PDFs in ${category}. Read and download coding resources at CourseLoot.live.`}
-        canonicalUrl={`https://CourseLoot.live/category/${encodeURIComponent(category)}`}
+        canonicalUrl={`https://courseheistshop.info/category/${encodeURIComponent(category)}`}
         keywords={[
           category,
           "Programming PDFs",

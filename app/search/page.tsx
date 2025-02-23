@@ -18,7 +18,7 @@ function SearchPageContent() {
         description={`Search results for "${query}" in our collection of Courses At Cheap prices. Find and read coding resources at CourseLoot.live.`}
         ogDescription={`Browse search results for "${query}" in our vast collection of programming PDFs. Access free resources at CourseLoot.live.`}
         twitterDescription={`Discover programming PDFs matching "${query}". Read and download coding resources at CourseLoot.live.`}
-        canonicalUrl={`https://CourseLoot.live/search?q=${encodeURIComponent(query)}`}
+        canonicalUrl={`https://courseheistshop.info/search?q=${encodeURIComponent(query)}`}
         keywords={[
           query,
           "Programming PDFs",

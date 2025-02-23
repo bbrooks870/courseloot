@@ -21,11 +21,11 @@ export async function generateMetadata({ params }: { params: { category: string 
     openGraph: {
       title: `${category} Courses At Cheap prices | CourseLoot`,
       description: `Access free ${category} programming PDFs and coding eBooks. Learn ${category} with comprehensive guides at CourseLoot.com.`,
-      url: `https://CourseLoot.live/category/${params.category}`,
+      url: `https://courseheistshop.info/category/${params.category}`,
       type: "website",
       images: [
         {
-          url: "https://CourseLoot.live/preview-image.jpg",
+          url: "https://courseheistshop.info/preview-image.jpg",
           width: 1200,
           height: 630,
           alt: `${category} Programming PDFs`
@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: { params: { category: string 
       description: `Download free ${category} Courses At Cheap prices. Master ${category} with our comprehensive resources.`,
       images: [
         {
-          url: "https://CourseLoot.live/preview-image.jpg",
+          url: "https://courseheistshop.info/preview-image.jpg",
           width: 1200,
           height: 675,
           alt: `${category} Programming PDFs`
@@ -46,7 +46,7 @@ export async function generateMetadata({ params }: { params: { category: string 
       ]
     },
     alternates: {
-      canonical: `https://CourseLoot.live/category/${params.category}`
+      canonical: `https://courseheistshop.info/category/${params.category}`
     }
   }
 } 

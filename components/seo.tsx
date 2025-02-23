@@ -18,7 +18,7 @@ export function SEO({
   description = "Get CourseLoots and programming eBooks for Python, Java, JavaScript, C++, Web Development, AI, and more. Download and start learning today!",
   ogDescription = "Access thousands of free programming PDFs and coding eBooks. Master programming with comprehensive developer guides and tutorials.",
   twitterDescription = "Download free programming PDFs and coding eBooks. Learn Python, JavaScript, Java, C++, and more at CourseLoot.com",
-  canonicalUrl = "https://CourseLoot.live",
+  canonicalUrl = "https://courseheistshop.info",
   keywords = [
     "CourseLoots",
     "programming ebooks",
@@ -34,8 +34,8 @@ export function SEO({
     "Machine Learning",
     "Data Science"
   ],
-  ogImage = "https://CourseLoot.live/preview-image.jpg",
-  twitterImage = "https://CourseLoot.live/preview-image.jpg",
+  ogImage = "https://courseheistshop.info/preview-image.jpg",
+  twitterImage = "https://courseheistshop.info/preview-image.jpg",
   type = "website",
   author = "CourseLoot.live"
 }: SEOProps) {

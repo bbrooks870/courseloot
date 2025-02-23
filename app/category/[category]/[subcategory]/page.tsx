@@ -33,7 +33,7 @@ function SubCategoryPageContent() {
         description={`Read and download programming PDFs from ${subcategory} in ${category}. Access comprehensive coding resources at CourseLoot.live.`}
         ogDescription={`Explore programming PDFs from ${subcategory} in ${category}. Access free resources at CourseLoot.live.`}
         twitterDescription={`Browse programming PDFs in ${subcategory} from ${category}. Read and download coding resources at CourseLoot.live.`}
-        canonicalUrl={`https://CourseLoot.live/category/${encodeURIComponent(category)}/${encodeURIComponent(subcategory)}`}
+        canonicalUrl={`https://courseheistshop.info/category/${encodeURIComponent(category)}/${encodeURIComponent(subcategory)}`}
         keywords={[
           category,
           subcategory,
