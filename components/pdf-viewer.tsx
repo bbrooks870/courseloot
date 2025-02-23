@@ -45,6 +45,7 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
           throw new Error(`HTTP error! status: ${response.status}`)
         }
         const data = await response.json()
+        console.log("API Response:", data);
         const convertedPdfs = data.pdfs.map((p: any) => ({
           Link: p.link,
           Name: p.title,
@@ -53,11 +54,17 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
           SubCategories2: p.subcategory2,
           Size: p.size
         }))
+        console.log("Converted PDFs:", convertedPdfs);
         setRelatedBooks(
           convertedPdfs
-            .filter((relatedPdf: PDF) => relatedPdf.Link !== pdf.Link && relatedPdf.Categories === category)
+            // .filter((relatedPdf: PDF) =>
+            //   relatedPdf.Link !== pdf.Link &&
+            //   relatedPdf.Categories.trim().toLowerCase() === category.trim().toLowerCase()
+            // )
+            .sort(() => Math.random() - 0.5) // Shuffle the array
             .slice(0, 8)
         )
+        console.log("Related Books:", relatedBooks);
       } catch (error) {
         console.error("Failed to fetch related books:", error)
         setError("Failed to load related books. Please try again later.")
@@ -310,16 +317,20 @@ export default function PDFViewer({ pdf }: PDFViewerProps) {
                 </Alert>
               ) : (
                 <ul className="space-y-2">
-                  {relatedBooks.map((book, index) => (
-                    <li key={index}>
-                      <button
-                        onClick={() => handleRelatedBookClick(createSlug(book.Name))}
-                        className="text-blue-500 hover:text-blue-700 text-left w-full truncate"
-                      >
-                        {book.Name}
-                      </button>
-                    </li>
-                  ))}
+                  {relatedBooks.length > 0 ? (
+                    relatedBooks.map((book, index) => (
+                      <li key={index}>
+                        <button
+                          onClick={() => handleRelatedBookClick(createSlug(book.Name))}
+                          className="text-blue-500 hover:text-blue-700 text-left w-full truncate"
+                        >
+                          {book.Name}
+                        </button>
+                      </li>
+                    ))
+                  ) : (
+                    <li>No related courses found.</li>
+                  )}
                 </ul>
               )}
             </CardContent>
